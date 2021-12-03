@@ -1,0 +1,26 @@
+Type;Dataset;Change Point
+Stable;0017.csv;0
+Stable;0021.csv;0
+Stable;0022.csv;0
+Stable;0023.csv;0
+Stable;0024.csv;0
+Spike;0000.csv;0
+Spike;0001.csv;0
+Spike;0004.csv;0
+Spike;0014.csv;0
+Spike;0015.csv;0
+regression;0002.csv;54
+regression;0011.csv;98
+regression;0012.csv;88
+regression;0013.csv;117
+regression;0016.csv;155
+High deviation ;0006.csv;0
+High deviation ;0007.csv;0
+High deviation ;0018.csv;0
+High deviation ;0019.csv;0
+High deviation ;0020.csv;0
+Build-dependent;0003.csv;0
+Build-dependent;0005.csv;0
+Build-dependent;0008.csv;0
+Build-dependent;0009.csv;0
+Build-dependent;0010.csv;0
