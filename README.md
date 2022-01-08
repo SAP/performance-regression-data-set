@@ -4,4 +4,4 @@ This repository provides data sets on performance measurements to support resear
 
 Currently included:
 1) small
-  - A small data set from SAP HANA internal testing to explore the data format
+    - A small data set from SAP HANA internal testing to explore the data format
