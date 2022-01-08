@@ -1,12 +1,7 @@
-# Overview
+# Performance Regression Data Set
 
-Data sets on performance measurements to support research on performance
-regression detection.
+This repository provides data sets on performance measurements to support research on performance regression detection.
 
 Currently included:
-- small
-
-
-# Todo
-- Background about performance regression detection
-- citation files
+1) small
+  - A small data set from SAP HANA internal testing to explore the data format
