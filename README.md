@@ -173,3 +173,6 @@ Examples for citations
 
 Please inform use via issue or email if you use this data set so we can provide
 links to your work.
+
+## License
+Copyright 2021-2022 SAP SE or an SAP affiliate company and performance-regression-data-set contributors. Please see our [LICENSE](LICENSE) for copyright and license information. Detailed information including third-party components and their licensing/copyright information is available [via the REUSE tool](https://api.reuse.software/info/github.com/SAP/performance-regression-data-set).
