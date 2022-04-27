@@ -1,0 +1,7523 @@
+series_id,unit,category
+1,s,cpu time
+2,s,cpu time
+3,s,cpu time
+4,s,cpu time
+5,ms,cpu time
+6,s,cpu time
+7,s,cpu time
+8,s,runtime
+9,s,runtime
+10,s,cpu time
+11,s,cpu time
+12,s,runtime
+13,s,runtime
+14,ms,cpu time
+15,s,elapsed time
+16,ms,cpu time
+17,s,cpu time
+18,ms,cpu time
+19,s,cpu time
+20,s,elapsed time
+21,s,elapsed time
+22,s,elapsed time
+23,s,elapsed time
+24,s,elapsed time
+25,s,cpu time
+26,s,elapsed time
+27,s,cpu time
+28,ms,cpu time
+29,ms,avg. dialogue step time
+30,ms,avg. dialogue step time
+31,ms,sum of lookup time from all processes
+32,ms,avg. dialogue step time
+33,ms,elapsed time
+34,ms,avg. dialogue step time
+35,ms,cpu time
+36,ms,cpu time
+37,ms,cpu time
+38,ms,elapsed time
+39,ms,cpu time
+40,ms,avg. lookup time
+41,ms,avg. lookup time
+42,ms,cpu time
+43,ms,elapsed time
+44,ms,cpu time
+45,ms,avg. lookup time
+46,ms,avg. lookup time
+47,ms,cpu time
+48,ms,cpu time
+49,ms,sum of cpu time from all processes
+50,ms,cpu time
+51,ms,cpu time
+52,ms,elapsed time
+53,ms,elapsed time
+54,ms,elapsed time
+55,ms,cpu time
+56,ms,elapsed time
+57,ms,elapsed time
+58,ms,cpu time
+59,ms,cpu time
+60,ms,cpu time
+61,ms,cpu time
+62,ms,cpu time
+63,ms,cpu time
+64,ms,elapsed time
+65,ms,elapsed time
+66,ms,elapsed time
+67,ms,elapsed time
+68,ms,elapsed time
+69,ms,elapsed time
+70,ms,cpu time
+71,ms,elapsed time
+72,ms,elapsed time
+73,ms,elapsed time
+74,ms,elapsed time
+75,ms,elapsed time
+76,ms,elapsed time
+77,ms,avg. lookup time
+78,ms,elapsed time
+79,ms,elapsed time
+80,s,elapsed time
+81,ms,sum of cpu time from all processes
+82,ms,elapsed time
+83,ms,cpu time
+84,s,cpu time
+85,ms,cpu time
+86,s,cpu time
+87,s,cpu time
+88,s,cpu time
+89,s,cpu time
+90,s,cpu time
+91,s,cpu time
+92,s,cpu time
+93,s,cpu time
+94,s,cpu time
+95,s,cpu time
+96,s,elapsed time
+97,s,elapsed time
+98,s,elapsed time
+99,s,elapsed time
+100,s,elapsed time
+101,s,runtime
+102,s,cpu time
+103,s,runtime
+104,s,elapsed time
+105,s,elapsed time
+106,s,runtime
+107,s,runtime
+108,s,runtime
+109,s,runtime
+110,ms,sum of lookup time from all processes
+111,ms,elapsed time
+112,ms,elapsed time
+113,ms,sum of lookup time from all processes
+114,ms,elapsed time
+115,ms,elapsed time
+116,ms,elapsed time
+117,ms,cpu time
+118,ms,elapsed time
+119,ms,elapsed time
+120,ms,cpu time
+121,s,cpu time
+122,s,elapsed time
+123,s,cpu time
+124,s,cpu time
+125,s,elapsed time
+126,s,elapsed time
+127,ms,cpu time
+128,s,cpu time
+129,s,elapsed time
+130,ms,cpu time
+131,ms,cpu time
+132,ms,elapsed time
+133,ms,elapsed time
+134,ms,cpu time
+135,ms,elapsed time
+136,ms,elapsed time
+137,ms,elapsed time
+138,ms,elapsed time
+139,ms,elapsed time
+140,ms,elapsed time
+141,ms,elapsed time
+142,ms,elapsed time
+143,ms,elapsed time
+144,ms,elapsed time
+145,ms,elapsed time
+146,ms,elapsed time
+147,ms,elapsed time
+148,ms,query cpu runtime
+149,ms,elapsed time
+150,ms,elapsed time
+151,ms,elapsed time
+152,ms,elapsed time
+153,ms,elapsed time
+154,ms,elapsed time
+155,ms,query cpu runtime
+156,ms,elapsed time
+157,ms,elapsed time
+158,ms,elapsed time
+159,ms,elapsed time
+160,ms,elapsed time
+161,ms,elapsed time
+162,ms,elapsed time
+163,ms,elapsed time
+164,ms,elapsed time
+165,ms,cpu time
+166,ms,elapsed time
+167,ms,cpu time
+168,ms,cpu time
+169,ms,cpu time
+170,ms,cpu time
+171,ms,cpu time
+172,ms,cpu time
+173,ms,total cpu time
+174,ms,cpu time
+175,ms,total cpu time
+176,ms,cpu time
+177,ms,elapsed time
+178,ms,avg. dialogue step time
+179,ms,cpu time
+180,ms,cpu time
+181,ms,cpu time
+182,ms,cpu time
+183,ms,cpu time
+184,ms,cpu time
+185,ms,elapsed time
+186,ms,elapsed time (cpu normalized)
+187,ms,cpu time
+188,ms,cpu time
+189,ms,elapsed time
+190,ms,cpu time
+191,ms,cpu time
+192,ms,cpu time
+193,ms,cpu time
+194,ms,cpu time
+195,ms,cpu time
+196,ms,elapsed time
+197,ms,cpu time
+198,ms,cpu time
+199,ms,cpu time
+200,ms,cpu time
+201,ms,cpu time
+202,ms,elapsed time
+203,ms,elapsed time
+204,ms,elapsed time
+205,ms,cpu time
+206,ms,cpu time
+207,ms,cpu time
+208,ms,cpu time
+209,ms,cpu time
+210,ms,avg. lookup time
+211,s,cpu time
+212,s,cpu time
+213,s,cpu time
+214,ms,elapsed time
+215,s,cpu time
+216,s,cpu time
+217,s,cpu time
+218,s,elapsed time
+219,s,elapsed time
+220,s,elapsed time
+221,s,elapsed time
+222,s,elapsed time
+223,s,cpu time
+224,s,cpu time
+225,ms,cpu time
+226,s,elapsed time
+227,s,elapsed time
+228,ms,cpu time
+229,ms,elapsed time
+230,ms,cpu time
+231,ms,elapsed time
+232,ms,elapsed time
+233,ms,cpu time
+234,ms,cpu time
+235,s,cpu time
+236,ms,elapsed time
+237,ms,cpu time
+238,s,cpu time
+239,s,cpu time
+240,s,cpu time
+241,s,cpu time
+242,s,elapsed time
+243,s,elapsed time
+244,s,elapsed time
+245,s,cpu time
+246,s,elapsed time
+247,s,elapsed time
+248,ms,elapsed time
+249,ms,elapsed time
+250,ms,elapsed time
+251,ms,elapsed time
+252,ms,elapsed time
+253,ms,elapsed time
+254,ms,elapsed time
+255,ms,elapsed time
+256,ms,elapsed time
+257,ms,elapsed time
+258,ms,cpu time
+259,ms,cpu time
+260,ms,avg. dialogue step time
+261,ms,cpu time
+262,ms,cpu time
+263,ms,cpu time
+264,ms,cpu time
+265,ms,cpu time
+266,ms,cpu time
+267,ms,cpu time
+268,s,cpu time
+269,ms,cpu time
+270,ms,cpu time
+271,s,elapsed time
+272,s,cpu time
+273,ms,cpu time
+274,ms,avg. dia db req. time
+275,s,cpu time
+276,s,cpu time
+277,s,cpu time
+278,s,cpu time
+279,ms,elapsed time
+280,s,elapsed time
+281,s,elapsed time
+282,s,elapsed time
+283,s,elapsed time
+284,s,elapsed time
+285,ms,elapsed time
+286,ms,elapsed time
+287,ms,elapsed time
+288,ms,cpu time
+289,ms,cpu time
+290,ms,elapsed time
+291,ms,avg. dialogue step time
+292,s,elapsed time
+293,ms,cpu time
+294,s,cpu time
+295,s,elapsed time
+296,s,cpu time
+297,s,elapsed time
+298,s,cpu time
+299,s,elapsed time
+300,s,elapsed time
+301,s,elapsed time
+302,s,cpu time
+303,s,runtime
+304,s,runtime
+305,s,elapsed time
+306,s,elapsed time
+307,s,runtime
+310,ms,elapsed time
+311,ms,cpu time
+312,ms,cpu time
+313,ms,cpu time
+314,ms,cpu time
+315,ms,cpu time
+316,ms,elapsed time
+317,ms,cpu time
+318,ms,elapsed time
+319,ms,elapsed time
+320,ms,elapsed time
+321,ms,cpu time
+322,ms,elapsed time
+323,ms,elapsed time
+324,ms,elapsed time
+325,ms,elapsed time
+326,ms,elapsed time
+327,s,cpu time
+328,s,cpu time
+329,s,cpu time
+330,ms,avg cpu time
+331,s,cpu time
+332,s,cpu time
+333,s,cpu time
+334,s,elapsed time
+335,s,cpu time
+336,s,cpu time
+337,ms,cpu time
+338,s,cpu time
+339,s,cpu time
+340,s,elapsed time
+341,s,cpu time
+342,s,cpu time
+343,s,cpu time
+344,s,elapsed time
+345,s,elapsed time
+346,s,elapsed time
+347,s,elapsed time
+348,s,cpu time
+349,s,elapsed time
+350,s,cpu time
+351,s,elapsed time
+352,s,cpu time
+353,s,elapsed time
+354,s,elapsed time
+355,s,elapsed time
+356,s,elapsed time
+357,ms,elapsed time
+358,ms,elapsed time
+359,ms,cpu time
+360,ms,cpu time
+361,ms,cpu time
+362,ms,cpu time
+363,ms,cpu time
+364,ms,cpu time
+365,ms,cpu time
+366,ms,elapsed time
+367,ms,cpu time
+368,ms,cpu time
+369,ms,cpu time
+370,ms,cpu time
+371,ms,cpu time
+372,ms,cpu time
+373,ms,cpu time
+374,ms,cpu time
+375,ms,cpu time
+376,ms,cpu time
+377,ms,cpu time
+378,ms,cpu time
+379,ms,cpu time
+380,ms,cpu time
+381,ms,cpu time
+382,ms,elapsed time
+383,ms,cpu time
+384,ms,elapsed time
+385,ms,elapsed time
+386,s,cpu time
+387,s,cpu time
+388,ms,elapsed time
+389,s,elapsed time
+390,s,elapsed time
+391,s,elapsed time
+392,s,elapsed time
+393,s,cpu time
+394,s,elapsed time
+395,s,elapsed time
+396,s,elapsed time
+397,s,elapsed time
+398,s,elapsed time
+399,s,elapsed time
+400,ms,cpu time/query
+401,s,elapsed time
+402,s,cpu time
+403,s,cpu time
+404,s,elapsed time
+405,s,cpu time
+406,s,elapsed time
+407,ms,cpu time/query
+408,s,elapsed time
+409,ms,elapsed time
+410,ms,elapsed time
+411,ms,elapsed time
+412,ms,cpu time
+413,ms,cpu time
+414,ms,elapsed time
+415,ms,cpu time
+416,ms,avg cpu time
+417,ms,elapsed time
+418,ms,elapsed time
+419,ms,elapsed time
+420,ms,cpu time
+421,ms,elapsed time
+422,ms,elapsed time
+423,ms,elapsed time
+424,ms,elapsed time
+425,ms,elapsed time
+426,ms,elapsed time
+427,ms,elapsed time
+428,ms,elapsed time
+429,s,cpu time
+430,ms,elapsed time
+431,ms,elapsed time
+432,ms,elapsed time
+433,ms,elapsed time
+434,ms,elapsed time
+435,s,cpu time
+436,ms,cpu time
+437,ms,cpu time
+438,s,elapsed time
+439,ms,cpu time
+440,s,elapsed time
+441,ms,elapsed time
+442,ms,elapsed time
+443,s,elapsed time
+444,s,cpu time
+445,s,elapsed time
+446,s,elapsed time
+447,s,elapsed time
+448,ms,cpu time/query
+449,ms,cpu time/query
+450,ms,cpu time/query
+451,s,elapsed time
+452,ms,cpu time/query
+453,s,elapsed time
+454,ms,cpu time
+455,ms,cpu time
+456,s,cpu time
+457,s,cpu time
+458,ms,cpu time
+459,ms,cpu time
+460,ms,cpu time
+461,ms,cpu time
+462,ms,cpu time
+463,ms,cpu time
+464,ms,cpu time
+465,ms,cpu time
+466,ms,cpu time
+467,ms,elapsed time
+468,ms,cpu time
+469,ms,cpu time
+470,ms,cpu time
+471,ms,elapsed time
+472,ms,cpu time
+473,ms,elapsed time
+474,ms,elapsed time
+475,ms,elapsed time
+476,ms,cpu time
+477,ms,elapsed time
+478,ms,elapsed time
+479,ms,cpu time
+480,ms,cpu time
+481,ms,cpu time
+482,ms,cpu time
+483,ms,cpu time
+484,ms,cpu time
+485,ms,cpu time
+486,ms,elapsed time
+487,ms,elapsed time
+488,ms,cpu time
+489,ms,cpu time
+490,ms,elapsed time
+491,ms,elapsed time
+492,s,elapsed time
+493,s,elapsed time
+494,ms,cpu time
+495,ms,cpu time
+496,ms,cpu time
+497,ms,cpu time
+498,ms,cpu time
+499,ms,cpu time
+500,ms,sum of cpu time from all processes
+501,ms,cpu time
+502,ms,cpu time
+503,ms,cpu time
+504,ms,cpu time
+505,ms,elapsed time
+506,ms,elapsed time
+507,ms,elapsed time
+508,ms,cpu time
+509,ms,cpu time
+510,ms,cpu time
+511,ms,cpu time
+512,ms,cpu time
+513,ms,cpu time
+514,ms,cpu time
+515,ms,elapsed time
+516,ms,elapsed time
+517,ms,cpu time
+518,s,elapsed time
+519,ms,cpu time
+520,ms,cpu time
+521,ms,cpu time
+522,ms,cpu time
+523,ms,cpu time
+524,ms,cpu time
+525,ms,cpu time
+526,s,cpu time
+527,ms,cpu time
+528,ms,cpu time
+529,s,cpu time
+530,s,cpu time
+531,s,cpu time
+532,ms,cpu time
+533,ms,elapsed time
+534,ms,elapsed time
+535,s,cpu time
+536,s,cpu time
+537,s,elapsed time
+538,s,elapsed time
+539,s,elapsed time
+540,s,elapsed time
+541,s,cpu time
+542,s,cpu time
+543,s,elapsed time
+544,s,cpu time
+545,s,elapsed time
+546,s,elapsed time
+547,s,elapsed time
+548,s,elapsed time
+549,s,elapsed time
+550,s,elapsed time
+551,s,cpu time
+552,s,cpu time
+553,s,cpu time
+554,s,cpu time
+555,s,cpu time
+556,s,elapsed time
+557,s,elapsed time
+558,s,elapsed time
+559,s,runtime
+560,s,cpu time
+561,s,elapsed time
+562,s,elapsed time
+563,s,blocking time
+564,s,blocking time
+565,ms,cpu time
+566,ms,avg. dialogue step time
+567,ms,cpu time
+568,ms,elapsed time
+569,ms,elapsed time
+570,ms,elapsed time
+571,ms,query cpu runtime
+572,ms,cpu time
+573,ms,cpu time
+574,ms,avg cpu time
+575,ms,avg cpu time
+576,s,TPS
+577,ms,cpu time
+578,ms,cpu time
+579,s,cpu time
+580,s,cpu time
+581,s,cpu time
+582,s,cpu time
+583,s,elapsed time
+584,s,elapsed time
+585,s,cpu time
+586,s,cpu time
+587,s,cpu time
+588,s,cpu time
+589,s,elapsed time
+590,s,elapsed time
+591,s,elapsed time
+592,s,cpu time
+593,s,cpu time
+594,s,cpu time
+595,s,cpu time
+596,s,cpu time
+597,s,cpu time
+598,ms,cpu time
+599,ms,cpu time
+600,s,cpu time
+601,s,cpu time
+602,s,cpu time
+603,s,elapsed time
+604,ms,cpu time
+605,ms,elapsed time
+606,ms,cpu time
+607,s,elapsed time
+608,s,elapsed time
+609,s,elapsed time
+610,s,elapsed time
+611,ms,cpu time
+612,ms,elapsed time
+613,ms,elapsed time
+614,s,cpu time
+615,s,elapsed time
+616,ms,cpu time
+617,s,cpu time
+618,ms,cpu time
+619,s,elapsed time
+620,s,elapsed time
+621,s,elapsed time
+622,s,elapsed time
+623,ms,cpu time
+624,ms,cpu time
+625,ms,sum of lookup time from all processes
+626,ms,elapsed time
+627,ms,cpu time
+628,ms,elapsed time
+629,ms,elapsed time
+630,s,cpu time
+631,s,cpu time
+632,s,cpu time
+633,s,elapsed time
+634,s,cpu time
+635,s,cpu time
+636,s,elapsed time
+637,s,blocking time
+638,s,elapsed time
+639,ms,cpu time
+640,s,elapsed time
+641,s,cpu time
+642,s,elapsed time
+643,s,elapsed time
+644,s,cpu time
+645,ms,cpu time
+646,ms,cpu time
+647,s,elapsed time
+648,s,cpu time
+649,s,cpu time
+650,s,elapsed time
+651,s,elapsed time
+652,s,elapsed time
+653,ms,elapsed time
+654,s,elapsed time
+655,s,elapsed time
+656,s,elapsed time
+657,s,cpu time
+658,ms,cpu time/query
+659,ms,cpu time/query
+660,ms,cpu time/query
+661,ms,cpu time/query
+662,ms,cpu time/query
+663,ms,cpu time/query
+664,s,elapsed time
+665,s,elapsed time
+666,s,elapsed time
+667,s,elapsed time
+668,ms,cpu time/query
+669,ms,cpu time/query
+670,s,elapsed time
+671,s,runtime
+672,s,elapsed time
+673,s,cpu time
+674,ms,elapsed time
+675,ms,cpu time
+676,ms,cpu time
+677,s,elapsed time
+678,ms,cpu time
+679,ms,cpu time
+680,ms,cpu time
+681,ms,cpu time/query
+682,ms,cpu time/query
+683,ms,cpu time/query
+684,s,elapsed time
+685,s,elapsed time
+686,ms,cpu time
+687,ms,elapsed time
+688,s,cpu time
+689,s,elapsed time
+690,s,cpu time
+691,ms,elapsed time
+692,ms,elapsed time
+693,ms,cpu time
+694,ms,elapsed time
+695,s,elapsed time
+696,ms,cpu time
+697,ms,elapsed time
+698,ms,cpu time
+699,ms,cpu time
+700,ms,cpu time
+701,ms,elapsed time
+702,ms,cpu time
+703,s,elapsed time
+704,ms,elapsed time
+705,ms,cpu time
+706,ms,cpu time
+707,ms,elapsed time (cpu normalized)
+708,ms,cpu time
+709,ms,cpu time
+710,ms,elapsed time
+711,ms,elapsed time
+712,s,cpu time
+713,s,cpu time
+714,ms,cpu time
+715,s,runtime
+716,s,runtime
+717,s,runtime
+718,s,elapsed time
+719,s,elapsed time
+720,s,cpu time
+721,s,elapsed time
+722,s,elapsed time
+723,ms,cpu time
+724,ms,cpu time
+725,ms,elapsed time
+726,s,cpu time
+727,ms,cpu time
+728,ms,elapsed time
+729,ms,elapsed time
+730,ms,elapsed time
+731,s,cpu time
+732,s,cpu time
+733,ms,cpu time
+734,ms,avg. dialogue step time
+735,s,elapsed time
+736,s,cpu time
+737,s,cpu time
+738,s,elapsed time
+739,s,cpu time
+740,ms,cpu time
+741,ms,cpu time
+742,ms,cpu time
+743,ms,elapsed time
+744,ms,cpu time
+745,ms,cpu time
+746,s,elapsed time
+747,s,cpu time
+750,ms,elapsed time
+751,ms,cpu time
+752,ms,avg cpu time
+753,ms,cpu time
+754,ms,cpu time
+755,ms,cpu time
+756,ms,cpu time
+757,ms,cpu time
+758,ms,cpu time
+759,ms,cpu time
+760,ms,cpu time
+761,ms,cpu time
+762,s,elapsed time
+763,s,elapsed time
+764,s,elapsed time
+765,s,elapsed time
+766,s,elapsed time
+767,ms,elapsed time
+768,ms,elapsed time
+769,ms,cpu time
+770,s,elapsed time
+771,s,cpu time
+772,ms,cpu time/query
+773,ms,elapsed time
+774,s,elapsed time
+775,ms,elapsed time
+776,ms,elapsed time
+777,ms,elapsed time
+778,ms,avg cpu time
+779,ms,cpu time
+780,ms,cpu time
+781,s,cpu time
+782,s,cpu time
+783,s,cpu time
+784,s,elapsed time
+785,s,elapsed time
+786,ms,elapsed time
+787,ms,elapsed time (cpu normalized)
+788,s,elapsed time
+789,s,cpu time
+790,s,elapsed time
+791,s,cpu time
+792,s,elapsed time
+793,s,cpu time
+794,s,cpu time
+795,ms,cpu time/query
+796,s,cpu time
+797,s,elapsed time
+798,ms,cpu time/query
+799,s,elapsed time
+800,s,cpu time
+801,s,cpu time
+802,s,elapsed time
+803,s,elapsed time
+804,s,elapsed time
+805,s,elapsed time
+806,s,cpu time
+807,s,elapsed time
+808,s,cpu time
+809,s,cpu time
+810,s,elapsed time
+811,s,cpu time
+812,s,elapsed time
+813,s,runtime
+814,s,cpu time
+815,s,cpu time
+816,s,elapsed time
+817,s,cpu time
+818,s,cpu time
+819,s,cpu time
+820,s,cpu time
+821,s,elapsed time
+822,s,cpu time
+823,s,elapsed time
+824,s,cpu time
+825,s,blocking time
+826,s,cpu time
+827,ms,elapsed time
+828,ms,cpu time
+829,s,elapsed time
+830,ms,elapsed time
+831,ms,cpu time
+832,s,elapsed time
+833,s,elapsed time
+834,s,elapsed time
+835,ms,elapsed time
+836,s,cpu time
+837,s,cpu time
+838,ms,elapsed time
+839,ms,elapsed time
+840,ms,cpu time
+841,ms,avg. dialogue step time
+842,ms,avg. dialogue step time
+843,s,elapsed time
+844,s,elapsed time
+845,s,elapsed time
+846,ms,elapsed time
+847,s,elapsed time
+848,ms,cpu time
+849,ms,elapsed time
+850,s,cpu time
+851,ms,cpu time
+852,ms,cpu time
+853,ms,cpu time
+854,ms,elapsed time
+855,ms,cpu time
+856,s,elapsed time
+857,s,elapsed time
+858,s,elapsed time
+859,ms,cpu time
+860,s,elapsed time
+861,s,elapsed time
+862,s,elapsed time
+863,s,elapsed time
+864,s,elapsed time
+865,s,elapsed time
+866,s,elapsed time
+867,s,elapsed time
+868,ms,cpu time
+869,s,elapsed time
+870,ms,cpu time
+871,ms,cpu time
+872,ms,cpu time
+873,ms,cpu time
+874,s,elapsed time
+875,ms,cpu time
+876,s,elapsed time
+877,ms,cpu time
+878,s,elapsed time
+879,s,blocking time
+880,ms,elapsed time
+881,s,cpu time
+882,s,cpu time
+883,s,cpu time
+884,s,cpu time
+885,s,cpu time
+886,ms,avg. dialogue step time
+887,ms,avg. dialogue step time
+888,ms,avg cpu time
+889,ms,elapsed time
+890,ms,elapsed time (cpu normalized)
+891,ms,elapsed time
+892,ms,avg. dialogue step time
+893,ms,avg. dia wait req. time
+894,ms,cpu time
+895,ms,cpu time
+896,ms,cpu time
+897,ms,cpu time/query
+898,ms,cpu time/query
+899,ms,elapsed time
+900,ms,elapsed time
+901,ms,cpu time
+902,ms,cpu time
+903,ms,elapsed time (cpu normalized)
+904,ms,cpu time
+905,ms,cpu time
+906,ms,cpu time
+907,ms,cpu time
+908,ms,cpu time
+909,ms,cpu time
+910,ms,cpu time
+911,ms,cpu time
+912,ms,sum of cpu time from all processes
+913,ms,cpu time
+914,ms,cpu time
+915,ms,cpu time
+916,ms,cpu time
+917,ms,cpu time
+918,ms,cpu time
+919,ms,cpu time
+920,ms,cpu time
+921,ms,cpu time
+922,ms,cpu time
+923,ms,cpu time
+924,ms,cpu time
+925,ms,cpu time
+926,ms,cpu time
+927,ms,cpu time
+928,s,cpu time
+929,s,cpu time
+930,s,cpu time
+931,s,cpu time
+932,s,elapsed time
+933,ms,cpu time
+934,ms,cpu time
+935,s,elapsed time
+936,s,elapsed time
+937,ms,cpu time
+938,s,elapsed time
+939,ms,cpu time
+940,s,elapsed time
+941,s,cpu time
+942,ms,cpu time
+943,ms,cpu time
+944,ms,cpu time
+945,ms,cpu time
+946,ms,cpu time
+947,ms,cpu time
+948,ms,cpu time
+949,ms,cpu time
+950,ms,cpu time
+951,ms,cpu time
+952,ms,cpu time
+953,ms,elapsed time
+954,s,elapsed time
+955,s,elapsed time
+956,s,elapsed time
+957,ms,cpu time
+958,ms,elapsed time
+959,ms,cpu time
+960,s,elapsed time
+961,ms,cpu time
+962,ms,cpu time
+963,s,elapsed time
+964,s,cpu time
+965,s,elapsed time
+966,ms,elapsed time
+967,s,elapsed time
+968,s,elapsed time
+969,s,cpu time
+970,s,elapsed time
+971,s,elapsed time
+974,ms,cpu time
+975,ms,cpu time
+976,ms,elapsed time (cpu normalized)
+977,s,elapsed time
+978,s,elapsed time
+979,ms,cpu time
+980,ms,cpu time
+981,ms,cpu time
+982,ms,cpu time
+983,ms,cpu time
+984,ms,cpu time
+985,ms,cpu time/query
+986,ms,cpu time/query
+987,s,elapsed time
+988,ms,cpu time
+989,ms,cpu time
+990,ms,cpu time
+991,s,elapsed time
+992,ms,cpu time
+993,s,cpu time
+994,ms,cpu time
+995,ms,cpu time
+996,ms,elapsed time
+997,ms,elapsed time
+998,ms,elapsed time
+999,s,elapsed time
+1000,ms,cpu time
+1001,ms,cpu time
+1002,s,elapsed time
+1003,ms,cpu time
+1004,s,elapsed time
+1005,ms,cpu time
+1006,s,runtime
+1007,s,runtime
+1008,s,runtime
+1009,s,runtime
+1010,s,runtime
+1011,ms,elapsed time
+1012,ms,elapsed time
+1013,s,cpu time
+1014,s,elapsed time
+1017,ms,avg cpu time
+1018,ms,cpu time
+1019,s,runtime
+1020,s,runtime
+1021,s,runtime
+1022,s,runtime
+1023,s,runtime
+1024,s,runtime
+1025,s,runtime
+1026,s,runtime
+1027,s,runtime
+1028,s,runtime
+1029,s,runtime
+1030,ms,cpu time
+1031,s,elapsed time
+1032,ms,cpu time
+1033,ms,cpu time
+1034,ms,cpu time
+1035,ms,cpu time
+1036,ms,cpu time
+1037,ms,cpu time
+1038,s,cpu time
+1039,s,cpu time
+1040,s,elapsed time
+1041,ms,cpu time
+1042,ms,elapsed time
+1043,s,elapsed time
+1044,s,elapsed time
+1045,ms,cpu time
+1046,s,cpu time
+1047,s,cpu time
+1048,s,cpu time
+1049,ms,cpu time
+1050,s,elapsed time
+1051,s,blocking time
+1052,s,elapsed time
+1053,s,blocking time
+1054,ms,elapsed time
+1055,ms,cpu time
+1056,ms,cpu time
+1057,s,elapsed time
+1059,ms,elapsed time
+1060,ms,elapsed time
+1061,ms,cpu time
+1062,ms,cpu time
+1063,ms,cpu time
+1064,ms,cpu time
+1065,ms,cpu time
+1066,ms,cpu time
+1067,ms,cpu time
+1068,ms,cpu time
+1069,ms,cpu time
+1070,ms,cpu time
+1071,ms,cpu time
+1072,ms,cpu time
+1073,ms,cpu time
+1074,ms,cpu time
+1075,ms,cpu time
+1076,ms,cpu time
+1077,ms,sum of cpu time from all processes
+1078,ms,cpu time
+1079,ms,cpu time
+1080,ms,cpu time
+1081,s,cpu time
+1082,s,cpu time
+1083,s,cpu time
+1084,s,elapsed time
+1085,s,elapsed time
+1086,s,elapsed time
+1087,ms,elapsed time
+1088,s,cpu time
+1089,ms,elapsed time
+1090,ms,elapsed time
+1091,ms,cpu time
+1092,ms,cpu time
+1093,ms,cpu time
+1094,s,cpu time
+1095,ms,cpu time
+1096,ms,cpu time
+1097,ms,cou time
+1098,ms,sum of cpu time from all processes
+1099,ms,cpu time
+1100,ms,cpu time
+1101,ms,cpu time
+1102,ms,cpu time
+1103,ms,cpu time
+1104,ms,cpu time
+1105,ms,cpu time
+1106,ms,cpu time
+1107,ms,cpu time
+1108,actions/(sec*threads),write actions
+1109,ms,cpu time
+1110,s,elapsed time
+1112,ms,elapsed time
+1113,s,elapsed time
+1114,s,elapsed time
+1115,s,elapsed time
+1116,s,elapsed time
+1117,s,elapsed time
+1118,s,elapsed time
+1119,s,elapsed time
+1120,ms,cpu time
+1121,s,runtime
+1122,ms,elapsed time
+1124,ms,cpu time
+1125,ms,elapsed time
+1126,commits,commit rate
+1127,s,elapsed time
+1128,ms,cpu time
+1129,ms,cpu time
+1130,ms,cpu time
+1131,ms,cou time
+1132,ms,sum of cpu time from all processes
+1133,ms,elapsed time
+1134,ms,elapsed time
+1135,ms,elapsed time
+1136,ms,elapsed time
+1137,ms,elapsed time
+1138,ms,elapsed time
+1139,ms,elapsed time
+1140,ms,elapsed time
+1141,ms,elapsed time
+1142,ms,elapsed time
+1143,ms,elapsed time
+1144,ms,elapsed time
+1145,ms,elapsed time
+1146,ms,elapsed time
+1147,ms,elapsed time
+1148,ms,elapsed time
+1149,ms,elapsed time
+1150,ms,elapsed time
+1151,ms,elapsed time
+1152,ms,elapsed time
+1153,ms,elapsed time
+1154,ms,elapsed time
+1155,ms,elapsed time
+1156,ms,elapsed time
+1157,ms,elapsed time
+1158,ms,elapsed time
+1159,ms,elapsed time
+1160,ms,elapsed time
+1161,ms,elapsed time
+1162,ms,elapsed time
+1163,ms,elapsed time
+1164,ms,elapsed time
+1165,ms,elapsed time
+1166,ms,elapsed time
+1167,ms,elapsed time
+1168,ms,elapsed time
+1169,ms,elapsed time
+1170,ms,elapsed time
+1171,ms,elapsed time
+1172,ms,elapsed time
+1173,ms,elapsed time
+1174,ms,elapsed time
+1175,ms,elapsed time
+1176,ms,elapsed time
+1177,ms,elapsed time
+1178,ms,elapsed time
+1179,ms,elapsed time
+1180,ms,elapsed time
+1181,ms,elapsed time
+1182,ms,elapsed time
+1183,ms,elapsed time
+1184,ms,elapsed time
+1185,ms,elapsed time
+1186,ms,elapsed time
+1187,ms,elapsed time
+1188,ms,elapsed time
+1189,ms,elapsed time
+1190,ms,elapsed time
+1191,ms,elapsed time
+1192,ms,elapsed time
+1193,ms,elapsed time
+1194,ms,elapsed time
+1195,ms,elapsed time
+1196,ms,elapsed time
+1197,ms,elapsed time
+1198,ms,elapsed time
+1199,ms,elapsed time
+1200,ms,elapsed time
+1201,ms,elapsed time
+1202,ms,elapsed time
+1203,ms,elapsed time
+1204,ms,elapsed time
+1205,ms,elapsed time
+1206,items per second,items per second
+1207,items per second,items per second
+1208,items per second,items per second
+1209,items per second,items per second
+1210,items per second,items per second
+1211,items per second,items per second
+1212,items per second,items per second
+1213,items per second,items per second
+1214,items per second,items per second
+1215,items per second,items per second
+1216,items per second,items per second
+1217,items per second,items per second
+1221,ms,elapsed time
+1222,ms,elapsed time
+1223,ms,cpu time
+1224,ms,elapsed time
+1228,ms,cpu time
+1229,ms,elapsed time
+1230,ms,elapsed time
+1231,ms,elapsed time
+1235,ms,elapsed time
+1236,ms,elapsed time
+1237,ms,elapsed time
+1238,ms,elapsed time
+1239,ms,elapsed time
+1240,ms,elapsed time
+1241,ms,elapsed time
+1242,ms,elapsed time
+1243,ms,elapsed time
+1244,ms,elapsed time
+1262,ms,elapsed time
+1263,ms,elapsed time
+1265,ms,elapsed time
+1266,ms,elapsed time
+1267,ms,elapsed time
+1268,ms,elapsed time
+1269,ms,elapsed time
+1270,ms,elapsed time
+1271,ms,elapsed time
+1272,ms,cpu time
+1273,ms,elapsed time
+1277,ms,cpu time
+1278,ms,elapsed time
+1286,ms,elapsed time
+1287,ms,elapsed time
+1288,ms,elapsed time
+1291,s,tps ratio
+1292,ms,elapsed time
+1293,ms,elapsed time
+1294,ms,cpu time
+1295,ms,elapsed time
+1296,ms,elapsed time
+1297,ms,elapsed time
+1298,ms,elapsed time
+1299,ms,avg. lookup time
+1300,ms,elapsed time
+1301,ms,elapsed time
+1302,ms,elapsed time
+1305,ms,elapsed time
+1306,ms,elapsed time
+1307,ms,elapsed time
+1308,ms,elapsed time
+1309,ms,elapsed time
+1311,ms,elapsed time
+1314,ms,elapsed time
+1320,ms,elapsed time
+1322,ms,elapsed time
+1323,ms,cpu time
+1324,ms,elapsed time
+1325,ms,elapsed time
+1326,ms,elapsed time
+1327,ms,elapsed time
+1330,ms,elapsed time
+1331,ms,elapsed time
+1334,ms,cpu time
+1337,ms,elapsed time
+1338,ms,elapsed time
+1339,ms,elapsed time
+1341,ms,elapsed time
+1343,ms,elapsed time
+1344,ms,elapsed time
+1346,ms,elapsed time
+1347,ms,elapsed time
+1349,ms,elapsed time
+1350,ms,elapsed time
+1351,ms,elapsed time
+1353,ms,elapsed time
+1354,ms,elapsed time
+1355,ms,elapsed time
+1358,ms,elapsed time
+1363,ms,elapsed time
+1365,ms,elapsed time
+1378,ms,elapsed time
+1381,ms,cpu time
+1382,ms,elapsed time
+1383,ms,elapsed time
+1389,ms,elapsed time
+1423,ms,elapsed time
+1432,ms,cpu time
+1915,ms,elapsed time
+1916,ms,elapsed time
+1917,ms,elapsed time
+1918,ms,elapsed time
+1919,ms,elapsed time/query
+1920,ms,elapsed time/query
+1921,ms,elapsed time/query
+1922,ms,elapsed time/query
+1923,ms,elapsed time/query
+1924,ms,elapsed time/query
+1925,ms,elapsed time/query
+1926,ms,elapsed time/query
+1927,ms,elapsed time
+1928,ms,elapsed time
+1929,ms,cpu time
+1930,ms,elapsed time
+1931,ms,elapsed time
+1932,ms,elapsed time
+1933,ms,elapsed time
+1934,ms,min elapsed time delta
+1935,ms,total elapsed total time
+1936,ms,elapsed time
+1937,ms,elapsed time
+1938,ms,elapsed time
+1939,ms,elapsed time
+1940,ms,elapsed time
+1941,ms,elapsed time
+1942,ms,elapsed time
+1943,ms,elapsed time
+1944,ms,elapsed time
+1945,ms,elapsed time
+1946,ms,elapsed time
+1947,ms,elapsed time
+1948,ms,elapsed time
+1949,ms,elapsed time
+1950,ms,elapsed time
+1951,ms,elapsed time
+1952,ms,elapsed time
+1953,ms,elapsed time
+1954,ms,elapsed time
+1955,ms,elapsed time
+1956,ms,cpu time
+1957,ms,elapsed time
+1958,ms,elapsed time
+1959,ms,elapsed time
+1960,ms,elapsed time
+1961,ms,elapsed time
+1962,ms,elapsed time
+1963,ms,elapsed time
+1964,ms,elapsed time
+1965,ms,cpu time
+1966,ms,elapsed time
+1967,ms,cpu time
+1968,ms,elapsed time
+1969,ms,cpu time
+1970,ms,elapsed time
+1971,ms,cpu time
+1972,ms,elapsed time
+1973,ms,cpu time
+1974,ms,elapsed time
+1975,ms,elapsed time
+1976,ms,cpu time
+1977,ms,elapsed time
+1978,ms,cpu time
+1979,TPS,TPS
+1980,ms,cpu time
+1981,TPS,TPS
+1982,ms,cpu time
+1983,TPS,TPS
+1984,ms,cpu time
+1985,TPS,TPS
+1986,ms,cpu time
+1987,TPS,TPS
+1988,ms,cpu time
+1989,TPS,TPS
+1990,ms,cpu time
+1991,TPS,TPS
+1992,ms,cpu time
+1993,s,elapsed time
+1994,s,elapsed time
+1995,s,TPS
+1996,s,tps ratio
+1997,s,elapsed time
+1998,s,TPS
+1999,s,tps ratio
+2000,ms,cpu time
+2001,s,elapsed time
+2002,s,TPS
+2003,s,tps ratio
+2004,ms,cpu time
+2005,s,elapsed time
+2006,s,elapsed time
+2007,ms,cpu time
+2008,s,elapsed time
+2009,ms,cpu time
+2010,s,elapsed time
+2011,ms,cpu time
+2012,s,sum of scan time from all processes
+2013,ms,elapsed time
+2014,ms,cpu time
+2015,ms,elapsed time
+2016,ms,cpu time
+2017,ms,elapsed time
+2018,ms,cpu time
+2019,ms,elapsed time
+2020,ms,elapsed time
+2021,ms,elapsed time
+2022,ms,elapsed time
+2023,ms,cpu time
+2024,ms,elapsed time
+2025,ms,cpu time
+2026,ms,elapsed time
+2027,ms,cpu time
+2028,ms,elapsed time
+2029,ms,cpu time
+2030,ms,elapsed time
+2031,ms,cpu time
+2032,ms,elapsed time
+2033,ms,elapsed time
+2034,ms,elapsed time
+2035,ms,cpu time
+2036,ms,elapsed time
+2037,ms,elapsed time
+2038,ms,cpu time
+2039,s,elapsed time
+2040,s,elapsed time
+2041,ms,cpu time
+2042,ms,elapsed time
+2043,s,elapsed time
+2044,ms,elapsed time
+2045,s,elapsed time
+2046,ms,cpu time
+2047,s,elapsed time
+2048,ms,elapsed time
+2049,s,elapsed time
+2050,s,elapsed time
+2051,s,elapsed time
+2052,ms,cpu time
+2053,ms,elapsed time
+2054,ms,elapsed time
+2055,s,elapsed time
+2056,ms,cpu time
+2057,ms,elapsed time
+2058,s,elapsed time
+2059,ms,cpu time
+2060,s,elapsed time
+2061,s,elapsed time
+2062,s,elapsed time
+2063,s,elapsed time
+2064,ms,cpu time
+2065,s,elapsed time
+2066,s,elapsed time
+2067,s,elapsed time
+2068,s,elapsed time
+2069,ms,cpu time
+2070,ms,elapsed time
+2071,ms,elapsed time
+2072,ms,elapsed time/query
+2073,ms,cpu time
+2074,ms,elapsed time/query
+2075,ms,elapsed time/query
+2076,ms,cpu time
+2077,ms,elapsed time/query
+2078,ms,cpu time
+2079,ms,elapsed time/query
+2080,ms,cpu time
+2081,ms,elapsed time/query
+2082,ms,elapsed time/query
+2083,ms,elapsed time
+2084,ms,cpu time
+2085,ms,elapsed time/query
+2086,s,runtime
+2087,s,runtime
+2088,s,runtime
+2089,ms,elapsed time
+2090,ms,elapsed time
+2091,ms,elapsed time
+2092,ms,elapsed time
+2093,ms,elapsed time
+2094,ms,elapsed time
+2095,ms,cpu time
+2096,ms,elapsed time
+2097,ms,cpu time
+2098,ms,elapsed time
+2099,ms,cpu time
+2100,ms,elapsed time
+2101,ms,cpu time
+2102,ms,elapsed time
+2103,ms,elapsed time
+2104,ms,elapsed time
+2105,ms,elapsed time / iteration
+2106,ms,elapsed time
+2107,ms,elapsed time
+2108,ms,elapsed time
+2109,ms,elapsed time
+2110,ms,elapsed time / iteration
+2111,ms,cpu time
+2112,ms,elapsed time
+2113,ms,elapsed time
+2114,ms,elapsed time / iteration
+2115,ms,cpu time
+2116,ms,elapsed time / iteration
+2117,ms,cpu time
+2118,ms,elapsed time / iteration
+2119,ms,elapsed time / iteration
+2120,ms,cpu time
+2121,s,elapsed time
+2122,s,elapsed time
+2123,s,elapsed time
+2124,ms,cpu time
+2125,s,elapsed time
+2126,ms,cpu time
+2127,s,elapsed time
+2128,ms,cpu time
+2129,us,elapsed time per insert query
+2130,s,elapsed time
+2131,ms,elapsed time
+2132,ms,elapsed time
+2133,ms,elapsed time
+2134,ms,elapsed time
+2135,ms,elapsed time
+2136,ms,cpu time
+2137,ms,elapsed time
+2138,ms,elapsed time
+2139,ms,elapsed time
+2140,ms,elapsed time
+2141,ms,elapsed time
+2144,ms,elapsed time
+2145,ms,elapsed time
+2146,ms,elapsed time
+2147,ms,elapsed time
+2148,ms,elapsed time
+2149,ms,elapsed time
+2150,ms,elapsed time
+2159,ms,elapsed time
+2160,ms,elapsed time
+2161,ms,elapsed time
+2162,ms,elapsed time
+2163,ms,elapsed time
+2164,ms,elapsed time
+2165,ms,elapsed time
+2166,ms,elapsed time
+2167,ms,elapsed time
+2168,ms,elapsed time
+2169,ms,elapsed time
+2170,ms,elapsed time
+2171,ms,elapsed time
+2172,ms,elapsed time
+2173,ms,elapsed time
+2174,ms,elapsed time
+2175,ms,elapsed time
+2176,ms,elapsed time
+2177,ms,elapsed time
+2178,ms,elapsed time
+2179,ms,elapsed time
+2180,ms,cpu time
+2181,ms,cpu time
+2194,ms,elapsed time
+2195,ms,elapsed time
+2196,ms,elapsed time
+2197,ms,elapsed time
+2198,ms,elapsed time
+2199,ms,elapsed time
+2205,ms,elapsed time
+2206,ms,elapsed time
+2207,ms,elapsed time
+2208,s,cpu time
+2209,ms,elapsed time
+2210,ms,cpu time
+2211,ms,elapsed time
+2212,ms,elapsed time
+2214,ms,elapsed time
+2215,ms,elapsed time
+2219,ms,elapsed time
+2220,ms,cpu time
+2221,ms,elapsed time
+2223,ms,elapsed time
+2224,ms,elapsed time
+2225,ms,elapsed time
+2226,ms,elapsed time
+2227,ms,elapsed time
+2239,ms,elapsed time
+2240,ms,elapsed time
+2241,ms,elapsed time
+2244,ms,elapsed time
+2250,ms,elapsed time
+2253,ms,elapsed time
+2254,ms,elapsed time
+2255,ms,elapsed time
+2257,ms,elapsed time
+2258,ms,elapsed time
+2259,ms,cpu time
+2261,ms,elapsed time
+2262,ms,elapsed time
+2263,ms,elapsed time
+2264,ms,elapsed time
+2266,ms,elapsed time
+2267,ms,elapsed time
+2268,ms,elapsed time
+2270,ms,elapsed time
+2271,ms,elapsed time
+2276,ms,elapsed time
+2279,ms,elapsed time
+2280,ms,elapsed time
+2281,ms,elapsed time
+2283,ms,elapsed time
+2286,ms,elapsed time
+2287,ms,elapsed time
+2288,ms,elapsed time
+2289,ms,elapsed time
+2290,ms,elapsed time
+2291,ms,elapsed time
+2296,ms,elapsed time
+2297,ms,elapsed time
+2299,ms,elapsed time
+2300,ms,elapsed time
+2302,ms,elapsed time
+2303,ms,elapsed time
+2304,ms,elapsed time
+2305,ms,elapsed time
+2307,ms,elapsed time
+2308,ms,elapsed time
+2309,ms,elapsed time
+2310,ms,elapsed time
+2311,ms,elapsed time
+2312,ms,elapsed time
+2313,ms,elapsed time
+2314,ms,elapsed time
+2315,ms,elapsed time
+2316,ms,elapsed time
+2318,ms,elapsed time
+2322,ms,cpu time
+2323,ms,elapsed time
+2324,ms,elapsed time
+2326,ms,elapsed time
+2380,ms,elapsed time
+2385,ms,elapsed time
+2421,s,cpu time
+3391,s,elapsed time
+3392,s,elapsed time
+3393,s,elapsed time
+3394,s,elapsed time
+3395,s,elapsed time
+3396,s,elapsed time
+3397,s,elapsed time
+3398,s,elapsed time
+3399,s,elapsed time
+3400,s,elapsed time
+3401,s,elapsed time
+3402,s,elapsed time
+3403,s,elapsed time
+3404,s,elapsed time
+3405,s,elapsed time
+3406,ms,elapsed time
+3407,ms,elapsed time
+3408,ms,elapsed time
+3409,ms,elapsed time
+3410,ms,elapsed time
+3411,ms,elapsed time
+3412,ms,elapsed time
+3413,ms,elapsed time
+3414,ms,elapsed time
+3415,ms,elapsed time
+3416,ms,elapsed time
+3417,ms,elapsed time
+3418,ms,elapsed time
+3419,ms,elapsed time
+3420,ms,elapsed time
+3421,ms,elapsed time
+3422,ms,elapsed time
+3423,ms,elapsed time
+3424,ms,elapsed time
+3425,ms,elapsed time
+3426,ms,elapsed time
+3427,ms,elapsed time
+3428,ms,elapsed time
+3429,ms,cpu time
+3430,ms,elapsed time
+3431,ms,elapsed time
+3432,ms,elapsed time
+3433,ms,elapsed time
+3434,ms,min elapsed time delta
+3435,ms,total elapsed total time
+3436,ms,elapsed time
+3437,ms,elapsed time
+3438,ms,elapsed time
+3439,ms,elapsed time
+3440,ms,elapsed time
+3441,ms,elapsed time
+3442,ms,elapsed time
+3443,ms,elapsed time
+3444,ms,elapsed time
+3445,ms,elapsed time
+3446,ms,elapsed time
+3447,ms,elapsed time
+3448,ms,elapsed time
+3449,ms,elapsed time
+3450,ms,elapsed time
+3451,ms,elapsed time
+3452,ms,elapsed time
+3453,ms,elapsed time
+3454,ms,elapsed time
+3455,ms,elapsed time
+3456,ms,cpu time
+3457,ms,elapsed time
+3458,ms,cpu time
+3459,ms,elapsed time
+3460,ms,elapsed time
+3461,ms,elapsed time
+3462,ms,elapsed time
+3463,ms,elapsed time
+3464,ms,elapsed time
+3465,ms,elapsed time
+3466,ms,elapsed time
+3467,ms,elapsed time
+3468,ms,elapsed time
+3469,ms,cpu time
+3470,ms,elapsed time
+3471,ms,cpu time
+3472,ms,elapsed time
+3590,ms,elapsed time/query
+3591,ms,elapsed time/query
+3592,ms,elapsed time/query
+3593,ms,elapsed time/query
+3594,ms,elapsed time/query
+3595,ms,elapsed time/query
+3596,ms,elapsed time/query
+3597,ms,elapsed time/query
+3598,s,elapsed time
+3599,ms,cpu time
+3600,s,elapsed time
+3601,s,elapsed time
+3602,s,elapsed time
+3603,ms,cpu time
+3604,ms,elapsed time
+3605,ms,cpu time
+3606,ms,elapsed time
+3607,ms,cpu time
+3608,ms,elapsed time
+3609,ms,cpu time
+3610,ms,elapsed time
+3611,ms,cpu time
+3612,ms,elapsed time
+3613,ms,cpu time
+3614,ms,elapsed time
+3615,ms,cpu time
+3616,ms,elapsed time
+3617,ms,cpu time
+3618,ms,elapsed time
+3619,ms,cpu time
+3620,ms,elapsed time
+3621,ms,elapsed time
+3622,ms,cpu time
+3623,ms,elapsed time
+3624,ms,elapsed time
+3625,ms,cpu time
+3626,ms,elapsed time
+3627,ms,cpu time
+3628,ms,elapsed time
+3629,ms,cpu time
+3630,ms,elapsed time
+3631,ms,cpu time
+3632,ms,elapsed time
+3633,ms,cpu time
+3634,ms,elapsed time
+3635,ms,cpu time
+3636,ms,elapsed time
+3637,ms,elapsed time
+3638,ms,cpu time
+3639,ms,elapsed time
+3640,ms,cpu time
+3641,ms,elapsed time
+3642,ms,cpu time
+3643,ms,elapsed time
+3644,ms,cpu time
+3645,ms,elapsed time
+3646,ms,cpu time
+3647,ms,elapsed time
+3648,ms,elapsed time/query
+3649,ms,elapsed time/query
+3650,ms,elapsed time/query
+3651,ms,elapsed time/query
+3652,ms,elapsed time/query
+3653,ms,elapsed time/query
+3654,ms,elapsed time
+3655,s,elapsed time
+3656,ms,elapsed time
+3657,ms,elapsed time
+3658,s,elapsed time
+3659,ms,cpu time
+3660,s,elapsed time
+3661,s,elapsed time
+3662,s,elapsed time
+3663,ms,elapsed time
+3664,ms,elapsed time
+3665,ms,elapsed time
+3666,s,elapsed time
+3667,s,elapsed time
+3668,ms,cpu time
+3669,s,elapsed time
+3670,ms,cpu time
+3671,s,elapsed time
+3672,ms,cpu time
+3673,s,elapsed time
+3674,s,cpu time
+3675,s,elapsed time
+3676,ms,cpu time
+3677,s,elapsed time
+3678,ms,cpu time
+3679,s,elapsed time
+3680,ms,cpu time
+3681,s,elapsed time
+3682,s,elapsed time
+3683,ms,cpu time
+3684,s,elapsed time
+3685,ms,cpu time
+3686,s,elapsed time
+3687,ms,query cpu runtime
+3688,s,elapsed time
+3689,ms,cpu time
+3690,s,elapsed time
+3691,ms,cpu time
+3692,s,elapsed time
+3693,ms,cpu time
+3694,s,elapsed time
+3695,ms,cpu time
+3696,s,elapsed time
+3697,ms,cpu time
+3698,s,elapsed time
+3699,s,elapsed time
+3700,s,elapsed time
+3701,ms,cpu time
+3702,ms,elapsed time/query
+3703,ms,cpu time
+3704,ms,elapsed time/query
+3705,s,elapsed time
+3706,ms,cpu time
+3707,ms,elapsed time/query
+3708,ms,cpu time
+3709,ms,elapsed time/query
+3710,ms,cpu time
+3711,ms,elapsed time/query
+3712,ms,elapsed time/query
+3713,ms,elapsed time/query
+3714,ms,elapsed time/query
+3715,ms,cpu time
+3716,ms,elapsed time/query
+3717,ms,elapsed time/query
+3718,ms,elapsed time/query
+3719,ms,elapsed time/query
+3720,s,elapsed time
+3721,ms,cpu time
+3722,ms,elapsed time/query
+3723,ms,elapsed time/query
+3724,ms,elapsed time/query
+3725,ms,elapsed time/query
+3726,ms,elapsed time/query
+3727,ms,elapsed time/query
+3728,ms,cpu time
+3729,ms,elapsed time/query
+3730,ms,elapsed time/query
+3731,ms,elapsed time/query
+3732,ms,cpu time
+3733,ms,elapsed time/query
+3734,ms,cpu time
+3735,ms,elapsed time/query
+3736,s,runtime
+3737,ms,elapsed time/query
+3738,ms,cpu time
+3739,ms,elapsed time
+3740,ms,elapsed time
+3741,s,runtime
+3742,ms,elapsed time
+3743,ms,elapsed time
+3744,ms,elapsed time
+3745,ms,elapsed time
+3746,ms,elapsed time
+3747,ms,elapsed time
+3748,s,elapsed time
+3749,ms,cpu time
+3750,ms,elapsed time/query
+3751,ms,elapsed time
+3752,ms,elapsed time
+3753,ms,elapsed time
+3754,ms,cpu time
+3755,ms,elapsed time
+3756,ms,elapsed time
+3757,ms,elapsed time
+3758,ms,elapsed time
+3759,ms,cpu time
+3760,s,elapsed time
+3761,ms,elapsed time
+3762,ms,elapsed time
+3763,ms,cpu time
+3764,ms,elapsed time
+3765,ms,cpu time
+3766,ms,elapsed time
+3767,ms,elapsed time
+3768,ms,elapsed time
+3769,ms,elapsed time
+3770,ms,elapsed time
+3771,ms,elapsed time
+3772,ms,elapsed time
+3773,ms,elapsed time
+3774,ms,elapsed time / iteration
+3775,ms,elapsed time
+3776,ms,elapsed time / iteration
+3777,ms,cpu time
+3778,ms,elapsed time / iteration
+3779,ms,cpu time
+3780,ms,elapsed time / iteration
+3781,ms,cpu time
+3782,ms,elapsed time / iteration
+3783,ms,elapsed time / iteration
+3784,ms,elapsed time
+3785,ms,elapsed time
+3786,ms,elapsed time
+3787,ms,elapsed time
+3788,ms,cpu time
+3789,ms,elapsed time
+3790,ms,cpu time
+3791,ms,cpu time
+3792,ms,cpu time
+3793,s,elapsed time
+3794,ms,cpu time
+3795,us,elapsed time per insert query
+3796,s,elapsed time
+3797,s,time
+3798,s,time
+3799,percent,cpu utilization
+3800,ms,elapsed time
+3801,ms,elapsed time
+3802,ms,elapsed time
+3803,ms,elapsed time
+3804,ms,elapsed time
+3805,ms,cpu time
+3806,ms,elapsed time
+3807,ms,elapsed time
+3808,ms,elapsed time
+3809,ms,elapsed time
+3810,ms,elapsed time
+3811,ms,elapsed time
+3812,ms,elapsed time
+3813,statements,capture statement count
+3816,ms,elapsed time
+3817,ms,elapsed time
+3820,statements,capture statement count
+3821,ms,elapsed time
+3822,ms,elapsed time
+3823,ms,elapsed time
+3824,ms,elapsed time
+3825,ms,elapsed time
+3828,ms,cpu time
+3831,ms,cpu time
+3832,ms,cpu time
+3833,ms,cpu time
+3834,ms,cpu time
+3837,ms,elapsed time
+3838,ms,elapsed time
+3840,ms,elapsed time
+3841,ms,elapsed time
+3842,ms,elapsed time
+3843,ms,elapsed time
+3844,ms,elapsed time
+3847,ms,elapsed time
+3848,ms,elapsed time
+3849,ms,elapsed time
+3850,ms,elapsed time
+3857,ms,cpu time
+3858,ms,cpu time
+3859,ms,cpu time
+3860,ms,cpu time
+3863,s,elapsed time
+3867,ms,cpu time
+3868,ms,elapsed time
+3869,ms,elapsed time
+3870,ms,cpu time
+3872,s,cpu time
+3876,ms,cpu time
+3877,ms,cpu time
+3878,ms,cpu time
+3879,ms,cpu time
+3881,ms,cpu time
+3882,ms,cpu time
+3883,ms,cpu time
+3884,ms,cpu time
+3885,ms,cpu time
+3886,ms,cpu time
+3887,ms,cpu time
+3888,ms,cpu time
+3889,ms,cpu time
+3890,ms,cpu time
+3891,ms,cpu time
+3914,s,cpu time
+3918,s,cpu time
+3921,ms,cpu time
+3922,ms,cpu time
+3923,ms,cpu time
+3925,ms,cpu service milliseconds per request
+3926,ms,cpu service milliseconds per request
+3928,s,cpu time
+3929,ms,cpu time
+3934,s,elapsed time
+3935,ms,elapsed time
+3936,s,elapsed time
+3938,ms,elapsed time
+3942,ms,avg cpu time
+3944,ms,elapsed time
+3945,s,cpu time
+3948,s,elapsed time
+3949,s,blocking time
+3954,ms,elapsed time
+3955,ms,elapsed time
+3956,ms,elapsed time
+3957,s,cpu time
+3960,s,cpu time
+3961,s,blocking time
+3962,ms,elapsed time
+3964,s,cpu time
+3965,ms,elapsed time
+3975,s,elapsed time
+3979,s,elapsed time
+3983,ms,cpu time
+3985,ms,elapsed time
+3986,ms,cpu time
+3987,ms,cpu time
+3989,ms,cpu time
+3993,ms,elapsed time
+3994,s,cpu time
+3996,ms,cpu time
+3997,ms,cpu time
+3999,ms,cpu time
+4000,s,elapsed time
+4001,ms,cpu time
+4002,ms,elapsed time (cpu normalized)
+4003,s,cpu time
+4005,ms,elapsed time
+4007,ms,avg cpu time
+4011,ms,elapsed time
+4013,ms,cpu time
+4014,ms,cpu time
+4015,ms,cpu time
+4018,s,blocking time
+4028,s,elapsed time
+4029,s,blocking time
+4033,ms,avg. dia wait req. time
+4034,ms,elapsed time
+4035,ms,elapsed time
+4036,ms,cpu time
+4037,s,cpu time
+4038,ms,cpu time
+4039,ms,cpu time
+4040,ms,cpu time
+4041,ms,cpu time
+4042,s,elapsed time
+4043,ms,cpu time
+4044,ms,cpu time
+4045,s,cpu time
+4049,ms,elapsed time
+4051,ms,cpu time
+4052,ms,cpu time
+4053,ms,cpu time
+4054,ms,cpu time
+4056,s,elapsed time
+4057,ms,avg. upd wait req. time
+4060,s,cpu time
+4061,s,elapsed time
+4063,s,elapsed time
+4065,s,elapsed time
+4067,s,blocking time
+4068,s,blocking time
+4069,s,cpu time
+4072,s,elapsed time
+4076,s,elapsed time
+4077,s,elapsed time
+4078,s,cpu time
+4081,ms,avg. dia wait req. time
+4083,ms,elapsed time
+4086,ms,query cpu runtime
+4088,s,elapsed time
+4092,ms,cpu time
+4094,s,cpu time
+4101,s,cpu time
+4102,ms,elapsed time
+4103,ms,cpu time
+4104,ms,cpu service milliseconds per request
+4106,ms,cpu time
+4107,ms,avg. dia db req. time
+4108,s,blocking time
+4109,s,cpu time
+4110,ms,elapsed time
+4113,s,blocking time
+4118,ms,cpu time
+4120,ms,elapsed time
+4121,s,elapsed time
+4123,s,cpu time
+4124,ms,cpu time
+4125,s,elapsed time
+4129,ms,cpu time
+4130,ms,cpu time
+4131,ms,cpu time
+4132,ms,elapsed time
+4135,ms,elapsed time
+4136,s,cpu time
+4137,s,cpu time
+4138,ms,cpu time
+4139,s,elapsed time
+4140,commits,commit rate
+4141,s,elapsed time
+4145,ms,cpu time
+4146,actions/(sec*threads),merge actions
+4147,s,cpu time
+4148,s,cpu time
+4149,ms,avg. dia db req. time
+4150,actions/(sec*threads),merge actions
+4151,ms,cpu time
+4152,ms,elapsed time
+4153,ms,cpu time
+4154,ms,cpu time
+4155,ms,cpu time
+4156,ms,cpu time
+4159,ms,cpu time
+4160,ms,cpu time
+4161,ms,cpu time
+4163,ms,cpu service milliseconds per request
+4166,ms,avg. dia db req. time
+4167,s,cpu time
+4168,s,elapsed time
+4169,s,elapsed time
+4170,ms,cpu time
+4174,ms,cpu time
+4175,ms,cpu time
+4176,ms,cpu time
+4177,ms,avg. dia db req. time
+4179,ms,cpu time
+4181,ms,cpu time
+4182,ms,cpu time
+4183,ms,cpu time
+4184,ms,cpu time
+4185,ms,cpu time
+4186,ms,cpu time
+4187,ms,cpu time
+4188,ms,cpu time
+4189,s,elapsed time
+4191,ms,cpu time
+4192,ms,cpu time
+4193,ms,cpu time
+4195,ms,cpu time
+4196,ms,cpu time
+4197,ms,cpu time
+4199,ms,cpu time
+4200,ms,avg. dia db req. time
+4202,s,elapsed time
+4203,ms,cpu time
+4204,ms,cpu time
+4205,ms,cpu time
+4206,ms,cpu time
+4207,ms,cpu time
+4208,ms,cpu time
+4210,ms,cpu time
+4211,ms,cpu time
+4213,ms,cpu time
+4214,ms,cpu time
+4215,ms,cpu time
+4216,s,cpu time
+4217,ms,avg. upd wait req. time
+4219,ms,cpu time
+4220,ms,cpu time
+4221,ms,cpu time
+4222,s,cpu time
+4223,ms,cpu time
+4224,ms,cpu time
+4225,ms,cpu time
+4226,s,elapsed time
+4227,ms,cpu time
+4228,ms,cpu time
+4229,ms,cpu time
+4230,s,cpu time
+4231,ms,cpu time
+4232,ms,cpu time
+4233,ms,cpu time
+4234,ms,cpu time
+4235,s,cpu time
+4237,ms,cpu time
+4238,ms,avg. up2 db req. time
+4240,ms,cpu time
+4241,ms,cpu service milliseconds per request
+4242,ms,cpu time
+4243,ms,cpu time
+4244,ms,cpu time
+4245,ms,cpu time
+4246,ms,cpu time
+4247,ms,cpu time
+4248,ms,cpu time
+4249,ms,cpu time
+4250,ms,cpu time
+4251,ms,cpu time
+4252,ms,cpu time
+4253,ms,cpu time
+4254,ms,cpu time
+4255,ms,cpu time
+4256,ms,cpu time
+4258,ms,cpu time
+4259,ms,cpu service milliseconds per request
+4260,ms,cpu time
+4261,ms,cpu time
+4262,ms,cpu time
+4263,ms,cpu time
+4264,ms,cpu time
+4265,ms,cpu time
+4266,ms,cpu time
+4267,s,elapsed time
+4269,ms,cpu time
+4270,ms,cpu time
+4271,ms,cpu time
+4272,ms,cpu time
+4273,ms,cpu time
+4274,ms,cpu time
+4275,ms,cpu time
+4276,ms,cpu time
+4277,ms,cpu time
+4278,ms,cpu time
+4279,ms,cpu time
+4280,ms,cpu time
+4282,ms,cpu time
+4283,ms,cpu time
+4284,ms,cpu time
+4285,s,elapsed time
+4286,ms,cpu time
+4287,ms,cpu time
+4288,ms,cpu time
+4289,ms,cpu time
+4291,ms,cpu time
+4292,ms,cpu time
+4293,ms,cpu time
+4294,ms,cpu time
+4295,ms,cpu time
+4296,ms,cpu time
+4297,ms,cpu time
+4298,ms,cpu time
+4299,ms,cpu time
+4301,ms,cpu time
+4302,ms,cpu time
+4303,ms,cpu time
+4304,ms,cpu time
+4305,ms,cpu time
+4306,ms,cpu time
+4307,ms,cpu time
+4308,s,cpu time
+4309,ms,cpu time
+4310,ms,cpu time
+4311,ms,cpu time
+4312,ms,cpu time
+4313,ms,cpu time
+4314,ms,cpu time
+4315,s,elapsed time
+4316,s,cpu time
+4317,ms,cpu time
+4318,ms,cpu time
+4319,ms,cpu time
+4320,ms,cpu time
+4321,ms,cpu time
+4322,ms,cpu time
+4323,ms,cpu time
+4324,ms,cpu time
+4325,ms,cpu time
+4326,ms,cpu time
+4327,s,elapsed time
+4328,ms,cpu time
+4329,ms,cpu time
+4330,ms,cpu time
+4332,ms,cpu time
+4333,s,cpu time
+4334,ms,avg. upd db req. time
+4335,ms,cpu time
+4336,ms,cpu time
+4337,ms,cpu time
+4338,ms,cpu time
+4339,ms,cpu time
+4340,ms,cpu time
+4341,ms,cpu time
+4342,ms,cpu service milliseconds per request
+4343,ms,cpu time
+4344,ms,cpu time
+4345,ms,cpu time
+4346,ms,cpu time
+4347,s,cpu time
+4348,ms,cpu time
+4349,ms,cpu time
+4350,ms,cpu time
+4351,ms,cpu time
+4353,ms,cpu time
+4354,ms,cpu time
+4355,ms,cpu time
+4356,ms,cpu time
+4357,ms,cpu time
+4358,ms,cpu time
+4360,ms,cpu time
+4361,ms,cpu time
+4362,ms,cpu time
+4363,ms,cpu time
+4364,ms,cpu time
+4365,ms,cpu time
+4366,ms,cpu time
+4367,ms,cpu time
+4368,ms,cpu time
+4369,ms,cpu time
+4370,ms,elapsed time / query
+4371,ms,cpu time
+4372,ms,cpu time
+4373,ms,cpu time
+4374,ms,cpu time
+4375,ms,cpu time
+4376,ms,elapsed time / query
+4377,ms,cpu time
+4378,ms,elapsed time / query
+4379,ms,cpu time
+4380,ms,cpu time
+4381,ms,elapsed time / query
+4382,ms,cpu time
+4383,ms,cpu time
+4384,ms,cpu time
+4385,ms,cpu time
+4386,ms,cpu time
+4387,ms,cpu time
+4388,ms,cpu time
+4389,ms,elapsed time / query
+4390,ms,cpu time
+4391,ms,cpu time
+4392,ms,elapsed time / query
+4393,ms,cpu time
+4394,ms,cpu time
+4395,ms,cpu time
+4396,ms,cpu time
+4397,ms,cpu time
+4398,ms,cpu time
+4399,ms,cpu time
+4400,ms,cpu time
+4401,ms,cpu time
+4402,ms,cpu time
+4403,ms,cpu time
+4404,ms,cpu time
+4405,ms,cpu time
+4406,ms,elapsed time / query
+4407,ms,cpu time
+4408,ms,cpu time
+4409,ms,cpu time
+4410,ms,elapsed time / query
+4411,ms,cpu time
+4412,ms,cpu time
+4413,ms,cpu time
+4414,ms,cpu time
+4415,ms,cpu time
+4416,ms,cpu time
+4417,ms,cpu time
+4418,ms,cpu time
+4419,ms,cpu time
+4420,ms,cpu time
+4421,ms,cpu time
+4422,ms,cpu time
+4423,ms,cpu time
+4424,ms,cpu time
+4425,ms,cpu time
+4426,ms,cpu time
+4427,ms,elapsed time / query
+4428,ms,cpu time
+4429,ms,cpu time
+4430,ms,cpu time
+4431,ms,cpu time
+4432,ms,cpu time
+4433,ms,cpu time
+4434,ms,elapsed time / query
+4435,ms,elapsed time / query
+4436,ms,elapsed time / query
+4437,ms,elapsed time / query
+4438,ms,elapsed time / query
+4439,ms,elapsed time / query
+4440,ms,elapsed time / query
+4441,ms,elapsed time / query
+4442,ms,elapsed time / query
+4443,ms,elapsed time / query
+4444,ms,elapsed time / query
+4445,ms,elapsed time / query
+4446,ms,elapsed time / query
+4447,ms,elapsed time / query
+4448,ms,elapsed time / query
+4449,ms,elapsed time / query
+4450,ms,elapsed time / query
+4451,ms,elapsed time / query
+4452,ms,elapsed time / query
+4453,ms,elapsed time / query
+4454,ms,elapsed time / query
+4455,ms,elapsed time / query
+4456,ms,elapsed time / query
+4457,ms,elapsed time / query
+4458,ms,elapsed time / query
+4459,ms,elapsed time / query
+4460,ms,elapsed time / query
+4461,ms,elapsed time / query
+4462,ms,elapsed time / query
+4463,ms,elapsed time / query
+4464,ms,elapsed time / query
+4465,ms,elapsed time / query
+4466,ms,elapsed time / query
+4467,ms,elapsed time / query
+4468,ms,elapsed time / query
+4469,ms,elapsed time / query
+4470,ms,elapsed time / query
+4471,ms,elapsed time / query
+4472,ms,elapsed time / query
+4473,ms,elapsed time / query
+4474,ms,elapsed time / query
+4475,ms,elapsed time / query
+4476,ms,elapsed time / query
+4477,ms,elapsed time / query
+4478,ms,elapsed time / query
+4479,ms,elapsed time / query
+4480,ms,cpu time
+4481,ms,elapsed time / query
+4482,ms,elapsed time / query
+4483,ms,elapsed time / query
+4484,ms,elapsed time / query
+4485,ms,elapsed time / query
+4486,ms,elapsed time / query
+4487,ms,elapsed time / query
+4488,ms,elapsed time / query
+4489,ms,elapsed time / query
+4490,ms,elapsed time / query
+4491,ms,elapsed time / query
+4492,ms,elapsed time / query
+4493,ms,elapsed time / query
+4494,ms,elapsed time / query
+4495,ms,elapsed time / query
+4496,ms,elapsed time / query
+4497,ms,elapsed time / query
+4498,ms,elapsed time / query
+4499,ms,elapsed time / query
+4500,ms,elapsed time / query
+4501,ms,elapsed time / query
+4502,ms,elapsed time / query
+4503,ms,elapsed time / query
+4504,ms,elapsed time / query
+4505,ms,elapsed time / query
+4506,ms,elapsed time / query
+4507,ms,elapsed time / query
+4508,ms,elapsed time / query
+4509,ms,elapsed time / query
+4510,ms,elapsed time / query
+4511,ms,elapsed time / query
+4512,ms,elapsed time / query
+4513,ms,elapsed time / query
+4514,ms,elapsed time / query
+4515,ms,elapsed time / query
+4516,ms,elapsed time / query
+4517,ms,elapsed time / query
+4518,ms,elapsed time / query
+4519,ms,elapsed time / query
+4520,ms,elapsed time / query
+4521,ms,elapsed time / query
+4522,ms,elapsed time / query
+4523,ms,elapsed time / query
+4524,ms,elapsed time / query
+4525,ms,elapsed time / query
+4526,ms,elapsed time / query
+4527,ms,elapsed time / query
+4528,ms,cpu time
+4529,ms,elapsed time / query
+4530,ms,cpu time
+4531,ms,elapsed time / query
+4532,ms,elapsed time / query
+4533,ms,elapsed time / query
+4534,ms,cpu time
+4535,ms,elapsed time / query
+4536,ms,elapsed time / query
+4537,ms,cpu time
+4538,ms,elapsed time / query
+4539,ms,cpu time
+4540,ms,elapsed time / query
+4541,ms,cpu time
+4542,ms,elapsed time / query
+4543,ms,cpu time
+4544,ms,elapsed time / query
+4545,ms,cpu time
+4546,ms,elapsed time / query
+4547,ms,elapsed time / query
+4548,ms,cpu time
+4549,ms,elapsed time / query
+4550,ms,cpu time
+4551,ms,elapsed time / query
+4552,ms,elapsed time / query
+4553,ms,elapsed time / query
+4554,ms,cpu time
+4555,ms,elapsed time / query
+4556,ms,elapsed time / query
+4557,ms,elapsed time / query
+4558,ms,elapsed time / query
+4559,ms,cpu time
+4560,ms,elapsed time / query
+4561,ms,cpu time
+4562,ms,elapsed time / query
+4563,ms,cpu time
+4564,ms,elapsed time / query
+4565,ms,cpu time
+4566,ms,elapsed time / query
+4567,ms,elapsed time / query
+4568,ms,elapsed time / query
+4569,ms,elapsed time / query
+4570,ms,elapsed time / query
+4571,ms,cpu time
+4572,ms,elapsed time / query
+4573,ms,cpu time
+4574,ms,elapsed time / query
+4575,ms,elapsed time / query
+4576,ms,elapsed time / query
+4577,ms,cpu time
+4578,ms,elapsed time / query
+4579,ms,elapsed time / query
+4580,ms,cpu time
+4581,ms,elapsed time / query
+4582,ms,cpu time
+4583,ms,elapsed time / query
+4584,ms,elapsed time / query
+4585,ms,cpu time
+4586,ms,elapsed time / query
+4587,ms,elapsed time / query
+4588,ms,cpu time
+4589,ms,elapsed time / query
+4590,ms,elapsed time / query
+4591,ms,elapsed time / query
+4592,ms,elapsed time / query
+4593,ms,cpu time
+4594,ms,elapsed time / query
+4595,ms,cpu time
+4596,ms,elapsed time / query
+4597,ms,elapsed time / query
+4598,ms,elapsed time / query
+4599,ms,cpu time
+4600,ms,elapsed time / query
+4601,ms,cpu time
+4602,ms,elapsed time / query
+4603,ms,cpu time
+4604,ms,elapsed time / query
+4605,ms,elapsed time / query
+4606,ms,cpu time
+4607,ms,elapsed time / query
+4608,ms,cpu time
+4609,ms,cpu time
+4610,ms,elapsed time / query
+4611,ms,cpu time
+4612,ms,elapsed time / query
+4613,ms,elapsed time / query
+4614,ms,cpu time
+4615,ms,elapsed time / query
+4616,ms,cpu time
+4617,ms,elapsed time / query
+4618,ms,cpu time
+4619,ms,elapsed time / query
+4620,ms,elapsed time / query
+4621,ms,cpu time
+4622,ms,elapsed time / query
+4623,ms,elapsed time / query
+4624,ms,elapsed time / query
+4625,ms,cpu time
+4626,ms,elapsed time / query
+4627,ms,cpu time
+4628,ms,elapsed time / query
+4629,ms,elapsed time / query
+4630,ms,cpu time
+4631,ms,elapsed time / query
+4632,ms,cpu time
+4633,ms,elapsed time / query
+4634,ms,cpu time
+4635,ms,elapsed time / query
+4636,ms,cpu time
+4637,ms,elapsed time / query
+4638,ms,cpu time
+4639,ms,elapsed time / query
+4640,ms,elapsed time / query
+4641,ms,elapsed time / query
+4642,ms,elapsed time / query
+4643,ms,elapsed time / query
+4644,ms,cpu time
+4645,ms,elapsed time / query
+4646,ms,cpu time
+4647,ms,elapsed time / query
+4648,ms,cpu time
+4649,ms,elapsed time / query
+4650,ms,cpu time
+4651,ms,elapsed time / query
+4652,ms,elapsed time / query
+4653,ms,cpu time
+4654,ms,elapsed time / query
+4655,ms,elapsed time / query
+4656,ms,elapsed time / query
+4657,ms,elapsed time / query
+4658,ms,elapsed time / query
+4659,ms,elapsed time / query
+4660,ms,elapsed time / query
+4661,ms,cpu time
+4662,ms,elapsed time / query
+4663,ms,cpu time
+4664,ms,elapsed time / query
+4665,ms,cpu time
+4666,ms,elapsed time / query
+4667,ms,cpu time
+4668,ms,elapsed time / query
+4669,ms,elapsed time / query
+4670,ms,elapsed time / query
+4671,ms,elapsed time / query
+4672,ms,elapsed time / query
+4673,ms,elapsed time / query
+4674,ms,elapsed time / query
+4675,ms,cpu time
+4676,ms,elapsed time / query
+4677,ms,cpu time
+4678,ms,elapsed time / query
+4679,ms,cpu time
+4680,ms,elapsed time / query
+4681,ms,cpu time
+4682,ms,cpu time
+4683,ms,cpu time
+4684,ms,cpu time
+4685,ms,cpu time
+4686,ms,cpu time
+4687,ms,cpu time
+4688,ms,cpu time
+4689,ms,cpu time
+4690,ms,cpu time
+4691,ms,cpu time
+4692,s,cpu time
+4693,ms,cpu time
+4694,ms,cpu time
+4695,ms,cpu time
+4696,ms,cpu time
+4697,ms,cpu time
+4698,ms,cpu time
+4699,ms,cpu time
+4700,ms,cpu time
+4701,ms,cpu time
+4702,ms,cpu time
+4703,ms,cpu time
+4704,ms,cpu time
+4705,ms,cpu time
+4706,ms,cpu time
+4707,ms,cpu time
+4708,ms,cpu time
+4709,ms,cpu time
+4710,ms,cpu time
+4711,ms,cpu time
+4712,ms,cpu time
+4713,ms,cpu time
+4714,ms,cpu time
+4715,ms,cpu time
+4716,ms,cpu time
+4717,ms,cpu time
+4718,ms,cpu time
+4719,ms,cpu time
+4720,ms,cpu time
+4721,ms,cpu time
+4722,ms,cpu time
+4723,ms,cpu time
+4724,ms,cpu time
+4725,ms,cpu time
+4726,ms,cpu time
+4727,ms,cpu time
+4728,ms,cpu time
+4729,ms,cpu time
+4730,ms,cpu time
+4731,ms,cpu time
+4732,ms,cpu time
+4733,ms,cpu time
+4734,ms,cpu time
+4735,ms,cpu time
+4736,ms,cpu time
+4737,ms,cpu time
+4738,ms,cpu time
+4739,ms,cpu time
+4740,ms,cpu time
+4741,ms,cpu time
+4742,ms,cpu time
+4743,ms,cpu time
+4744,ms,cpu time
+4745,ms,cpu time
+4746,ms,cpu time
+4747,ms,cpu time
+4748,ms,cpu time
+4749,ms,cpu time
+4750,ms,cpu time
+4751,ms,cpu time
+4752,ms,cpu time
+4753,ms,cpu time
+4754,ms,cpu time
+4755,ms,cpu time
+4756,ms,cpu time
+4757,ms,cpu time
+4758,ms,cpu time
+4759,ms,cpu time
+4760,ms,cpu time
+4761,s,elapsed time
+4762,s,cpu time
+4763,ms,cpu time
+4764,actions/(sec*threads),write actions
+4765,ms,cpu time
+4766,ms,cpu time
+4767,s,cpu time
+4768,ms,cpu time
+4769,s,cpu time
+4770,s,cpu time
+4771,ms,cpu time
+4772,s,cpu time
+4773,ms,avg. dia wait req. time
+4774,s,cpu time
+4775,s,elapsed time
+4776,s,cpu time
+4777,ms,cpu time
+4778,ms,cpu time
+4779,ms,cpu time
+4780,ms,avg. upd wait req. time
+4781,s,cpu time
+4782,ms,cpu time
+4783,actions/(sec*threads),search actions
+4784,ms,cpu time
+4785,DMLs,avg dml count
+4786,ms,cpu time
+4787,ms,cpu time
+4788,ms,cpu time
+4789,ms,cpu time
+4790,ms,cpu time
+4791,ms,cpu time
+4792,actions/(sec*threads),search actions
+4793,commits,commit rate
+4794,s,cpu time
+4795,ms,avg. dia db req. time
+4796,actions/(sec*threads),write actions
+4797,ms,avg. upd db req. time
+4798,ms,cpu time
+4799,ms,avg. dia db req. time
+4800,ms,cpu time
+4801,ms,cpu time
+4802,s,elapsed time
+4803,ms,avg. dia db req. time
+4804,ms,cpu time
+4805,ms,cpu time
+4806,ms,cpu time
+4807,ms,cpu time
+4808,ms,cpu time
+4809,ms,cpu time
+4810,ms,cpu time
+4811,ms,cpu time
+4812,ms,cpu time
+4813,s,elapsed time
+4814,ms,cpu time
+4815,ms,sum of cpu time from all processes
+4816,ms,avg. upd db req. time
+4817,ms,sum of cpu time from all processes
+4818,s,cpu time
+4819,s,cpu time
+4820,ms,cpu time
+4821,ms,cpu time
+4822,ms,cpu time
+4823,ms,cpu time
+4824,ms,cpu time
+4825,ms,cpu time
+4826,ms,cpu time
+4827,ms,sum of cpu time from all processes
+4828,ms,cpu time
+4829,ms,cpu time
+4830,ms,cpu time
+4831,ms,elapsed time (cpu normalized)
+4832,commits,commit rate
+4833,ms,elapsed time (cpu normalized)
+4834,ms,cpu time
+4835,ms,cpu time
+4836,ms,cpu time
+4837,ms,avg. dia db req. time
+4838,ms,cpu time
+4839,ms,elapsed time (cpu normalized)
+4840,ms,sum of cpu time from all processes
+4841,ms,avg. up2 db req. time
+4842,SAPS,total dialogue steps per minute
+4843,ms,cpu time
+4844,ms,cpu time
+4845,ms,cpu time
+4846,ms,avg. upd db req. time
+4847,s,cpu time
+4848,ms,cpu time
+4849,ms,elapsed time (cpu normalized)
+4850,ms,elapsed time (cpu normalized)
+4851,ms,cpu time
+4852,ms,cpu time
+4853,s,cpu time
+4854,ms,cpu time
+4855,ms,cpu time
+4856,ms,cpu time
+4857,s,cpu time
+4858,ms,cpu time
+4859,ms,cpu time
+4860,ms,avg. dia wait req. time
+4861,s,elapsed time
+4862,DMLs,avg dml count
+4863,ms,cpu time
+4864,ms,avg. dia db req. time
+4865,ms,avg. upd wait req. time
+4866,ms,cpu time
+4867,ms,cpu time
+4868,count,total number of updates
+4869,ms,avg. up2 wait req. time
+4870,s,elapsed time
+4871,ms,cpu time
+4872,s,cpu time
+4873,ms,cpu time
+4874,ms,avg. dia db req. time
+4875,s,cpu time
+4876,s,cpu time
+4877,DMLs,max dml count
+4878,ms,avg. upd db req. time
+4879,ms,avg. upd wait req. time
+4880,s,cpu time
+4881,ms,cpu time
+4882,s,cpu time
+4883,ms,elapsed time (cpu normalized)
+4884,ms,elapsed time (cpu normalized)
+4885,ms,avg. up2 db req. time
+4886,ms,cpu time
+4887,SAPS,total dialogue steps per minute
+4888,s,cpu time
+4889,ms,cpu time
+4890,ms,elapsed time (cpu normalized)
+4891,DMLs,avg dml count
+4892,ms,cpu time
+4893,ms,avg. up2 db req. time
+4894,ms,cpu time
+4895,SAPS,total dialogue steps per minute
+4896,ms,avg. upd db req. time
+4897,ms,avg. up2 wait req. time
+4898,ms,avg. upd db req. time
+4899,ms,elapsed time
+4900,s,cpu time
+4901,ms,avg. dia wait req. time
+4902,s,cpu time
+4903,ms,elapsed time (cpu normalized)
+4904,ms,elapsed time (cpu normalized)
+4905,ms,elapsed time (cpu normalized)
+4906,ms,avg. dia wait req. time
+4907,ms,cpu time
+4908,ms,elapsed time (cpu normalized)
+4909,ms,elapsed time (cpu normalized)
+4910,s,cpu time
+4911,s,cpu time
+4912,s,cpu time
+4913,s,cpu time
+4914,s,cpu time
+4915,ms,elapsed time (cpu normalized)
+4916,ms,elapsed time (cpu normalized)
+4917,s,elapsed time
+4918,ms,avg. upd db req. time
+4919,commits,commit rate
+4920,ms,cpu time
+4921,ms,avg. up2 db req. time
+4922,count,total number of updates
+4923,ms,avg. upd db req. time
+4924,commits,commit rate
+4926,ms,avg. upd db req. time
+4927,ms,i/o time
+4928,ms,avg. up2 db req. time
+4929,ms,avg. dia db req. time
+4930,actions/(sec*threads),write actions
+4931,ms,avg. upd wait req. time
+4932,ms,avg. upd wait req. time
+4933,ms,avg. up2 db req. time
+4934,s,elapsed time
+4935,ms,avg. up2 db req. time
+4936,ms,avg. up2 db req. time
+4937,ms,cpu time
+4938,SAPS,total dialogue steps per minute
+4939,ms,cpu time
+4940,SAPS,total dialogue steps per minute
+4941,ms,cpu time
+4942,count,total number of updates
+4943,ms,avg. upd db req. time
+4944,s,elapsed time
+4945,count,total number of updates
+4946,logwrites,log write rate
+4947,s,elapsed time
+4948,ms,elapsed time
+4949,ms,elapsed time
+4950,s,cpu time
+4951,ms,avg. up2 wait req. time
+4952,commits,commit rate
+4953,ms,avg. dia db req. time
+4954,ms,avg. upd wait req. time
+4955,commits,commit rate
+4957,ms,avg. up2 wait req. time
+4958,ms,cpu time
+4959,ms,elapsed time (cpu normalized)
+4960,ms,elapsed time
+4961,ms,elapsed time
+4962,ms,elapsed time
+4963,ms,elapsed time
+4964,ms,elapsed time
+4965,ms,elapsed time
+4966,ms,elapsed time
+4967,ms,elapsed time
+4968,ms,elapsed time
+4969,ms,cpu time
+4970,ms,elapsed time
+4971,ms,elapsed time
+4972,ms,elapsed time
+4973,ms,elapsed time
+4974,ms,elapsed time
+4975,ms,elapsed time
+4976,ms,elapsed time
+4977,ms,elapsed time
+4978,ms,elapsed time
+4979,ms,cpu time
+4980,ms,elapsed time
+4981,ms,elapsed time
+4982,ms,elapsed time
+4983,ms,elapsed time
+4984,ms,elapsed time
+4985,ms,elapsed time
+4986,ms,elapsed time
+4987,ms,elapsed time
+4988,ms,elapsed time
+4989,ms,elapsed time
+4990,ms,elapsed time
+4991,ms,elapsed time
+4992,ms,elapsed time
+4993,ms,elapsed time
+4994,ms,elapsed time
+4995,ms,elapsed time
+4996,ms,elapsed time
+4997,ms,elapsed time
+4998,ms,elapsed time
+4999,ms,elapsed time
+5000,ms,cpu time
+5001,ms,elapsed time
+5002,ms,cpu time
+5003,ms,elapsed time
+5004,ms,elapsed time
+5005,ms,elapsed time
+5006,ms,elapsed time
+5007,ms,elapsed time
+5008,ms,elapsed time
+5009,ms,elapsed time
+5010,ms,elapsed time
+5011,ms,elapsed time
+5012,ms,elapsed time
+5013,ms,elapsed time
+5014,ms,elapsed time
+5015,s,elapsed time
+5016,s,elapsed time
+5017,s,elapsed time
+5018,s,elapsed time
+5019,s,elapsed time
+5020,s,elapsed time
+5021,s,elapsed time
+5022,s,elapsed time
+5023,s,elapsed time
+5024,s,elapsed time
+5025,s,elapsed time
+5026,s,elapsed time
+5027,s,elapsed time
+5028,s,elapsed time
+5029,s,elapsed time
+5030,s,elapsed time
+5031,s,elapsed time
+5032,s,elapsed time
+5033,s,elapsed time
+5034,s,elapsed time
+5035,s,elapsed time
+5036,s,elapsed time
+5037,s,elapsed time
+5038,s,elapsed time
+5039,s,elapsed time
+5040,ms,elapsed time
+5041,ms,elapsed time
+5042,ms,elapsed time
+5043,ms,elapsed time
+5044,ms,elapsed time
+5045,ms,elapsed time
+5046,ms,elapsed time
+5047,ms,elapsed time
+5048,ms,elapsed time
+5049,ms,elapsed time
+5050,ms,elapsed time
+5051,ms,elapsed time
+5052,ms,elapsed time
+5053,ms,elapsed time
+5054,ms,cpu time
+5055,ms,elapsed time
+5056,ms,elapsed time
+5057,ms,elapsed time
+5058,ms,elapsed time
+5059,ms,elapsed time
+5060,ms,elapsed time
+5061,ms,elapsed time
+5062,ms,elapsed time
+5063,ms,elapsed time
+5064,ms,elapsed time
+5065,ms,elapsed time
+5066,ms,elapsed time
+5067,ms,elapsed time
+5068,ms,elapsed time
+5069,ms,elapsed time
+5070,ms,elapsed time
+5071,ms,elapsed time
+5072,s,elapsed time
+5073,s,elapsed time
+5074,s,elapsed time
+5075,s,elapsed time
+5076,s,elapsed time
+5077,s,elapsed time
+5078,s,elapsed time
+5079,s,elapsed time
+5080,s,elapsed time
+5081,s,elapsed time
+5082,s,elapsed time
+5083,s,elapsed time
+5084,s,elapsed time
+5085,s,elapsed time
+5086,s,elapsed time
+5087,s,elapsed time
+5088,s,elapsed time
+5089,s,elapsed time
+5090,s,elapsed time
+5091,s,elapsed time
+5092,s,elapsed time
+5093,s,elapsed time
+5094,s,elapsed time
+5095,s,elapsed time
+5096,s,elapsed time
+5097,s,elapsed time
+5098,s,elapsed time
+5099,s,elapsed time
+5100,s,elapsed time
+5101,s,elapsed time
+5102,s,elapsed time
+5103,s,elapsed time
+5104,s,elapsed time
+5105,s,elapsed time
+5106,ms,elapsed time
+5107,ms,elapsed time
+5108,ms,elapsed time
+5109,ms,elapsed time
+5110,ms,elapsed time
+5111,ms,elapsed time
+5112,ms,elapsed time
+5113,ms,elapsed time
+5114,ms,elapsed time
+5115,ms,elapsed time
+5116,ms,elapsed time
+5117,ms,elapsed time
+5118,ms,elapsed time
+5119,ms,elapsed time
+5120,ms,elapsed time
+5121,ms,cpu time
+5122,ms,elapsed time
+5123,ms,elapsed time
+5124,ms,cpu time
+5125,ms,elapsed time
+5126,ms,elapsed time
+5127,ms,elapsed time
+5128,ms,cpu time
+5129,ms,elapsed time
+5130,ms,elapsed time
+5131,ms,elapsed time
+5132,ms,elapsed time
+5133,ms,elapsed time
+5134,ms,elapsed time
+5135,ms,elapsed time
+5136,ms,elapsed time
+5137,ms,elapsed time
+5138,ms,elapsed time
+5139,ms,elapsed time
+5140,ms,elapsed time
+5141,ms,elapsed time
+5142,s,elapsed time
+5143,s,elapsed time
+5144,s,elapsed time
+5145,s,elapsed time
+5146,s,elapsed time
+5147,s,elapsed time
+5148,s,elapsed time
+5149,s,elapsed time
+5150,s,elapsed time
+5151,ms,elapsed time (cpu normalized)
+5152,ms,avg. upd db req. time
+5153,ms,avg. up2 db req. time
+5154,SAPS,total dialogue steps per minute
+5155,logwrites,log write rate
+5156,statements,capture statement count
+5157,SAPS,total dialogue steps per minute
+5158,logwrites,log write rate
+5159,statements,capture statement count
+5160,SAPS,total dialogue steps per minute
+5161,s,response time
+5162,ms,i/o time
+5163,ms,avg. upd db req. time
+5164,ms,avg. up2 db req. time
+5165,ms,avg. up2 wait req. time
+5166,DMLs,total dml count
+5167,DMLs,max dml count
+5168,SAPS,total dialogue steps per minute
+5169,s,response time
+5170,ms,i/o time
+5171,ms,avg. upd db req. time
+5172,ms,avg. up2 db req. time
+5173,DMLs,total dml count
+5174,DMLs,max dml count
+5175,s,response time
+5176,ms,avg. dia wait req. time
+5177,ms,avg. up2 wait req. time
+5178,DMLs,total dml count
+5179,DMLs,max dml count
+5180,DMLs,avg dml count
+5181,SAPS,total dialogue steps per minute
+5182,s,response time
+5183,ms,i/o time
+5184,ms,avg. up2 wait req. time
+5185,DMLs,total dml count
+5186,DMLs,max dml count
+5187,DMLs,avg dml count
+5188,logwrites,log write rate
+5189,SAPS,total dialogue steps per minute
+5190,logwrites,log write rate
+5191,statements,capture statement count
+5192,SAPS,total dialogue steps per minute
+5193,logwrites,log write rate
+5194,statements,capture statement count
+5195,s,response time
+5196,ms,i/o time
+5197,ms,avg. up2 db req. time
+5198,DMLs,total dml count
+5199,DMLs,max dml count
+5200,SAPS,total dialogue steps per minute
+5201,s,response time
+5202,ms,i/o time
+5203,ms,avg. up2 db req. time
+5204,DMLs,total dml count
+5205,DMLs,avg dml count
+5206,s,response time
+5207,ms,i/o time
+5208,DMLs,total dml count
+5209,DMLs,max dml count
+5210,DMLs,avg dml count
+5211,SAPS,total dialogue steps per minute
+5212,s,response time
+5213,ms,i/o time
+5214,ms,avg. up2 wait req. time
+5215,DMLs,total dml count
+5216,DMLs,max dml count
+5217,DMLs,avg dml count
+5243,ms,elapsed time
+5244,ms,elapsed time
+5245,ms,elapsed time
+5246,ms,elapsed time
+5247,ms,elapsed time
+5248,ms,elapsed time
+5249,s,elapsed time
+5250,s,elapsed time
+5251,s,elapsed time
+5252,s,elapsed time
+5253,s,elapsed time
+5254,s,elapsed time
+5255,s,elapsed time
+5256,ms,elapsed time
+5257,s,elapsed time
+5258,ms,elapsed time
+5259,s,elapsed time
+5260,ms,elapsed time
+5261,ms,elapsed time
+5262,ms,elapsed time
+5263,ms,elapsed time
+5264,ms,elapsed time
+5265,ms,elapsed time
+5266,s,elapsed time
+5267,ms,elapsed time
+5268,ms,elapsed time
+5269,s,elapsed time
+5270,s,elapsed time
+5271,s,elapsed time
+5272,s,elapsed time
+5273,s,elapsed time
+5274,s,elapsed time
+5275,s,elapsed time
+5276,s,elapsed time
+5277,s,elapsed time
+5278,s,elapsed time
+5279,s,elapsed time
+5280,s,elapsed time
+5281,s,elapsed time
+5282,s,elapsed time
+5283,s,elapsed time
+5284,s,elapsed time
+5285,s,elapsed time
+5286,s,elapsed time
+5287,s,elapsed time
+5288,s,elapsed time
+5289,s,elapsed time
+5290,s,elapsed time
+5291,s,elapsed time
+5292,s,elapsed time
+5293,s,elapsed time
+5294,s,elapsed time
+5295,s,elapsed time
+5296,s,elapsed time
+5297,s,elapsed time
+5298,s,elapsed time
+5299,s,elapsed time
+5300,s,elapsed time
+5301,s,elapsed time
+5302,s,elapsed time
+5303,s,elapsed time
+5304,s,elapsed time
+5306,ms,elapsed time/query
+5308,ms,elapsed time
+5309,ms,elapsed time
+5310,ms,elapsed time
+5311,ms,elapsed time
+5312,ms,cpu time
+5313,ms,elapsed time
+5314,ms,elapsed time
+5315,s,elapsed time
+5316,s,elapsed time
+5317,s,elapsed time
+5318,s,elapsed time
+5319,ms,avg elapsed time
+5320,ms,avg elapsed time
+5321,ms,avg elapsed time
+5322,ms,avg elapsed time
+5323,ms,avg elapsed time
+5324,ms,avg elapsed time
+5325,s,elapsed time
+5326,s,elapsed time
+5327,s,elapsed time
+5328,s,elapsed time
+5329,s,elapsed time
+5330,s,elapsed time
+5331,s,elapsed time
+5332,s,elapsed time
+5333,s,elapsed time
+5334,s,elapsed time
+5335,s,elapsed time
+5336,s,elapsed time
+5337,s,elapsed time
+5338,s,elapsed time
+5339,s,elapsed time
+5340,s,elapsed time
+5341,s,elapsed time
+5342,s,elapsed time
+5343,s,elapsed time
+5344,s,elapsed time
+5345,s,elapsed time
+5346,s,elapsed time
+5347,s,elapsed time
+5348,s,elapsed time
+5349,s,elapsed time
+5350,s,elapsed time
+5351,s,elapsed time
+5352,s,elapsed time
+5353,s,elapsed time
+5354,s,elapsed time
+5355,ms,time
+5356,ms,time
+5357,s,elapsed time
+5358,s,elapsed time
+5359,ms,time
+5360,s,elapsed time
+5361,ms,time
+5362,s,elapsed time
+5363,s,elapsed time
+5364,ms,time
+5365,s,elapsed time
+5366,s,elapsed time
+5367,s,elapsed time
+5368,s,elapsed time
+5369,s,elapsed time
+5370,s,elapsed time
+5371,s,elapsed time
+5372,s,elapsed time
+5373,s,elapsed time
+5374,s,elapsed time
+5375,s,elapsed time
+5376,s,elapsed time
+5377,s,elapsed time
+5378,s,elapsed time
+5379,s,elapsed time
+5380,us,runtime
+5381,us,runtime
+5382,us,runtime
+5383,us,runtime
+5384,s,elapsed time
+5385,s,elapsed time
+5386,s,elapsed time
+5387,s,elapsed time
+5388,s,elapsed time
+5389,s,elapsed time
+5390,s,elapsed time
+5391,s,elapsed time
+5392,ms,cpu time
+5393,s,elapsed time
+5394,s,elapsed time
+5395,ms,cpu time
+5396,s,elapsed time
+5397,ms,cpu time
+5398,s,elapsed time
+5399,ms,cpu time
+5400,ms,elapsed time/query
+5401,ms,elapsed time/query
+5402,ms,elapsed time/query
+5403,ms,elapsed time/query
+5404,ms,elapsed time/query
+5405,ms,elapsed time/query
+5406,ms,elapsed time/query
+5407,ms,elapsed time/query
+5408,ms,elapsed time/query
+5409,ms,elapsed time/query
+5410,ms,sum of average execution time from all processes
+5411,ms,elapsed time/query
+5412,ms,elapsed time/query
+5413,ms,elapsed time/query
+5414,ms,elapsed time/query
+5415,ms,elapsed time
+5416,ms,elapsed time
+5417,ms,execution time
+5418,ms,execution time
+5419,ms,execution time
+5420,ms,execution time
+5421,ms,execution time
+5422,ms,execution time
+5423,ms,execution time
+5424,ms,execution time
+5425,ms,execution time
+5426,ms,execution time
+5427,ms,execution time
+5428,ms,execution time
+5429,ms,execution time
+5430,ms,execution time
+5431,ms,execution time
+5432,ms,elapsed time
+5433,ms,execution time
+5434,ms,execution time
+5435,ms,execution time
+5436,ms,elapsed time
+5437,ms,execution time
+5438,ms,execution time
+5439,ms,elapsed time
+5440,ms,elapsed time
+5441,ms,elapsed time
+5442,ms,query runtime
+5443,ms,elapsed time
+5444,ms,query runtime
+5445,ms,execution time
+5446,ms,execution time
+5447,ms,execution time
+5448,ms,execution time
+5449,ms,elapsed time
+5450,ms,testjoinrepeated
+5451,ms,testjoinsimple
+5452,ms,testjoinstringrepeated
+5453,ms,testjoinstringsimple
+5454,ms,elapsed time
+5455,ms,testjoinrepeated
+5456,ms,testjoinsimple
+5457,ms,testjoinstringrepeated
+5458,ms,testjoinstringsimple
+5459,ms,testjoinrepeated
+5460,ms,testjoinsimple
+5461,ms,testjoinstringrepeated
+5462,ms,testjoinstringsimple
+5463,actions/(sec*threads),merge actions
+5464,actions/(sec*threads),search actions
+5465,actions/(sec*threads),search actions
+5466,actions/(sec*threads),write actions
+5467,actions/(sec*threads),search actions
+5468,actions/(sec*threads),write actions
+5469,actions/(sec*threads),search actions
+5470,actions/(sec*threads),write actions
+5471,actions/(sec*threads),search actions
+5472,actions/(sec*threads),write actions
+5473,s,elapsed time
+5474,s,elapsed time
+5475,s,elapsed time
+5476,s,elapsed time
+5477,s,elapsed time
+5478,s,elapsed time
+5479,s,elapsed time
+5480,s,elapsed time
+5481,s,elapsed time
+5482,s,elapsed time
+5483,s,elapsed time
+5484,s,elapsed time
+5485,s,elapsed time
+5486,s,elapsed time
+5487,s,elapsed time
+5488,s,elapsed time
+5489,s,elapsed time
+5490,s,elapsed time
+5491,ms,elapsed time
+5492,ms,elapsed time
+5493,ms,sum of average execution time from all processes
+5494,ms,sum of lookup time from all processes
+5495,ms,sum of lookup time from all processes
+5496,ms,sum of lookup time from all processes
+5519,ms,elapsed time
+5520,ms,elapsed time
+5521,ms,elapsed time
+5522,ms,elapsed time
+5523,ms,elapsed time
+5524,ms,elapsed time
+5525,s,elapsed time
+5526,s,elapsed time
+5527,s,elapsed time
+5528,ms,elapsed time
+5529,s,elapsed time
+5530,s,elapsed time
+5531,ms,elapsed time
+5532,s,elapsed time
+5533,ms,elapsed time
+5534,ms,elapsed time
+5535,ms,elapsed time
+5536,ms,elapsed time
+5537,ms,elapsed time
+5538,s,elapsed time
+5539,s,elapsed time
+5540,s,elapsed time
+5541,ms,elapsed time
+5542,ms,elapsed time
+5543,ms,elapsed time
+5544,ms,elapsed time
+5545,ms,elapsed time
+5546,ms,elapsed time
+5547,ms,elapsed time
+5548,ms,elapsed time
+5549,s,elapsed time
+5550,s,elapsed time
+5551,s,elapsed time
+5552,s,elapsed time
+5553,s,elapsed time
+5554,s,elapsed time
+5555,s,elapsed time
+5556,s,elapsed time
+5557,ms,elapsed time
+5558,s,elapsed time
+5559,ms,elapsed time
+5560,ms,elapsed time
+5561,s,elapsed time
+5562,ms,elapsed time
+5563,s,elapsed time
+5564,s,elapsed time
+5565,s,elapsed time
+5566,s,elapsed time
+5567,ms,elapsed time
+5568,ms,elapsed time
+5569,s,elapsed time
+5570,ms,elapsed time
+5571,ms,elapsed time
+5572,s,elapsed time
+5573,ms,elapsed time
+5574,ms,elapsed time
+5575,ms,elapsed time
+5576,ms,elapsed time
+5577,s,elapsed time
+5578,ms,elapsed time
+5579,ms,elapsed time
+5580,ms,elapsed time
+5581,ms,elapsed time
+5582,ms,elapsed time
+5583,ms,elapsed time
+5584,s,elapsed time
+5585,ms,elapsed time
+5586,ms,elapsed time
+5587,s,elapsed time
+5588,ms,elapsed time
+5589,ms,elapsed time
+5590,s,elapsed time
+5591,s,elapsed time
+5592,s,elapsed time
+5593,s,elapsed time
+5594,s,elapsed time
+5595,s,elapsed time
+5596,s,elapsed time
+5597,s,elapsed time
+5598,s,elapsed time
+5599,s,elapsed time
+5600,ms,elapsed time
+5601,ms,elapsed time
+5602,ms,elapsed time
+5603,s,elapsed time
+5604,ms,elapsed time
+5605,s,elapsed time
+5606,ms,elapsed time
+5607,s,elapsed time
+5608,ms,elapsed time
+5609,ms,elapsed time
+5610,ms,elapsed time
+5611,s,elapsed time
+5612,s,elapsed time
+5613,s,elapsed time
+5614,s,elapsed time
+5615,s,elapsed time
+5616,ms,query runtime
+5617,ms,query runtime
+5618,ms,avg elapsed time
+5619,ms,avg elapsed time
+5620,ms,execution time
+5621,s,elapsed time
+5622,ms,execution time
+5623,ms,execution time
+5624,ms,execution time
+5625,ms,execution time
+5626,ms,execution time
+5627,ms,execution time
+5628,ms,execution time
+5629,ms,execution time
+5630,ms,execution time
+5631,ms,avg elapsed time
+5632,ms,avg elapsed time
+5633,ms,execution time
+5634,ms,execution time
+5635,ms,execution time
+5636,ms,execution time
+5637,ms,execution time
+5638,ms,execution time
+5639,ms,execution time
+5640,ms,execution time
+5641,s,elapsed time
+5642,s,elapsed time
+5643,ms,elapsed time
+5644,s,elapsed time
+5645,ms,elapsed time
+5646,ms,elapsed time
+5647,ms,elapsed time
+5648,s,elapsed time
+5649,ms,elapsed time
+5650,ms,elapsed time
+5651,s,elapsed time
+5652,s,elapsed time
+5653,s,elapsed time
+5654,s,elapsed time
+5655,ms,execution time
+5656,ms,elapsed time
+5657,ms,execution time
+5658,ms,execution time
+5659,ms,execution time
+5660,ms,elapsed time
+5661,ms,elapsed time
+5662,s,elapsed time
+5663,ms,elapsed time
+5664,ms,elapsed time
+5665,ms,elapsed time
+5666,ms,elapsed time
+5667,s,elapsed time
+5668,ms,elapsed time
+5669,ms,elapsed time
+5670,s,elapsed time
+5671,s,elapsed time
+5672,s,elapsed time
+5673,s,elapsed time
+5674,ms,elapsed time
+5675,ms,elapsed time
+5676,s,elapsed time
+5677,ms,elapsed time
+5678,ms,elapsed time
+5679,ms,cpu time
+5680,ms,elapsed time
+5681,ms,elapsed time
+5682,ms,elapsed time
+5683,s,elapsed time
+5684,ms,time
+5685,ms,time
+5686,s,elapsed time
+5687,ms,time
+5688,ms,time
+5689,ms,elapsed time
+5690,ms,time
+5691,ms,elapsed time
+5692,ms,cpu time
+5693,ms,testjoinrepeated
+5694,ms,testjoinsimple
+5695,ms,elapsed time
+5696,ms,cpu time
+5697,ms,testjoinstringrepeated
+5698,ms,testjoinstringsimple
+5699,us,runtime
+5700,us,runtime
+5701,us,runtime
+5702,us,runtime
+5703,ms,elapsed time
+5704,ms,elapsed time
+5705,ms,testjoinrepeated
+5706,ms,testjoinsimple
+5707,ms,testjoinstringrepeated
+5708,ms,testjoinstringsimple
+5709,ms,testjoinrepeated
+5710,ms,testjoinsimple
+5711,ms,testjoinstringrepeated
+5712,ms,testjoinstringsimple
+5713,s,elapsed time
+5714,ms,cpu time
+5715,s,elapsed time
+5716,s,elapsed time
+5717,s,elapsed time
+5718,s,elapsed time
+5719,ms,cpu time
+5720,s,elapsed time
+5721,ms,cpu time
+5722,actions/(sec*threads),merge actions
+5723,actions/(sec*threads),search actions
+5724,s,elapsed time
+5725,actions/(sec*threads),search actions
+5726,actions/(sec*threads),write actions
+5727,actions/(sec*threads),search actions
+5728,actions/(sec*threads),write actions
+5729,actions/(sec*threads),search actions
+5730,actions/(sec*threads),write actions
+5731,actions/(sec*threads),search actions
+5732,s,elapsed time
+5733,s,elapsed time
+5734,ms,cpu time
+5735,actions/(sec*threads),write actions
+5736,ms,elapsed time/query
+5737,ms,elapsed time/query
+5738,s,elapsed time
+5739,ms,elapsed time/query
+5740,ms,elapsed time/query
+5741,s,elapsed time
+5742,s,elapsed time
+5743,s,elapsed time
+5744,s,elapsed time
+5745,s,elapsed time
+5746,s,elapsed time
+5747,s,elapsed time
+5748,s,elapsed time
+5749,s,elapsed time
+5750,ms,sum of average execution time from all processes
+5751,s,elapsed time
+5752,s,elapsed time
+5753,s,elapsed time
+5754,s,elapsed time
+5755,s,elapsed time
+5756,s,elapsed time
+5757,s,elapsed time
+5758,s,elapsed time
+5759,s,elapsed time
+5760,s,elapsed time
+5761,ms,elapsed time
+5762,ms,elapsed time
+5763,ms,sum of average execution time from all processes
+5764,ms,elapsed time
+5765,ms,sum of lookup time from all processes
+5766,ms,elapsed time
+5767,ms,sum of lookup time from all processes
+5768,ms,sum of lookup time from all processes
+5807,TPS,throughput
+5808,us,average commit duration
+5809,s,elapsed time
+5810,ms,cpu time
+5811,ms,cpu service time
+5812,TPS,throughput
+5813,ms,cpu service time
+5814,TPS,throughput
+5815,us,average commit duration
+5816,TPS,throughput
+5817,us,average commit duration
+5818,TPS,throughput
+5819,TPS,throughput
+5820,s,elapsed time
+5821,ms,cpu time
+5822,ms,cpu service time
+5823,TPS,throughput
+5824,us,average commit duration
+5825,TPS,throughput
+5826,us,average commit duration
+5827,s,elapsed time
+5828,ms,cpu time
+5829,ms,cpu service time
+5830,TPS,throughput
+5831,TPS,throughput
+5832,ms,cpu service time
+5833,TPS,throughput
+5834,us,average commit duration
+5835,TPS,throughput
+5836,us,average commit duration
+5837,ms,cpu service time
+5838,TPS,throughput
+5839,TPS,throughput
+5840,s,elapsed time
+5841,ms,cpu time
+5842,ms,cpu service time
+5843,TPS,throughput
+5844,TPS,throughput
+5845,s,elapsed time
+5846,ms,cpu service time
+5847,TPS,throughput
+5848,TPS,throughput
+5849,ms,cpu service time
+5850,TPS,throughput
+5851,us,average commit duration
+5852,s,elapsed time
+5853,ms,cpu service time
+5854,TPS,throughput
+5855,ms,cpu service time
+5856,TPS,throughput
+5857,us,average commit duration
+5858,s,elapsed time
+5859,ms,cpu time
+5860,ms,cpu service time
+5861,TPS,throughput
+5862,ms,cpu service time
+5863,TPS,throughput
+5864,s,elapsed time
+5865,ms,cpu time
+5866,TPS,throughput
+5867,ms,cpu service time
+5868,TPS,throughput
+5869,us,average commit duration
+5870,TPS,throughput
+5871,s,elapsed time
+5872,ms,cpu time
+5873,ms,elapsed time avg
+5874,ms,cpu service time avg
+5875,ms,elapsed time avg
+5876,ms,cpu service time avg
+5877,ms,elapsed time avg
+5878,ms,cpu service time avg
+5879,ms,elapsed time avg
+5880,ms,cpu service time
+5881,TPS,throughput
+5882,us,average commit duration
+5883,ms,cpu service time avg
+5884,ms,elapsed time avg
+5885,ms,elapsed time avg
+5886,ms,elapsed time avg
+5887,ms,cpu service time avg
+5888,ms,elapsed time avg
+5889,ms,elapsed time avg
+5890,ms,cpu service time avg
+5891,ms,elapsed time avg
+5892,ms,cpu service time avg
+5893,ms,elapsed time avg
+5894,ms,cpu service time avg
+5895,ms,elapsed time avg
+5896,ms,cpu service time
+5897,TPS,throughput
+5898,ms,cpu service time avg
+5899,ms,elapsed time avg
+5900,ms,cpu service time avg
+5901,ms,elapsed time avg
+5902,ms,elapsed time avg
+5903,ms,cpu service time avg
+5904,ms,elapsed time avg
+5905,ms,cpu service time avg
+5906,ms,elapsed time avg
+5907,ms,cpu service time avg
+5908,ms,elapsed time avg
+5909,ms,cpu service time
+5910,ms,cpu service time avg
+5911,ms,elapsed time avg
+5912,TPS,throughput
+5913,us,average commit duration
+5914,ms,elapsed time avg
+5915,ms,cpu service time
+5916,TPS,throughput
+5917,ms,elapsed time
+5918,ms,elapsed time
+5919,TPS,throughput
+5920,ms,elapsed time
+5921,ms,cpu time
+5922,ms,elapsed time
+5923,ms,elapsed time
+5924,ms,elapsed time
+5925,ms,elapsed time
+5926,ms,elapsed time
+5927,ms,elapsed time
+5928,ms,elapsed time
+5929,ms,elapsed time
+5930,ms,elapsed time
+5931,ms,elapsed time
+5932,TPS,throughput
+5933,us,average commit duration
+5934,ms,elapsed time
+5935,ms,cpu time
+5936,ms,elapsed time
+5937,ms,elapsed time
+5938,ms,elapsed time
+5939,ms,elapsed time
+5940,TPS,throughput
+5941,ms,elapsed time
+5942,ms,elapsed time
+5943,ms,elapsed time
+5944,ms,elapsed time
+5945,ms,elapsed time
+5946,ms,elapsed time
+5947,ms,elapsed time
+5948,ms,elapsed time
+5949,ms,elapsed time
+5950,ms,elapsed time
+5951,ms,elapsed time
+5952,ms,elapsed time
+5953,ms,elapsed time
+5954,ms,elapsed time
+5955,TPS,throughput
+5956,ms,elapsed time
+5957,ms,cpu time
+5958,ms,elapsed time
+5959,ms,cpu time
+5960,ms,elapsed time
+5961,ms,cpu time
+5962,ms,elapsed time
+5963,ms,cpu time
+5964,ms,elapsed time
+5965,ms,cpu time
+5966,ms,elapsed time
+5967,ms,cpu time
+5968,ms,elapsed time
+5969,ms,cpu time
+5970,ms,elapsed time
+5971,ms,cpu time
+5972,ms,elapsed time
+5973,ms,cpu service time
+5974,TPS,TPS
+5975,us,avg_commit_duration
+5976,ms,elapsed time
+5977,ms,cpu time
+5978,ms,elapsed time
+5979,ms,cpu time
+5980,ms,elapsed time
+5981,ms,cpu time
+5982,ms,elapsed time
+5983,ms,cpu service time
+5984,TPS,TPS
+5985,us,avg_commit_duration
+5986,ms,elapsed time
+5987,ms,cpu time
+5988,ms,elapsed time
+5989,ms,cpu time
+5990,ms,elapsed time
+5991,ms,cpu time
+5992,ms,elapsed time
+5993,ms,cpu time
+5994,ms,elapsed time
+5995,ms,cpu service time
+5996,TPS,TPS
+5997,us,avg_commit_duration
+5998,ms,elapsed time
+5999,ms,elapsed time
+6000,ms,cpu time
+6001,ms,elapsed time
+6002,ms,elapsed time
+6003,ms,elapsed time
+6004,ms,cpu time
+6005,ms,elapsed time
+6006,ms,cpu time
+6007,ms,elapsed time
+6008,ms,elapsed time
+6009,ms,cpu time
+6010,ms,elapsed time
+6011,ms,cpu time
+6012,ms,elapsed time
+6013,ms,cpu time
+6014,ms,elapsed time
+6015,ms,cpu time
+6016,ms,elapsed time
+6017,ms,elapsed time
+6018,ms,cpu time
+6019,ms,elapsed time
+6020,ms,cpu time
+6021,ms,elapsed time
+6022,ms,cpu time
+6023,s,elapsed time
+6024,s,elapsed time
+6025,s,elapsed time
+6026,s,elapsed time
+6027,ms,cpu service time avg
+6028,ms,elapsed time avg
+6029,s,elapsed time
+6030,ms,elapsed time
+6031,ms,cpu service time
+6032,TPS,TPS
+6033,ms,avg_propagation_delay
+6034,ms,cpu service time avg
+6035,ms,elapsed time avg
+6036,us,avg_commit_duration
+6037,ms,cpu service time avg
+6038,ms,elapsed time avg
+6039,ms,cpu service time avg
+6040,ms,elapsed time avg
+6041,ms,cpu service time avg
+6042,ms,elapsed time avg
+6043,ms,cpu service time avg
+6044,ms,elapsed time avg
+6045,ms,cpu service time avg
+6046,ms,elapsed time avg
+6047,ms,cpu service time avg
+6048,ms,elapsed time avg
+6049,ms,cpu service time avg
+6050,ms,elapsed time avg
+6051,ms,elapsed time
+6052,ms,cpu service time
+6053,TPS,TPS
+6054,ms,avg_propagation_delay
+6055,us,avg_commit_duration
+6056,ms,cpu service time avg
+6057,ms,elapsed time avg
+6058,ms,cpu service time avg
+6059,ms,elapsed time avg
+6060,ms,cpu service time avg
+6061,ms,elapsed time avg
+6062,ms,cpu service time avg
+6063,ms,elapsed time avg
+6064,ms,cpu service time avg
+6065,ms,elapsed time avg
+6066,ms,cpu service time avg
+6067,ms,elapsed time avg
+6068,ms,elapsed time avg
+6069,ms,cpu service time avg
+6070,ms,elapsed time avg
+6071,ms,cpu service time avg
+6072,ms,elapsed time avg
+6073,ms,cpu service time avg
+6074,ms,elapsed time avg
+6075,ms,cpu service time avg
+6076,ms,elapsed time avg
+6077,ms,elapsed time
+6078,ms,cpu service time
+6079,TPS,TPS
+6080,ms,avg_propagation_delay
+6081,us,avg_commit_duration
+6082,ms,elapsed time
+6083,ms,cpu service time
+6084,TPS,TPS
+6085,ms,avg_propagation_delay
+6086,us,avg_commit_duration
+6087,ms,elapsed time
+6088,ms,cpu service time
+6089,TPS,TPS
+6090,ms,avg_propagation_delay
+6091,us,avg_commit_duration
+6092,ms,elapsed time
+6093,ms,cpu service time
+6094,TPS,throughput
+6095,ms,cpu service time
+6096,TPS,throughput
+6097,ms,elapsed time
+6098,ms,cpu service time
+6099,TPS,TPS
+6100,ms,avg_propagation_delay
+6101,us,avg_commit_duration
+6102,ms,elapsed time
+6103,ms,cpu service time
+6104,ms,elapsed time
+6105,ms,cpu service time
+6106,ms,elapsed time
+6107,ms,elapsed time
+6108,ms,elapsed time
+6109,ms,elapsed time
+6110,ms,elapsed time
+6111,ms,cpu service time
+6112,ms,elapsed time
+6113,ms,elapsed time
+6114,ms,elapsed time
+6115,ms,cpu service time
+6116,TPS,throughput
+6117,ms,cpu service time
+6118,ms,elapsed time
+6119,ms,cpu service time
+6120,ms,elapsed time
+6121,ms,cpu service time
+6122,TPS,throughput
+6123,TPS,throughput
+6124,s,elapsed time
+6125,ms,cpu time
+6126,TPS,throughput
+6127,s,elapsed time
+6128,ms,cpu time
+6129,s,elapsed time
+6130,ms,cpu time
+6131,s,elapsed time
+6132,ms,cpu time
+6133,s,elapsed time
+6134,s,elapsed time
+6135,s,elapsed time
+6136,ms,cpu time
+6137,s,elapsed time
+6138,ms,cpu time
+6139,s,elapsed time
+6140,ms,cpu time
+6141,ms,cpu service time avg
+6142,ms,elapsed time avg
+6143,ms,cpu service time
+6144,ms,elapsed time
+6145,ms,cpu service time avg
+6146,ms,elapsed time avg
+6147,ms,elapsed time
+6148,ms,elapsed time avg
+6149,ms,elapsed time
+6150,ms,cpu service time avg
+6151,ms,elapsed time avg
+6152,ms,elapsed time
+6153,trans/min,tpmc
+6154,s,average runtime
+6155,s,average runtime
+6156,s,average runtime
+6157,s,average runtime
+6158,s,average runtime
+6159,s,average runtime
+6160,s,average runtime
+6161,s,average runtime
+6162,trans/min,tpmc
+6163,s,average runtime
+6164,s,average runtime
+6165,s,average runtime
+6166,s,average runtime
+6167,s,average runtime
+6168,s,average runtime
+6169,s,average runtime
+6170,s,average runtime
+6171,trans/min,tpmc
+6172,SAPS,total dialogue steps per minute
+6173,s,response time
+6174,ms,avg. dia db req. time
+6175,ms,avg. upd db req. time
+6176,ms,avg. up2 db req. time
+6177,ms,avg. dia wait req. time
+6178,ms,avg. upd wait req. time
+6179,ms,avg. up2 wait req. time
+6180,DMLs,total dml count
+6181,DMLs,max dml count
+6182,DMLs,avg dml count
+6183,commits,commit rate
+6184,logwrites,log write rate
+6185,count,atr_update_retry_count
+6186,count,atr_delete_retry_count
+6187,count,atr_total_retry_count
+6188,s,atr_elapsed_time_by_mon
+6189,ms,atr_cpu_by_mon
+6190,s,atr_elapsed_time
+6191,TPS,TPS
+6192,LPS,lps
+6193,ms,cpu service time
+6194,us,average commit duration
+6195,ms,cpu service time
+6196,TPS,throughput
+6197,us,average commit duration
+6198,ms,cpu service time
+6199,TPS,throughput
+6200,ms,cpu service time
+6201,TPS,throughput
+6202,us,average commit duration
+6203,TPS,throughput
+6204,us,average commit duration
+6205,ms,cpu service time
+6206,ms,cpu service time
+6207,TPS,throughput
+6208,us,average commit duration
+6209,TPS,throughput
+6210,us,average commit duration
+6211,ms,cpu service time
+6212,TPS,throughput
+6213,TPS,throughput
+6214,ms,cpu service time
+6215,TPS,throughput
+6216,us,average commit duration
+6217,TPS,throughput
+6218,us,average commit duration
+6219,ms,cpu service time
+6220,TPS,throughput
+6221,TPS,throughput
+6222,ms,cpu service time
+6223,TPS,throughput
+6224,us,average commit duration
+6225,TPS,throughput
+6226,us,average commit duration
+6227,ms,cpu service time
+6228,TPS,throughput
+6229,TPS,throughput
+6230,ms,cpu service time
+6231,TPS,throughput
+6232,us,average commit duration
+6233,ms,cpu service time
+6234,TPS,throughput
+6235,us,average commit duration
+6236,TPS,throughput
+6237,us,average commit duration
+6238,ms,cpu service time
+6239,TPS,throughput
+6240,us,average commit duration
+6241,TPS,throughput
+6242,ms,cpu service time
+6243,us,average commit duration
+6244,ms,cpu service time
+6245,TPS,throughput
+6246,ms,cpu service time
+6247,us,average commit duration
+6248,ms,cpu service time
+6249,TPS,throughput
+6250,ms,cpu service time
+6251,us,average commit duration
+6252,ms,cpu service time
+6253,TPS,throughput
+6254,ms,cpu service time
+6255,TPS,throughput
+6256,TPS,throughput
+6257,TPS,throughput
+6258,ms,elapsed time
+6259,ms,elapsed time
+6260,ms,elapsed time
+6261,ms,elapsed time
+6262,ms,elapsed time
+6263,ms,elapsed time
+6264,TPS,throughput
+6265,ms,elapsed time
+6266,ms,cpu service time
+6267,TPS,TPS
+6268,us,avg_commit_duration
+6269,ms,elapsed time
+6270,ms,cpu service time
+6271,TPS,TPS
+6272,us,avg_commit_duration
+6273,ms,elapsed time
+6274,ms,cpu service time
+6275,TPS,TPS
+6276,us,avg_commit_duration
+6277,ms,elapsed time
+6278,s,elapsed time
+6279,s,elapsed time
+6280,ms,elapsed time
+6281,s,elapsed time
+6282,s,elapsed time
+6283,s,elapsed time
+6284,ms,elapsed time
+6285,trans/min,tpmc
+6286,trans/min,tpmc
+6287,trans/min,tpmc
+6288,ms,elapsed time
+6289,ms,elapsed time
+6290,ms,elapsed time
+6291,ms,cpu time
+6292,ms,elapsed time
+6293,ms,elapsed time
+6294,ms,elapsed time
+6295,ms,elapsed time
+6296,ms,elapsed time
+6297,ms,elapsed time
+6298,ms,elapsed time
+6299,ms,elapsed time
+6300,ms,elapsed time
+6301,ms,elapsed time
+6302,us,average commit duration
+6303,ms,elapsed time
+6304,ms,elapsed time
+6305,ms,cpu time
+6306,ms,elapsed time
+6307,ms,cpu time
+6308,ms,elapsed time
+6309,ms,elapsed time
+6310,ms,cpu time
+6311,ms,elapsed time
+6312,ms,cpu time
+6313,ms,elapsed time
+6314,ms,cpu time
+6315,ms,elapsed time
+6316,ms,elapsed time
+6317,ms,elapsed time
+6318,ms,elapsed time
+6319,ms,elapsed time
+6320,ms,cpu time
+6321,ms,elapsed time
+6322,ms,elapsed time
+6323,ms,elapsed time
+6324,ms,cpu time
+6325,ms,elapsed time
+6326,ms,cpu time
+6327,ms,elapsed time
+6328,ms,elapsed time
+6329,ms,elapsed time
+6330,ms,cpu time
+6331,ms,elapsed time
+6332,ms,elapsed time
+6333,ms,cpu time
+6334,ms,elapsed time
+6335,ms,elapsed time
+6336,ms,elapsed time
+6337,ms,elapsed time
+6338,ms,elapsed time
+6339,ms,cpu time
+6340,ms,elapsed time
+6341,ms,elapsed time
+6342,ms,elapsed time
+6343,ms,cpu time
+6344,ms,elapsed time
+6345,ms,elapsed time
+6346,ms,elapsed time
+6347,ms,elapsed time
+6348,ms,elapsed time
+6349,ms,cpu time
+6350,ms,elapsed time
+6351,ms,elapsed time
+6352,ms,elapsed time
+6353,ms,cpu time
+6354,ms,elapsed time
+6355,ms,elapsed time
+6356,ms,cpu time
+6357,ms,cpu service time
+6358,TPS,throughput
+6359,us,average commit duration
+6360,ms,elapsed time
+6361,ms,cpu time
+6362,ms,elapsed time
+6363,ms,cpu service time
+6364,TPS,TPS
+6365,ms,avg_propagation_delay
+6366,us,avg_commit_duration
+6367,ms,elapsed time
+6368,ms,cpu time
+6369,ms,cpu service time
+6370,TPS,throughput
+6371,ms,elapsed time
+6372,ms,cpu time
+6373,ms,cpu service time
+6374,ms,elapsed time
+6375,ms,cpu time
+6376,ms,elapsed time
+6377,ms,cpu time
+6378,ms,elapsed time
+6379,ms,cpu service time
+6380,TPS,TPS
+6381,ms,avg_propagation_delay
+6382,us,avg_commit_duration
+6383,ms,elapsed time
+6384,ms,cpu time
+6385,ms,elapsed time
+6386,ms,cpu time
+6387,ms,elapsed time
+6388,ms,cpu time
+6389,ms,elapsed time
+6390,ms,cpu time
+6391,ms,elapsed time
+6392,ms,cpu time
+6393,ms,elapsed time
+6394,ms,cpu service time
+6395,TPS,TPS
+6396,ms,avg_propagation_delay
+6397,us,avg_commit_duration
+6398,ms,cpu service time
+6399,ms,elapsed time
+6400,ms,cpu service time
+6401,TPS,TPS
+6402,ms,avg_propagation_delay
+6403,us,avg_commit_duration
+6404,ms,elapsed time
+6405,ms,cpu service time
+6406,TPS,TPS
+6407,ms,avg_propagation_delay
+6408,us,avg_commit_duration
+6409,us,average commit duration
+6410,us,average commit duration
+6411,ms,elapsed time
+6412,ms,cpu service time
+6413,TPS,TPS
+6414,ms,avg_propagation_delay
+6415,us,avg_commit_duration
+6416,ms,cpu service time
+6417,ms,cpu service time
+6418,ms,cpu service time avg
+6419,ms,elapsed time
+6420,ms,cpu service time
+6421,ms,elapsed time
+6422,ms,cpu service time
+6423,ms,cpu service time
+6424,ms,elapsed time
+6425,ms,elapsed time
+6426,SAPS,total dialogue steps per minute
+6427,s,response time
+6428,ms,avg. dia db req. time
+6429,ms,avg. upd db req. time
+6430,ms,avg. up2 db req. time
+6431,ms,avg. dia wait req. time
+6432,ms,avg. upd wait req. time
+6433,ms,avg. up2 wait req. time
+6434,DMLs,total dml count
+6435,DMLs,max dml count
+6436,DMLs,avg dml count
+6437,commits,commit rate
+6438,logwrites,log write rate
+6439,count,atr_update_retry_count
+6440,count,atr_delete_retry_count
+6441,count,atr_total_retry_count
+6442,s,atr_elapsed_time_by_mon
+6443,ms,atr_cpu_by_mon
+6444,s,atr_elapsed_time
+6445,TPS,TPS
+6446,LPS,lps
+6447,ms,cpu time
+6448,ms,cpu time
+6449,ms,cpu time
+6450,ms,cpu time
+6451,ms,cpu time
+6452,ms,cpu time
+6453,ms,cpu service time avg
+6454,us,average commit duration
+6455,ms,cpu service time
+6456,ms,cpu service time
+6457,ms,cpu service time avg
+6458,us,average commit duration
+6459,us,average commit duration
+6460,ms,cpu service time avg
+6461,ms,cpu service time avg
+6462,ms,cpu service time avg
+6463,ms,cpu time
+6464,ms,cpu service time
+6465,ms,cpu service time
+6466,ms,cpu time
+6467,ms,cpu time
+6468,ms,cpu time
+6469,us,average commit duration
+6470,us,average commit duration
+6471,ms,cpu time
+6472,us,average commit duration
+6473,us,average commit duration
+6474,us,average commit duration
+6475,ms,cpu service time
+6476,ms,cpu service time
+6477,ms,cpu service time avg
+6478,us,average commit duration
+6479,us,average commit duration
+6480,us,average commit duration
+6481,ms,cpu service time avg
+6482,ms,cpu time
+6483,ms,cpu time
+6484,us,average commit duration
+6485,us,average commit duration
+6486,us,average commit duration
+6487,us,average commit duration
+6488,us,average commit duration
+6489,us,average commit duration
+6490,us,average commit duration
+6491,us,average commit duration
+6492,us,average commit duration
+6493,us,average commit duration
+6494,ms,avg. dialogue step time
+6495,us,average commit duration
+6496,us,average commit duration
+6497,us,average commit duration
+6498,us,average commit duration
+6499,us,average commit duration
+6500,us,average commit duration
+6501,us,average commit duration
+6502,us,average commit duration
+6503,us,average commit duration
+6504,us,average commit duration
+6505,us,average commit duration
+6506,us,average commit duration
+6507,us,average commit duration
+6508,ms,cpu time
+6509,ms,elapsed time
+6510,ms,elapsed time
+6511,ms,elapsed time
+6512,ms,elapsed time
+6513,ms,elapsed time
+6514,ms,elapsed time
+6515,ms,elapsed time
+6516,ms,elapsed time
+6517,ms,elapsed time
+6518,ms,elapsed time
+6519,ms,elapsed time
+6520,ms,elapsed time
+6521,ms,elapsed time
+6522,ms,elapsed time
+6523,ms,elapsed time
+6524,ms,elapsed time
+6525,ms,elapsed time
+6526,ms,elapsed time
+6527,ms,elapsed time
+6528,ms,elapsed time
+6529,ms,elapsed time
+6530,ms,elapsed time
+6531,ms,elapsed time
+6532,ms,cpu service time avg
+6533,ms,elapsed time avg
+6534,ms,elapsed time
+6535,ms,elapsed time
+6536,ms,elapsed time
+6537,ms,elapsed time
+6538,ms,elapsed time
+6539,ms,elapsed time avg
+6540,ms,cpu service time avg
+6541,ms,elapsed time avg
+6542,ms,elapsed time
+6543,ms,elapsed time
+6544,ms,elapsed time
+6545,ms,elapsed time
+6546,ms,elapsed time
+6547,ms,elapsed time
+6548,ms,elapsed time
+6549,ms,elapsed time
+6550,ms,elapsed time
+6551,ms,elapsed time
+6552,ms,cpu service time
+6553,ms,elapsed time
+6554,ms,elapsed time
+6555,ms,cpu service time
+6556,ms,elapsed time
+6557,ms,cpu service time
+6558,ms,elapsed time
+6559,ms,elapsed time
+6560,ms,cpu service time
+6561,ms,elapsed time
+6562,ms,elapsed time
+6563,ms,elapsed time
+6564,ms,elapsed time
+6565,ms,elapsed time
+6566,ms,elapsed time
+6567,ms,elapsed time
+6568,ms,cpu service time
+6569,ms,elapsed time
+6570,ms,cpu service time
+6571,ms,elapsed time
+6572,ms,elapsed time
+6573,ms,elapsed time
+6574,ms,elapsed time
+6575,ms,elapsed time
+6576,ms,elapsed time
+6577,ms,cpu service time
+6578,ms,elapsed time
+6579,ms,elapsed time
+6580,ms,elapsed time
+6581,ms,elapsed time
+6582,ms,elapsed time
+6583,ms,cpu service time
+6584,ms,elapsed time
+6585,ms,cpu service time
+6586,ms,elapsed time
+6587,ms,elapsed time
+6588,ms,elapsed time
+6589,ms,elapsed time
+6590,ms,cpu service time
+6591,ms,elapsed time
+6592,ms,elapsed time
+6593,ms,elapsed time
+6594,ms,cpu service time
+6595,ms,elapsed time
+6596,ms,elapsed time
+6597,ms,cpu service time avg
+6598,ms,elapsed time avg
+6599,ms,elapsed time
+6600,ms,cpu service time avg
+6601,ms,elapsed time avg
+6602,ms,elapsed time avg
+6603,ms,elapsed time avg
+6604,ms,elapsed time avg
+6605,ms,elapsed time
+6606,ms,elapsed time avg
+6607,ms,elapsed time avg
+6608,ms,elapsed time avg
+6609,ms,elapsed time avg
+6610,ms,elapsed time avg
+6611,ms,elapsed time
+6612,ms,elapsed time avg
+6613,ms,elapsed time avg
+6614,ms,elapsed time avg
+6615,ms,cpu service time avg
+6616,ms,elapsed time avg
+6617,ms,elapsed time
+6618,ms,elapsed time avg
+6619,ms,elapsed time avg
+6620,ms,elapsed time avg
+6621,ms,elapsed time
+6622,ms,elapsed time
+6623,ms,elapsed time
+6624,ms,elapsed time
+6625,ms,elapsed time
+6626,ms,cpu service time avg
+6627,ms,elapsed time avg
+6628,ms,elapsed time
+6629,ms,elapsed time
+6630,ms,elapsed time
+6631,ms,elapsed time
+6632,ms,elapsed time
+6633,ms,elapsed time
+6634,ms,elapsed time
+6635,ms,elapsed time
+6636,ms,elapsed time avg
+6637,ms,elapsed time avg
+6638,ms,elapsed time avg
+6639,ms,elapsed time avg
+6640,ms,elapsed time avg
+6641,ms,elapsed time avg
+6642,ms,elapsed time avg
+6643,ms,elapsed time avg
+6644,ms,cpu service time avg
+6645,ms,elapsed time avg
+6646,ms,elapsed time avg
+6647,ms,elapsed time avg
+6648,ms,elapsed time avg
+6649,ms,elapsed time avg
+6650,ms,elapsed time avg
+6651,ms,elapsed time avg
+6652,ms,elapsed time avg
+6653,ms,elapsed time avg
+6654,ms,elapsed time avg
+6655,ms,elapsed time avg
+6656,ms,elapsed time avg
+6657,ms,elapsed time avg
+6658,ms,elapsed time avg
+6659,ms,elapsed time avg
+6660,ms,elapsed time avg
+6661,ms,elapsed time avg
+6662,ms,elapsed time
+6663,ms,cpu service time
+6664,ms,elapsed time
+6665,ms,cpu service time
+6666,ms,elapsed time
+6667,ms,cpu service time
+6668,ms,elapsed time
+6669,ms,elapsed time
+6670,ms,elapsed time
+6671,ms,elapsed time
+6672,ms,cpu service time
+6673,ms,elapsed time
+6674,ms,elapsed time
+6675,ms,elapsed time
+6676,ms,cpu service time
+6677,ms,elapsed time
+6678,ms,cpu service time
+6679,ms,elapsed time
+6680,ms,elapsed time
+6681,ms,elapsed time
+6682,ms,elapsed time
+6683,ms,cpu service time
+6684,ms,elapsed time
+6685,ms,elapsed time
+6686,ms,cpu service time
+6687,ms,elapsed time
+6688,ms,cpu service time
+6689,ms,elapsed time
+6690,ms,cpu service time
+6691,ms,elapsed time
+6692,ms,cpu service time
+6693,ms,elapsed time
+6694,ms,cpu service time
+6695,ms,elapsed time
+6696,ms,cpu service time
+6697,ms,elapsed time
+6698,ms,cpu service time
+6699,ms,elapsed time
+6700,ms,cpu service time
+6701,ms,elapsed time
+6702,ms,elapsed time
+6703,ms,cpu service time
+6704,ms,elapsed time
+6705,ms,cpu service time
+6706,ms,elapsed time
+6707,ms,cpu service time
+6708,ms,elapsed time
+6709,ms,cpu service time
+6710,ms,elapsed time
+6711,ms,cpu service time
+6712,ms,elapsed time
+6713,ms,cpu service time
+6714,ms,elapsed time
+6715,ms,cpu service time
+6716,ms,elapsed time
+6717,ms,cpu service time
+6718,ms,elapsed time
+6719,ms,elapsed time
+6720,ms,elapsed time
+6721,ms,elapsed time
+6722,ms,elapsed time
+6723,ms,elapsed time
+6724,ms,elapsed time
+6725,ms,elapsed time
+6726,ms,elapsed time
+6727,ms,elapsed time
+6728,ms,elapsed time
+6729,ms,elapsed time
+6730,ms,elapsed time
+6731,ms,elapsed time
+6732,ms,elapsed time
+6733,ms,elapsed time
+6734,ms,elapsed time
+6735,ms,elapsed time
+6736,ms,elapsed time
+6737,ms,cpu service time
+6738,ms,elapsed time
+6739,ms,elapsed time
+6740,ms,elapsed time
+6741,ms,elapsed time
+6742,ms,elapsed time
+6743,ms,elapsed time
+6744,ms,elapsed time
+6745,ms,elapsed time
+6746,ms,elapsed time
+6747,ms,elapsed time
+6748,ms,elapsed time
+6749,ms,cpu service time
+6750,ms,elapsed time
+6751,ms,elapsed time
+6752,ms,elapsed time
+6753,ms,elapsed time
+6754,ms,elapsed time
+6755,ms,elapsed time
+6756,ms,elapsed time
+6757,ms,elapsed time
+6758,s,elapsed time
+6759,ms,elapsed time
+6760,ms,elapsed time
+6761,ms,elapsed time
+6762,ms,elapsed time
+6763,ms,elapsed time
+6764,ms,elapsed time
+6765,ms,elapsed time
+6766,ms,elapsed time
+6767,ms,elapsed time
+6768,ms,elapsed time
+6769,ms,elapsed time
+6770,ms,elapsed time
+6771,ms,elapsed time
+6772,ms,elapsed time
+6773,ms,elapsed time
+6774,ms,elapsed time avg
+6775,ms,elapsed time
+6776,ms,elapsed time avg
+6777,ms,elapsed time
+6778,ms,elapsed time avg
+6779,ms,elapsed time
+6780,ms,elapsed time
+6781,ms,elapsed time
+6782,ms,elapsed time
+6783,ms,elapsed time
+6784,ms,elapsed time
+6785,ms,elapsed time
+6786,ms,elapsed time
+6787,ms,elapsed time avg
+6788,ms,elapsed time
+6789,ms,elapsed time avg
+6790,ms,elapsed time
+6791,ms,elapsed time avg
+6792,ms,elapsed time
+6793,ms,elapsed time
+6794,ms,elapsed time
+6795,ms,cpu service time
+6796,ms,elapsed time
+6797,ms,elapsed time
+6798,ms,cpu service time
+6799,ms,elapsed time
+6800,ms,elapsed time
+6801,ms,cpu service time avg
+6802,ms,elapsed time avg
+6803,ms,elapsed time
+6804,ms,elapsed time
+6805,ms,elapsed time
+6806,ms,elapsed time
+6807,ms,elapsed time
+6808,ms,elapsed time
+6809,ms,elapsed time
+6810,ms,elapsed time
+6811,ms,cpu service time
+6812,ms,elapsed time
+6813,ms,elapsed time
+6814,ms,elapsed time
+6815,ms,cpu service time
+6816,ms,elapsed time
+6817,ms,elapsed time
+6818,ms,elapsed time
+6819,ms,elapsed time
+6820,ms,elapsed time
+6821,ms,elapsed time
+6822,ms,elapsed time
+6823,ms,elapsed time
+6824,ms,elapsed time
+6825,ms,elapsed time
+6826,ms,cpu service time
+6827,ms,elapsed time
+6828,ms,elapsed time
+6829,ms,elapsed time
+6830,ms,elapsed time
+6831,ms,elapsed time
+6832,ms,elapsed time
+6833,s,stopwatch
+6834,s,stopwatch
+6835,ms,elapsed time avg
+6836,ms,elapsed time avg
+6837,ms,elapsed time avg
+6838,ms,elapsed time avg
+6839,ms,elapsed time avg
+6840,ms,elapsed time avg
+6841,ms,elapsed time avg
+6842,ms,elapsed time avg
+6843,ms,elapsed time avg
+6844,ms,elapsed time avg
+6845,ms,elapsed time avg
+6846,ms,elapsed time avg
+6847,ms,elapsed time avg
+6848,ms,elapsed time avg
+6849,ms,elapsed time avg
+6850,ms,elapsed time avg
+6851,ms,elapsed time avg
+6852,ms,elapsed time avg
+6853,ms,elapsed time avg
+6854,ms,elapsed time avg
+6855,ms,elapsed time avg
+6856,ms,elapsed time avg
+6857,ms,elapsed time
+6858,ms,elapsed time
+6859,ms,elapsed time avg
+6860,ms,elapsed time avg
+6861,ms,elapsed time avg
+6862,ms,elapsed time avg
+6863,ms,elapsed time
+6864,ms,elapsed time
+6865,ms,elapsed time
+6866,ms,cpu service time
+6867,RPS,rps
+6868,ms,elapsed time
+6869,ms,cpu service time
+6870,RPS,rps
+6871,ms,elapsed time
+6872,ms,elapsed time avg
+6873,ms,elapsed time avg
+6874,ms,elapsed time avg
+6875,ms,elapsed time avg
+6876,ms,elapsed time
+6877,ms,elapsed time
+6878,ms,elapsed time
+6879,ms,elapsed time
+6880,ms,elapsed time
+6881,ms,cpu service time
+6882,RPS,rps
+6883,ms,elapsed time
+6884,ms,cpu service time
+6885,ms,elapsed time
+6886,ms,elapsed time
+6887,ms,elapsed time
+6888,ms,elapsed time
+6889,ms,elapsed time
+6890,ms,cpu service time
+6891,RPS,rps
+6892,ms,elapsed time
+6893,ms,elapsed time
+6894,ms,cpu service time
+6895,RPS,rps
+6896,ms,compilation time
+6897,ms,elapsed time
+6898,ms,elapsed time
+6899,ms,elapsed time
+6900,ms,elapsed time
+6901,ms,elapsed time
+6902,ms,elapsed time
+6903,ms,elapsed time
+6904,ms,elapsed time
+6905,ms,elapsed time
+6906,ms,elapsed time
+6907,ms,elapsed time
+6908,ms,elapsed time
+6909,ms,elapsed time
+6910,ms,elapsed time
+6911,ms,elapsed time
+6912,ms,elapsed time
+6913,ms,elapsed time
+6914,ms,elapsed time
+6915,ms,elapsed time
+6916,ms,elapsed time
+6917,ms,elapsed time
+6918,ms,elapsed time
+6919,ms,elapsed time
+6920,ms,elapsed time
+6921,ms,elapsed time
+6922,ms,elapsed time
+6923,ms,elapsed time
+6924,ms,elapsed time
+6925,ms,elapsed time
+6926,ms,elapsed time
+6927,ms,cpu service time avg
+6928,count,parallelism
+6929,ms,elapsed time avg
+6930,ms,elapsed time
+6931,ms,elapsed time
+6932,ms,elapsed time
+6933,ms,elapsed time
+6934,ms,elapsed time
+6935,ms,elapsed time
+6936,ms,elapsed time avg
+6937,count,parallelism
+6938,ms,elapsed time avg
+6939,count,parallelism
+6940,ms,elapsed time avg
+6941,count,parallelism
+6942,ms,elapsed time avg
+6943,count,parallelism
+6944,ms,elapsed time avg
+6945,count,parallelism
+6946,ms,elapsed time avg
+6947,count,parallelism
+6948,ms,cpu service time avg
+6949,ms,elapsed time avg
+6950,count,parallelism
+6951,ms,elapsed time avg
+6952,count,parallelism
+6953,ms,elapsed time avg
+6954,count,parallelism
+6955,ms,elapsed time avg
+6956,count,parallelism
+6957,ms,elapsed time avg
+6958,count,parallelism
+6959,ms,elapsed time avg
+6960,count,parallelism
+6961,ms,elapsed time avg
+6962,count,parallelism
+6963,ms,elapsed time avg
+6964,count,parallelism
+6965,ms,elapsed time avg
+6966,count,parallelism
+6967,ms,elapsed time avg
+6968,count,parallelism
+6969,ms,elapsed time avg
+6970,count,parallelism
+6971,ms,cpu service time avg
+6972,ms,elapsed time avg
+6973,count,parallelism
+6974,ms,elapsed time avg
+6975,count,parallelism
+6976,ms,elapsed time avg
+6977,count,parallelism
+6978,ms,elapsed time avg
+6979,count,parallelism
+6980,ms,elapsed time
+6981,ms,elapsed time
+6982,ms,elapsed time
+6983,ms,cpu service time
+6984,ms,elapsed time
+6985,ms,elapsed time
+6986,ms,elapsed time
+6987,ms,cpu service time
+6988,ms,elapsed time
+6989,ms,cpu service time
+6990,ms,elapsed time
+6991,ms,cpu service time
+6992,ms,elapsed time
+6993,ms,cpu service time
+6994,ms,elapsed time
+6995,ms,cpu service time
+6996,ms,elapsed time
+6997,ms,cpu service time
+6998,ms,elapsed time
+6999,ms,elapsed time
+7000,ms,elapsed time
+7001,ms,elapsed time
+7002,ms,cpu service time
+7003,ms,elapsed time
+7004,ms,elapsed time
+7005,ms,elapsed time
+7006,ms,cpu service time
+7007,ms,elapsed time
+7008,ms,cpu service time
+7009,ms,elapsed time
+7010,ms,elapsed time
+7011,ms,cpu service time
+7012,ms,elapsed time
+7013,ms,cpu service time
+7014,ms,elapsed time
+7015,ms,cpu service time
+7016,ms,elapsed time
+7017,ms,elapsed time
+7018,ms,elapsed time
+7019,ms,elapsed time
+7020,ms,elapsed time
+7021,ms,elapsed time
+7022,ms,elapsed time
+7023,ms,elapsed time
+7024,ms,elapsed time
+7025,ms,elapsed time
+7026,ms,elapsed time
+7027,ms,elapsed time
+7028,ms,elapsed time
+7029,ms,elapsed time
+7030,ms,elapsed time
+7031,ms,elapsed time
+7032,ms,elapsed time
+7033,ms,elapsed time
+7034,ms,elapsed time
+7035,ms,elapsed time
+7036,ms,elapsed time
+7037,ms,elapsed time
+7038,ms,cpu service time
+7039,ms,elapsed time
+7040,ms,cpu service time avg
+7041,ms,cpu service time avg
+7042,ms,cpu service time avg
+7043,ms,cpu service time avg
+7044,ms,cpu service time
+7045,ms,cpu service time
+7046,ms,cpu service time
+7047,ms,cpu service time avg
+7048,ms,elapsed time
+7049,ms,elapsed time
+7050,ms,elapsed time
+7051,ms,elapsed time
+7052,ms,elapsed time
+7053,ms,elapsed time
+7054,ms,elapsed time
+7055,ms,elapsed time
+7056,ms,elapsed time
+7057,ms,elapsed time
+7058,ms,elapsed time
+7059,ms,elapsed time
+7060,ms,elapsed time
+7061,ms,elapsed time
+7062,ms,elapsed time
+7063,ms,elapsed time
+7064,ms,elapsed time
+7065,ms,elapsed time
+7066,ms,cpu service time avg
+7067,ms,elapsed time avg
+7068,ms,cpu service time
+7069,ms,elapsed time
+7070,ms,elapsed time
+7071,ms,cpu service time
+7072,ms,elapsed time
+7073,ms,elapsed time
+7074,ms,elapsed time
+7075,ms,elapsed time
+7076,ms,elapsed time
+7077,ms,elapsed time
+7078,ms,elapsed time
+7079,ms,elapsed time
+7080,ms,elapsed time
+7081,ms,elapsed time
+7082,ms,elapsed time
+7083,ms,elapsed time
+7084,ms,elapsed time
+7085,ms,elapsed time
+7086,ms,elapsed time
+7087,ms,elapsed time
+7088,ms,elapsed time
+7089,ms,elapsed time
+7090,ms,elapsed time
+7091,ms,elapsed time
+7092,ms,elapsed time
+7093,ms,elapsed time
+7094,ms,elapsed time
+7095,ms,elapsed time
+7096,ms,elapsed time
+7097,ms,elapsed time
+7098,ms,elapsed time
+7099,ms,elapsed time
+7100,ms,elapsed time
+7101,ms,elapsed time
+7102,ms,elapsed time
+7103,ms,cpu service time
+7104,ms,cpu service time
+7105,ms,cpu service time
+7106,ms,elapsed time
+7107,ms,cpu service time avg
+7108,ms,elapsed time
+7109,ms,elapsed time
+7110,ms,elapsed time
+7111,ms,elapsed time
+7112,ms,cpu service time
+7113,ms,elapsed time
+7114,ms,elapsed time
+7115,ms,elapsed time
+7116,ms,elapsed time
+7117,ms,elapsed time
+7118,ms,elapsed time
+7119,ms,elapsed time
+7120,ms,elapsed time
+7121,ms,elapsed time
+7122,ms,cpu service time
+7123,ms,elapsed time
+7124,ms,elapsed time
+7125,ms,elapsed time
+7126,ms,elapsed time
+7127,ms,cpu service time
+7128,ms,elapsed time
+7129,ms,elapsed time
+7130,ms,elapsed time
+7131,ms,elapsed time
+7132,ms,elapsed time
+7133,ms,elapsed time
+7134,ms,cpu service time
+7135,ms,elapsed time
+7136,ms,elapsed time
+7137,ms,elapsed time
+7138,ms,cpu service time
+7139,ms,elapsed time
+7140,ms,cpu service time
+7141,ms,elapsed time
+7142,ms,elapsed time
+7143,ms,elapsed time
+7144,ms,cpu service time
+7145,ms,elapsed time
+7146,ms,elapsed time
+7147,ms,elapsed time
+7148,ms,elapsed time
+7149,ms,elapsed time
+7150,ms,elapsed time
+7151,ms,elapsed time
+7152,ms,elapsed time
+7153,ms,elapsed time
+7154,ms,elapsed time
+7155,ms,cpu service time
+7156,ms,elapsed time
+7157,ms,elapsed time
+7158,ms,cpu service time
+7159,ms,elapsed time
+7160,ms,elapsed time
+7161,ms,elapsed time
+7162,ms,elapsed time
+7163,ms,elapsed time
+7164,ms,cpu service time
+7165,ms,elapsed time
+7166,ms,cpu service time
+7167,ms,input dictionaries creation time
+7168,ms,rates table build time
+7169,ms,elapsed time
+7170,ms,cpu service time avg
+7171,ms,elapsed time
+7172,ms,elapsed time
+7173,ms,cpu service time avg
+7174,ms,cpu service time avg
+7175,ms,cpu service time avg
+7176,ms,cpu service time avg
+7177,ms,cpu service time
+7178,ms,cpu service time
+7179,ms,cpu service time
+7180,ms,cpu service time
+7181,ms,cpu service time
+7182,ms,cpu service time
+7183,ms,cpu service time
+7184,ms,cpu service time avg
+7185,ms,cpu service time avg
+7186,ms,elapsed time
+7187,ms,cpu service time avg
+7188,ms,cpu service time avg
+7189,ms,elapsed time
+7190,ms,cpu service time
+7191,ms,elapsed time
+7192,ms,elapsed time
+7193,ms,elapsed time
+7194,ms,elapsed time
+7195,ms,elapsed time
+7196,ms,cpu service time
+7197,ms,elapsed time
+7198,ms,cpu service time
+7199,ms,cpu service time
+7200,ms,cpu service time
+7201,ms,cpu service time
+7202,ms,cpu service time
+7203,ms,cpu service time
+7204,ms,cpu service time
+7205,ms,cpu service time
+7206,ms,cpu service time avg
+7207,ms,cpu service time avg
+7208,ms,cpu service time avg
+7209,ms,cpu service time
+7210,ms,cpu service time avg
+7211,ms,elapsed time
+7212,ms,cpu service time
+7213,ms,elapsed time
+7214,ms,cpu service time
+7215,ms,elapsed time
+7216,ms,cpu service time
+7217,ms,elapsed time
+7218,ms,cpu service time
+7219,ms,elapsed time
+7220,ms,cpu service time
+7221,ms,elapsed time
+7222,ms,cpu service time
+7223,ms,elapsed time
+7224,ms,cpu service time
+7225,ms,elapsed time
+7226,ms,cpu service time
+7227,ms,elapsed time
+7228,ms,cpu service time
+7229,ms,cpu service time
+7230,ms,cpu service time
+7231,ms,cpu service time
+7232,ms,cpu service time avg
+7233,ms,cpu service time avg
+7234,ms,cpu service time
+7235,ms,elapsed time avg
+7236,ms,cpu service time avg
+7237,ms,cpu service time avg
+7238,ms,elapsed time avg
+7239,ms,cpu service time avg
+7240,ms,elapsed time avg
+7241,ms,cpu service time avg
+7242,ms,elapsed time avg
+7243,ms,elapsed time avg
+7244,ms,cpu service time avg
+7245,ms,elapsed time avg
+7246,ms,cpu service time avg
+7247,ms,elapsed time avg
+7248,ms,elapsed time avg
+7249,ms,cpu service time avg
+7250,ms,cpu service time avg
+7251,ms,elapsed time avg
+7252,ms,cpu service time avg
+7253,ms,elapsed time avg
+7254,ms,cpu service time avg
+7255,ms,elapsed time avg
+7256,ms,cpu service time avg
+7257,ms,elapsed time avg
+7258,ms,elapsed time avg
+7259,ms,elapsed time avg
+7260,ms,cpu service time avg
+7261,ms,elapsed time avg
+7262,ms,elapsed time avg
+7263,ms,cpu service time avg
+7264,ms,elapsed time avg
+7265,ms,cpu service time avg
+7266,ms,elapsed time avg
+7267,ms,cpu service time
+7268,ms,cpu service time avg
+7269,ms,elapsed time avg
+7270,ms,elapsed time avg
+7271,ms,cpu service time
+7272,ms,cpu service time avg
+7273,ms,elapsed time avg
+7274,ms,cpu service time
+7275,ms,cpu service time avg
+7276,ms,elapsed time avg
+7277,ms,cpu service time avg
+7278,ms,elapsed time avg
+7279,ms,cpu service time avg
+7280,ms,elapsed time avg
+7281,ms,cpu service time avg
+7282,ms,elapsed time avg
+7283,ms,cpu service time avg
+7284,ms,elapsed time avg
+7285,ms,cpu service time avg
+7286,ms,elapsed time avg
+7287,ms,cpu service time avg
+7288,ms,elapsed time avg
+7289,ms,cpu service time avg
+7290,ms,elapsed time avg
+7291,ms,cpu service time avg
+7292,ms,elapsed time avg
+7293,ms,cpu service time avg
+7294,ms,elapsed time avg
+7295,ms,cpu service time avg
+7296,ms,elapsed time avg
+7297,ms,cpu service time avg
+7298,ms,elapsed time avg
+7299,ms,cpu service time avg
+7300,ms,elapsed time avg
+7301,ms,cpu service time avg
+7302,ms,elapsed time avg
+7303,ms,cpu service time avg
+7304,ms,elapsed time avg
+7305,ms,cpu service time avg
+7306,ms,elapsed time avg
+7307,ms,elapsed time avg
+7308,ms,cpu service time avg
+7309,ms,elapsed time avg
+7310,ms,elapsed time avg
+7311,ms,cpu service time avg
+7312,ms,elapsed time avg
+7313,ms,elapsed time avg
+7314,ms,cpu service time avg
+7315,ms,elapsed time avg
+7316,ms,cpu service time avg
+7317,ms,elapsed time avg
+7318,ms,cpu service time avg
+7319,ms,elapsed time avg
+7320,ms,cpu service time avg
+7321,ms,elapsed time avg
+7322,ms,cpu service time avg
+7323,ms,elapsed time avg
+7324,ms,elapsed time avg
+7325,ms,cpu service time avg
+7326,ms,elapsed time avg
+7327,ms,cpu service time avg
+7328,ms,cpu service time avg
+7329,ms,elapsed time avg
+7330,ms,cpu service time avg
+7331,ms,elapsed time avg
+7332,ms,cpu service time avg
+7333,ms,elapsed time avg
+7334,ms,cpu service time avg
+7335,ms,elapsed time avg
+7336,ms,cpu service time avg
+7337,ms,elapsed time avg
+7338,ms,cpu service time avg
+7339,ms,elapsed time avg
+7340,ms,cpu service time avg
+7341,ms,elapsed time avg
+7342,ms,cpu service time avg
+7343,ms,elapsed time avg
+7344,ms,elapsed time avg
+7345,ms,elapsed time avg
+7346,ms,cpu service time avg
+7347,ms,elapsed time avg
+7348,ms,cpu service time avg
+7349,ms,elapsed time avg
+7350,ms,elapsed time
+7351,ms,elapsed time
+7352,ms,elapsed time
+7353,ms,elapsed time
+7354,ms,elapsed time
+7355,ms,elapsed time
+7356,ms,elapsed time
+7357,ms,elapsed time
+7358,ms,elapsed time
+7359,ms,elapsed time
+7360,ms,cpu service time
+7361,ms,elapsed time
+7362,ms,cpu service time
+7363,ms,cpu service time
+7364,ms,cpu service time
+7365,ms,cpu service time avg
+7366,ms,cpu service time
+7367,ms,cpu service time
+7368,ms,cpu service time
+7369,ms,cpu service time avg
+7370,ms,cpu service time avg
+7371,ms,cpu service time avg
+7372,ms,cpu service time
+7373,ms,cpu service time
+7374,ms,cpu service time avg
+7375,ms,cpu service time avg
+7376,ms,cpu service time avg
+7377,ms,cpu service time avg
+7378,ms,cpu service time avg
+7379,ms,cpu service time avg
+7380,ms,cpu service time avg
+7381,ms,cpu service time avg
+7382,ms,cpu service time avg
+7383,ms,cpu service time
+7384,ms,cpu service time
+7385,ms,cpu service time
+7386,ms,cpu service time
+7387,ms,cpu service time
+7388,ms,cpu service time
+7389,ms,cpu service time
+7390,ms,cpu service time
+7391,ms,cpu service time
+7392,ms,cpu service time
+7393,ms,cpu service time
+7394,ms,cpu service time
+7395,ms,cpu service time avg
+7396,ms,cpu service time
+7397,ms,cpu service time
+7398,ms,cpu service time
+7399,ms,elapsed time
+7400,ms,cpu service time
+7401,ms,elapsed time
+7402,ms,elapsed time
+7403,ms,elapsed time
+7404,ms,cpu service time avg
+7405,ms,cpu service time avg
+7406,ms,cpu service time avg
+7407,ms,cpu service time
+7408,ms,cpu service time avg
+7409,ms,cpu service time
+7410,ms,elapsed time avg
+7411,ms,elapsed time avg
+7412,ms,elapsed time avg
+7413,ms,elapsed time avg
+7414,ms,elapsed time avg
+7415,ms,elapsed time avg
+7416,ms,elapsed time avg
+7417,ms,elapsed time avg
+7418,ms,cpu service time
+7419,ms,cpu service time
+7420,ms,cpu service time
+7421,ms,cpu service time avg
+7422,ms,cpu service time
+7423,ms,cpu service time
+7424,ms,cpu service time
+7425,ms,cpu service time avg
+7426,ms,cpu service time avg
+7427,ms,cpu service time avg
+7428,ms,cpu service time
+7429,ms,cpu service time avg
+7430,ms,cpu service time
+7431,ms,cpu service time
+7432,ms,cpu service time
+7433,ms,cpu service time
+7434,ms,cpu service time avg
+7435,ms,elapsed time
+7436,ms,cpu service time
+7437,ms,cpu service time avg
+7438,ms,cpu service time avg
+7439,ms,cpu service time
+7440,ms,cpu service time
+7441,ms,cpu service time
+7442,ms,cpu service time avg
+7443,ms,cpu service time
+7444,ms,cpu service time avg
+7445,ms,cpu service time avg
+7446,ms,cpu service time avg
+7447,ms,elapsed time
+7448,ms,cpu service time
+7449,ms,cpu service time
+7450,ms,cpu service time
+7451,ms,cpu service time avg
+7452,ms,cpu service time
+7453,ms,cpu service time avg
+7454,ms,cpu service time
+7455,ms,elapsed time
+7456,ms,elapsed time
+7457,ms,elapsed time
+7458,ms,elapsed time
+7459,ms,elapsed time
+7460,ms,cpu service time
+7461,ms,elapsed time
+7462,ms,elapsed time
+7463,ms,cpu service time
+7464,ms,elapsed time
+7465,ms,elapsed time
+7466,ms,elapsed time
+7467,ms,elapsed time
+7468,ms,elapsed time
+7469,ms,elapsed time
+7470,ms,elapsed time
+7471,ms,elapsed time
+7472,ms,cpu service time
+7473,ms,elapsed time
+7474,ms,elapsed time
+7475,ms,cpu service time
+7476,ms,elapsed time
+7477,ms,elapsed time
+7478,ms,elapsed time
+7479,ms,cpu service time
+7480,ms,elapsed time
+7481,ms,cpu service time
+7482,ms,elapsed time
+7483,ms,elapsed time
+7484,ms,elapsed time
+7485,ms,elapsed time
+7486,ms,cpu service time
+7487,ms,elapsed time
+7488,ms,elapsed time
+7489,ms,cpu service time
+7490,ms,elapsed time
+7491,ms,cpu service time
+7492,ms,elapsed time
+7493,ms,elapsed time
+7494,ms,elapsed time
+7495,ms,cpu service time
+7496,ms,elapsed time
+7497,ms,cpu service time
+7498,ms,elapsed time
+7499,ms,cpu service time
+7500,ms,elapsed time
+7501,ms,elapsed time
+7502,ms,elapsed time
+7503,ms,cpu service time
+7504,ms,elapsed time
+7505,ms,cpu service time
+7506,ms,elapsed time
+7507,ms,cpu service time
+7508,ms,elapsed time
+7509,ms,elapsed time
+7510,ms,elapsed time
+7511,ms,elapsed time
+7512,ms,elapsed time
+7513,ms,elapsed time
+7514,ms,elapsed time
+7515,ms,cpu service time
+7516,ms,elapsed time
+7517,ms,elapsed time
+7518,ms,elapsed time
+7519,ms,elapsed time
+7520,ms,cpu service time
+7521,s,elapsed time
+7522,ms,elapsed time
+7523,ms,cpu service time
+7524,ms,cpu service time avg
+7525,ms,elapsed time avg
+7526,ms,elapsed time
+7527,ms,elapsed time
+7528,ms,elapsed time
+7529,ms,elapsed time
+7530,ms,elapsed time avg
+7531,ms,elapsed time
+7532,ms,elapsed time
+7533,ms,elapsed time
+7534,ms,elapsed time
+7535,ms,cpu service time avg
+7536,ms,elapsed time avg
+7537,ms,elapsed time
+7538,ms,elapsed time
+7539,ms,elapsed time
+7540,ms,elapsed time
+7541,ms,elapsed time
+7542,ms,elapsed time
+7543,ms,elapsed time
+7544,ms,elapsed time
+7545,ms,elapsed time
+7546,ms,elapsed time
+7547,ms,elapsed time
+7548,ms,elapsed time
+7549,ms,elapsed time
+7550,ms,elapsed time
+7551,ms,elapsed time
+7552,ms,elapsed time
+7553,ms,elapsed time
+7554,ms,elapsed time
+7555,ms,elapsed time
+7556,ms,elapsed time
+7557,ms,elapsed time
+7558,ms,elapsed time
+7559,ms,elapsed time
+7560,ms,elapsed time
+7561,ms,elapsed time
+7562,ms,cpu service time
+7563,ms,elapsed time
+7564,ms,elapsed time
+7565,ms,elapsed time
+7566,ms,cpu service time
+7567,ms,elapsed time
+7568,ms,elapsed time
+7569,ms,elapsed time
+7570,ms,elapsed time
+7571,ms,cpu service time
+7572,ms,elapsed time
+7573,ms,elapsed time
+7574,ms,elapsed time
+7575,ms,elapsed time
+7576,ms,cpu service time
+7577,ms,elapsed time
+7578,ms,elapsed time
+7579,ms,cpu service time
+7580,ms,elapsed time
+7581,ms,elapsed time
+7582,ms,elapsed time
+7583,ms,elapsed time
+7584,ms,elapsed time
+7585,ms,elapsed time
+7586,ms,elapsed time
+7587,ms,elapsed time
+7588,ms,elapsed time
+7589,ms,elapsed time
+7590,ms,elapsed time
+7591,ms,elapsed time
+7592,ms,cpu service time
+7593,ms,elapsed time
+7594,ms,elapsed time
+7595,ms,elapsed time
+7596,ms,elapsed time
+7597,ms,elapsed time
+7598,ms,elapsed time
+7599,ms,elapsed time avg
+7600,ms,elapsed time avg
+7601,ms,elapsed time avg
+7602,ms,elapsed time avg
+7603,ms,elapsed time avg
+7604,ms,elapsed time avg
+7605,ms,elapsed time avg
+7606,ms,elapsed time avg
+7607,ms,elapsed time avg
+7608,ms,elapsed time avg
+7609,ms,elapsed time avg
+7610,ms,elapsed time avg
+7611,ms,elapsed time avg
+7612,ms,elapsed time avg
+7613,ms,elapsed time avg
+7614,ms,elapsed time avg
+7615,ms,elapsed time avg
+7616,ms,elapsed time avg
+7617,ms,cpu service time
+7618,ms,elapsed time
+7619,ms,elapsed time
+7620,ms,elapsed time
+7621,ms,elapsed time
+7622,ms,elapsed time
+7623,ms,elapsed time
+7624,ms,elapsed time
+7625,ms,elapsed time
+7626,ms,elapsed time
+7627,ms,elapsed time
+7628,ms,elapsed time
+7629,ms,elapsed time
+7630,ms,elapsed time
+7631,ms,elapsed time
+7632,ms,elapsed time
+7633,ms,cpu service time
+7634,ms,elapsed time
+7635,ms,elapsed time
+7636,ms,elapsed time
+7637,ms,cpu service time
+7638,ms,elapsed time
+7639,ms,elapsed time
+7640,ms,elapsed time
+7641,ms,elapsed time
+7642,ms,elapsed time
+7643,ms,elapsed time
+7644,ms,elapsed time
+7645,ms,elapsed time
+7646,ms,elapsed time
+7647,ms,elapsed time
+7648,ms,elapsed time
+7649,ms,elapsed time
+7650,ms,elapsed time
+7651,ms,elapsed time
+7652,ms,elapsed time
+7653,ms,elapsed time
+7654,ms,cpu service time
+7655,ms,elapsed time
+7656,ms,elapsed time
+7657,ms,elapsed time
+7658,ms,elapsed time
+7659,ms,elapsed time
+7660,ms,elapsed time
+7661,ms,elapsed time
+7662,ms,elapsed time
+7663,ms,elapsed time
+7664,ms,elapsed time
+7665,ms,elapsed time
+7666,ms,elapsed time
+7667,ms,elapsed time
+7668,ms,cpu service time
+7669,ms,elapsed time
+7670,ms,cpu service time
+7671,ms,elapsed time
+7672,ms,elapsed time
+7673,ms,elapsed time
+7674,ms,elapsed time avg
+7675,ms,elapsed time avg
+7676,ms,elapsed time
+7677,ms,cpu service time avg
+7678,ms,elapsed time avg
+7679,ms,elapsed time
+7680,ms,elapsed time avg
+7681,ms,elapsed time avg
+7682,ms,elapsed time avg
+7683,ms,elapsed time avg
+7684,ms,elapsed time avg
+7685,ms,elapsed time
+7686,ms,elapsed time avg
+7687,ms,elapsed time avg
+7688,ms,elapsed time avg
+7689,ms,elapsed time avg
+7690,ms,elapsed time avg
+7691,ms,elapsed time avg
+7692,ms,elapsed time avg
+7693,ms,elapsed time avg
+7694,ms,elapsed time avg
+7695,ms,elapsed time avg
+7696,ms,elapsed time avg
+7697,ms,elapsed time avg
+7698,ms,elapsed time avg
+7699,ms,elapsed time avg
+7700,ms,elapsed time
+7701,ms,elapsed time
+7702,ms,elapsed time
+7703,ms,elapsed time
+7704,ms,elapsed time
+7705,ms,elapsed time
+7706,ms,elapsed time avg
+7707,ms,elapsed time
+7708,ms,elapsed time
+7709,ms,elapsed time
+7710,ms,elapsed time
+7711,ms,elapsed time
+7712,ms,cpu service time avg
+7713,ms,elapsed time avg
+7714,ms,cpu service time avg
+7715,ms,elapsed time avg
+7716,ms,elapsed time
+7717,ms,elapsed time
+7718,s,stopwatch
+7719,ms,cpu service time avg
+7720,ms,elapsed time avg
+7721,ms,elapsed time avg
+7722,ms,cpu service time avg
+7723,ms,elapsed time avg
+7724,ms,cpu service time avg
+7725,ms,elapsed time avg
+7726,ms,cpu service time avg
+7727,ms,elapsed time avg
+7728,ms,elapsed time avg
+7729,ms,cpu service time avg
+7730,ms,elapsed time avg
+7731,ms,cpu service time avg
+7732,ms,elapsed time avg
+7733,ms,elapsed time avg
+7734,ms,elapsed time avg
+7735,ms,cpu service time avg
+7736,ms,elapsed time avg
+7737,ms,elapsed time avg
+7738,ms,cpu service time avg
+7739,ms,elapsed time avg
+7740,ms,elapsed time
+7741,ms,elapsed time
+7742,ms,elapsed time avg
+7743,ms,elapsed time avg
+7744,ms,elapsed time avg
+7745,s,stopwatch
+7746,ms,elapsed time avg
+7747,ms,elapsed time
+7748,ms,elapsed time avg
+7749,ms,elapsed time avg
+7750,ms,elapsed time
+7751,ms,elapsed time avg
+7752,ms,cpu service time avg
+7753,ms,elapsed time avg
+7754,ms,elapsed time
+7755,ms,elapsed time avg
+7756,ms,elapsed time avg
+7757,ms,elapsed time avg
+7758,ms,elapsed time avg
+7759,ms,cpu service time avg
+7760,ms,elapsed time avg
+7761,ms,elapsed time
+7762,ms,cpu service time avg
+7763,ms,elapsed time avg
+7764,ms,cpu service time avg
+7765,ms,elapsed time avg
+7766,ms,elapsed time
+7767,ms,cpu service time avg
+7768,ms,elapsed time avg
+7769,ms,elapsed time
+7770,ms,cpu service time avg
+7771,ms,elapsed time avg
+7772,ms,elapsed time
+7773,ms,cpu service time avg
+7774,ms,elapsed time avg
+7775,ms,cpu service time avg
+7776,ms,elapsed time avg
+7777,ms,elapsed time
+7778,ms,elapsed time avg
+7779,ms,elapsed time
+7780,ms,cpu service time avg
+7781,ms,elapsed time avg
+7782,ms,elapsed time avg
+7783,ms,cpu service time avg
+7784,ms,elapsed time avg
+7785,ms,elapsed time avg
+7786,ms,cpu service time avg
+7787,ms,elapsed time avg
+7788,ms,elapsed time avg
+7789,ms,elapsed time avg
+7790,ms,elapsed time avg
+7791,ms,elapsed time avg
+7792,ms,elapsed time avg
+7793,ms,elapsed time avg
+7794,ms,elapsed time avg
+7795,ms,elapsed time avg
+7796,ms,elapsed time avg
+7797,ms,elapsed time avg
+7798,ms,elapsed time avg
+7799,ms,elapsed time avg
+7800,ms,elapsed time avg
+7801,ms,elapsed time avg
+7802,ms,elapsed time avg
+7803,ms,elapsed time avg
+7804,ms,elapsed time avg
+7805,ms,elapsed time
+7806,ms,elapsed time avg
+7807,ms,elapsed time
+7808,ms,elapsed time avg
+7809,ms,elapsed time
+7810,ms,elapsed time
+7811,ms,elapsed time avg
+7812,ms,elapsed time avg
+7813,ms,elapsed time avg
+7814,ms,elapsed time avg
+7815,ms,elapsed time
+7816,ms,cpu service time avg
+7817,ms,elapsed time avg
+7818,ms,elapsed time
+7819,ms,elapsed time
+7820,ms,elapsed time
+7821,ms,elapsed time
+7822,ms,cpu service time avg
+7823,ms,elapsed time avg
+7824,ms,elapsed time
+7825,ms,cpu service time avg
+7826,ms,elapsed time avg
+7827,ms,elapsed time
+7828,ms,elapsed time
+7829,ms,elapsed time
+7830,ms,elapsed time
+7831,ms,elapsed time
+7832,ms,elapsed time
+7833,ms,elapsed time
+7834,ms,elapsed time
+7835,ms,elapsed time
+7836,ms,elapsed time
+7837,ms,elapsed time
+7838,ms,elapsed time
+7839,ms,elapsed time
+7840,ms,elapsed time
+7841,ms,elapsed time
+7842,ms,elapsed time
+7843,ms,elapsed time
+7844,ms,elapsed time
+7845,ms,elapsed time
+7846,ms,elapsed time
+7847,ms,elapsed time
+7848,ms,elapsed time
+7849,ms,cpu service time avg
+7850,ms,elapsed time avg
+7851,ms,cpu service time avg
+7852,ms,elapsed time avg
+7853,ms,cpu service time avg
+7854,ms,elapsed time avg
+7855,ms,elapsed time
+7856,ms,cpu service time
+7857,ms,elapsed time
+7858,ms,elapsed time avg
+7859,ms,cpu service time avg
+7860,ms,elapsed time avg
+7861,ms,cpu service time avg
+7862,ms,elapsed time avg
+7863,ms,cpu service time avg
+7864,ms,elapsed time avg
+7865,ms,cpu service time avg
+7866,ms,elapsed time avg
+7867,ms,cpu service time avg
+7868,ms,elapsed time avg
+7869,ms,cpu service time avg
+7870,ms,elapsed time avg
+7871,ms,cpu service time avg
+7872,ms,elapsed time avg
+7873,ms,cpu service time avg
+7874,ms,elapsed time avg
+7875,ms,elapsed time avg
+7876,ms,elapsed time avg
+7877,ms,elapsed time avg
+7878,ms,elapsed time avg
+7879,ms,elapsed time avg
+7880,ms,elapsed time avg
+7881,ms,elapsed time avg
+7882,ms,elapsed time avg
+7883,ms,cpu service time avg
+7884,ms,elapsed time avg
+7885,ms,cpu service time avg
+7886,ms,elapsed time avg
+7887,ms,elapsed time avg
+7888,ms,elapsed time avg
+7889,ms,cpu service time avg
+7890,ms,elapsed time avg
+7891,ms,elapsed time avg
+7892,ms,elapsed time avg
+7893,ms,elapsed time avg
+7894,ms,elapsed time avg
+7895,ms,elapsed time avg
+7896,ms,elapsed time avg
+7897,ms,elapsed time avg
+7898,ms,elapsed time
+7899,ms,cpu service time
+7900,ms,elapsed time
+7901,ms,elapsed time
+7902,ms,elapsed time
+7903,ms,cpu service time
+7904,ms,elapsed time
+7905,ms,elapsed time
+7906,ms,cpu service time
+7907,ms,elapsed time
+7908,ms,cpu service time
+7909,ms,elapsed time
+7910,ms,cpu service time
+7911,ms,elapsed time
+7912,ms,elapsed time
+7913,ms,cpu service time
+7914,ms,elapsed time
+7915,ms,cpu service time
+7916,ms,elapsed time
+7917,ms,elapsed time
+7918,ms,elapsed time
+7919,ms,cpu service time
+7920,ms,elapsed time
+7921,ms,cpu service time
+7922,ms,elapsed time
+7923,ms,cpu service time
+7924,ms,elapsed time
+7925,ms,elapsed time
+7926,ms,elapsed time
+7927,ms,cpu service time
+7928,ms,elapsed time
+7929,ms,elapsed time
+7930,ms,cpu service time
+7931,ms,elapsed time
+7932,ms,elapsed time
+7933,ms,elapsed time
+7934,ms,elapsed time
+7935,ms,elapsed time
+7936,ms,cpu service time
+7937,ms,elapsed time
+7938,ms,cpu service time
+7939,ms,elapsed time
+7940,ms,cpu service time
+7941,ms,elapsed time
+7942,ms,cpu service time
+7943,ms,elapsed time
+7944,ms,elapsed time
+7945,ms,cpu service time
+7946,ms,elapsed time
+7947,ms,cpu service time
+7948,ms,elapsed time
+7949,ms,cpu service time
+7950,ms,elapsed time
+7951,ms,cpu service time
+7952,ms,elapsed time
+7953,ms,cpu service time
+7954,ms,elapsed time
+7955,ms,cpu service time
+7956,ms,elapsed time
+7957,ms,cpu service time
+7958,ms,elapsed time
+7959,ms,elapsed time
+7960,ms,cpu service time
+7961,ms,elapsed time
+7962,ms,cpu service time
+7963,ms,elapsed time
+7964,ms,elapsed time
+7965,ms,elapsed time
+7966,ms,elapsed time
+7967,ms,cpu service time
+7968,RPS,rps
+7969,ms,elapsed time
+7970,ms,cpu service time
+7971,RPS,rps
+7972,ms,elapsed time
+7973,RPS,rps
+7974,ms,elapsed time
+7975,ms,elapsed time
+7976,ms,cpu service time
+7977,RPS,rps
+7978,ms,elapsed time
+7979,ms,cpu service time
+7980,RPS,rps
+7981,ms,compilation time
+7982,ms,elapsed time
+7983,ms,elapsed time
+7984,ms,cpu service time
+7985,ms,elapsed time
+7986,ms,elapsed time
+7987,ms,cpu service time
+7988,ms,elapsed time
+7989,ms,elapsed time
+7990,ms,elapsed time
+7991,ms,elapsed time
+7992,ms,cpu service time
+7993,ms,elapsed time
+7994,ms,elapsed time
+7995,ms,elapsed time
+7996,ms,elapsed time
+7997,ms,elapsed time
+7998,ms,cpu service time
+7999,ms,elapsed time
+8000,ms,cpu service time
+8001,ms,elapsed time
+8002,ms,elapsed time
+8003,ms,elapsed time
+8004,ms,elapsed time
+8005,ms,cpu service time
+8006,ms,elapsed time
+8007,ms,elapsed time
+8008,ms,elapsed time
+8009,ms,cpu service time
+8010,ms,elapsed time avg
+8011,ms,elapsed time avg
+8012,ms,elapsed time avg
+8013,ms,elapsed time avg
+8014,ms,elapsed time
+8015,ms,cpu service time
+8016,ms,cpu service time avg
+8017,ms,elapsed time avg
+8018,count,parallelism
+8019,ms,elapsed time
+8020,ms,cpu service time
+8021,ms,elapsed time
+8022,ms,elapsed time
+8023,ms,cpu service time
+8024,ms,elapsed time
+8025,ms,elapsed time
+8026,ms,cpu service time
+8027,ms,cpu service time
+8028,ms,elapsed time
+8029,ms,elapsed time
+8030,ms,elapsed time
+8031,ms,elapsed time
+8032,ms,cpu service time avg
+8033,ms,elapsed time
+8034,ms,elapsed time
+8035,ms,elapsed time
+8036,ms,elapsed time
+8037,ms,elapsed time
+8038,ms,elapsed time
+8039,ms,elapsed time
+8040,ms,cpu service time avg
+8041,ms,elapsed time
+8042,ms,elapsed time
+8043,ms,elapsed time
+8044,ms,cpu service time
+8045,ms,elapsed time
+8046,ms,cpu service time
+8047,ms,elapsed time
+8048,ms,elapsed time
+8049,ms,cpu service time
+8050,ms,elapsed time
+8051,ms,cpu service time
+8052,ms,elapsed time
+8053,ms,cpu service time
+8054,ms,elapsed time
+8055,ms,cpu service time
+8056,ms,elapsed time
+8057,ms,elapsed time
+8058,ms,elapsed time
+8059,ms,elapsed time
+8060,ms,elapsed time
+8061,ms,elapsed time
+8062,ms,elapsed time
+8063,ms,cpu service time
+8064,ms,elapsed time
+8065,ms,cpu service time
+8066,ms,elapsed time
+8067,ms,cpu service time
+8068,ms,elapsed time
+8069,ms,cpu service time
+8070,ms,elapsed time
+8071,ms,elapsed time
+8072,ms,cpu service time
+8073,ms,elapsed time
+8074,ms,cpu service time
+8075,ms,elapsed time
+8076,ms,cpu service time
+8077,ms,elapsed time
+8078,ms,cpu service time
+8079,ms,cpu service time
+8080,ms,cpu service time avg
+8081,ms,cpu service time
+8082,ms,cpu service time avg
+8083,ms,cpu service time
+8084,ms,cpu service time
+8085,ms,cpu service time
+8086,ms,cpu service time
+8087,ms,cpu service time avg
+8088,ms,cpu service time avg
+8089,ms,cpu service time avg
+8090,ms,cpu service time avg
+8091,ms,cpu service time
+8092,ms,cpu service time
+8093,ms,cpu service time
+8094,ms,cpu service time avg
+8095,ms,cpu service time avg
+8096,ms,cpu service time avg
+8097,ms,cpu service time avg
+8098,ms,cpu service time avg
+8099,ms,cpu service time
+8100,ms,cpu service time
+8101,ms,cpu service time
+8102,ms,cpu service time avg
+8103,ms,cpu service time avg
+8104,ms,cpu service time
+8105,ms,cpu service time
+8106,ms,cpu service time
+8107,ms,cpu service time avg
+8108,ms,elapsed time
+8109,ms,elapsed time
+8110,ms,elapsed time
+8111,ms,elapsed time
+8112,ms,elapsed time
+8113,ms,elapsed time
+8114,ms,elapsed time
+8115,ms,elapsed time
+8116,ms,elapsed time
+8117,ms,elapsed time
+8118,ms,elapsed time
+8119,ms,elapsed time
+8120,ms,elapsed time
+8121,ms,elapsed time
+8122,ms,elapsed time
+8123,ms,elapsed time
+8124,ms,elapsed time
+8125,ms,elapsed time
+8126,ms,elapsed time
+8127,ms,elapsed time
+8128,ms,elapsed time
+8129,ms,elapsed time
+8130,ms,elapsed time
+8131,ms,elapsed time
+8132,ms,elapsed time
+8133,ms,elapsed time
+8134,ms,elapsed time
+8135,ms,elapsed time
+8136,ms,elapsed time
+8137,ms,elapsed time
+8138,ms,cpu service time
+8139,ms,elapsed time
+8140,ms,elapsed time
+8141,ms,elapsed time
+8142,ms,elapsed time
+8143,ms,elapsed time
+8144,ms,elapsed time
+8145,ms,elapsed time
+8146,ms,elapsed time
+8147,ms,elapsed time
+8148,ms,elapsed time
+8149,ms,elapsed time
+8150,ms,elapsed time
+8151,ms,elapsed time
+8152,ms,elapsed time
+8153,ms,elapsed time
+8154,ms,cpu service time
+8155,ms,elapsed time
+8156,ms,cpu service time
+8157,ms,elapsed time
+8158,ms,elapsed time
+8159,ms,elapsed time
+8160,ms,cpu service time
+8161,ms,elapsed time
+8162,ms,cpu service time
+8163,ms,elapsed time
+8164,ms,cpu service time
+8165,ms,elapsed time
+8166,ms,elapsed time
+8167,ms,elapsed time
+8168,ms,cpu service time
+8169,ms,elapsed time
+8170,ms,elapsed time
+8171,ms,elapsed time
+8172,ms,elapsed time
+8173,ms,elapsed time
+8174,ms,elapsed time
+8175,ms,elapsed time
+8176,ms,elapsed time
+8177,ms,elapsed time
+8178,ms,elapsed time
+8179,ms,elapsed time
+8180,ms,elapsed time
+8181,ms,elapsed time
+8182,ms,elapsed time
+8183,ms,elapsed time
+8184,ms,elapsed time
+8185,ms,elapsed time
+8186,ms,elapsed time
+8187,ms,elapsed time
+8188,ms,cpu service time avg
+8189,ms,cpu service time avg
+8190,ms,elapsed time
+8191,ms,cpu service time avg
+8192,ms,cpu service time
+8193,ms,cpu service time avg
+8194,ms,cpu service time
+8195,ms,elapsed time avg
+8196,ms,elapsed time avg
+8197,ms,cpu service time avg
+8198,ms,elapsed time avg
+8199,ms,cpu service time
+8200,ms,cpu service time
+8201,ms,cpu service time
+8202,ms,cpu service time
+8203,ms,cpu service time
+8204,ms,cpu service time
+8205,ms,cpu service time avg
+8206,ms,cpu service time avg
+8207,ms,cpu service time
+8208,ms,cpu service time avg
+8209,ms,cpu service time
+8210,ms,cpu service time
+8211,ms,cpu service time
+8212,ms,cpu service time avg
+8213,ms,cpu service time
+8214,ms,cpu service time
+8215,ms,cpu service time avg
+8216,ms,cpu service time avg
+8217,ms,elapsed time
+8218,ms,cpu service time
+8219,ms,cpu service time
+8220,ms,cpu service time
+8221,ms,cpu service time
+8222,ms,cpu service time avg
+8223,ms,cpu service time
+8224,ms,cpu service time
+8225,ms,cpu service time
+8226,ms,cpu service time
+8227,ms,cpu service time
+8228,ms,cpu service time avg
+8229,ms,cpu service time
+8230,ms,cpu service time
+8231,ms,cpu service time
+8232,ms,cpu service time
+8233,ms,cpu service time
+8234,ms,cpu service time
+8235,ms,cpu service time
+8236,ms,elapsed time
+8237,ms,elapsed time
+8238,ms,elapsed time
+8239,ms,elapsed time
+8240,ms,elapsed time
+8241,ms,cpu service time
+8242,ms,elapsed time
+8243,ms,elapsed time
+8244,ms,elapsed time
+8245,ms,elapsed time
+8246,ms,elapsed time
+8247,ms,cpu service time
+8248,ms,elapsed time
+8249,ms,cpu service time
+8250,ms,cpu service time
+8251,ms,elapsed time
+8252,ms,elapsed time
+8253,ms,elapsed time
+8254,ms,elapsed time
+8255,ms,elapsed time
+8256,ms,elapsed time
+8257,ms,cpu service time
+8258,ms,cpu service time
+8259,ms,cpu service time
+8260,ms,cpu service time
+8261,ms,cpu service time
+8262,ms,cpu service time avg
+8263,ms,cpu service time
+8264,ms,cpu service time
+8265,ms,cpu service time
+8266,ms,cpu service time
+8267,ms,cpu service time
+8268,ms,cpu service time
+8269,ms,cpu service time
+8270,ms,cpu service time
+8271,ms,cpu service time
+8272,ms,cpu service time
+8273,ms,cpu service time avg
+8274,ms,cpu service time
+8275,ms,cpu service time avg
+8276,TPS,throughput
+8277,TPS,throughput
+8318,us,average commit duration
+8319,ms,avg. dialogue step time
+8320,ms,cpu time
+8321,ms,cpu service time avg
+8322,ms,cpu service time
+8323,ms,cpu service time
+8324,ms,cpu service time
+8325,ms,cpu service time avg
+8326,ms,cpu service time
+8327,ms,cpu service time avg
+8328,ms,cpu service time avg
+8329,ms,cpu service time avg
+8330,ms,cpu service time avg
+8331,ms,cpu service time
+8332,ms,cpu service time
+8333,ms,cpu service time
+8334,ms,cpu service time
+8335,ms,elapsed time
+8336,ms,cpu service time
+8337,ms,cpu service time
+8368,ms,total lock wait time
+8369,ms,total lock wait time
+8370,DMLs,min dml count
+8371,count,atr_insert_retry_count
+8372,ms,total lock wait time
+8373,ms,total lock wait time
+8374,DMLs,min dml count
+8375,count,atr_insert_retry_count
+8376,us,average commit duration
+8377,us,average commit duration
+8378,us,average commit duration
+8379,ms,cpu service time
+8380,ms,cpu service time
+8381,ms,cpu service time
+8382,ms,cpu service time
+8383,ms,cpu service time
+8384,ms,cpu service time avg
+8385,ms,cpu service time avg
+8386,ms,cpu service time avg
+8387,ms,cpu service time avg
+8388,ms,elapsed time
+8389,ms,elapsed time
+8390,ms,elapsed time
+8391,ms,elapsed time
+8392,ms,elapsed time
+8393,ms,elapsed time
+8394,ms,elapsed time
+8395,ms,elapsed time
+8396,ms,elapsed time
+8397,ms,elapsed time
+8398,ms,elapsed time
+8399,ms,elapsed time
+8400,ms,elapsed time
+8401,ms,elapsed time
+8402,ms,elapsed time
+8403,ms,elapsed time
+8404,ms,elapsed time
+8405,ms,elapsed time
+8406,ms,elapsed time
+8407,ms,elapsed time
+8408,ms,cpu service time
+8409,ms,elapsed time
+8410,ms,elapsed time
+8411,ms,cpu service time
+8412,ms,elapsed time
+8413,ms,cpu service time
+8414,ms,elapsed time
+8415,ms,cpu service time
+8416,ms,elapsed time
+8417,ms,cpu service time
+8418,ms,elapsed time
+8419,ms,elapsed time
+8420,ms,elapsed time
+8421,ms,elapsed time
+8422,ms,cpu service time
+8423,ms,elapsed time
+8424,ms,elapsed time
+8425,ms,elapsed time
+8426,ms,elapsed time
+8427,ms,elapsed time
+8428,ms,cpu service time
+8429,ms,elapsed time
+8430,ms,cpu service time
+8431,ms,elapsed time
+8432,ms,elapsed time
+8433,ms,cpu service time
+8434,ms,elapsed time
+8435,ms,elapsed time
+8436,ms,elapsed time
+8437,ms,elapsed time
+8438,ms,elapsed time
+8439,ms,cpu service time
+8440,ms,cpu service time
+8441,ms,cpu service time
+8442,ms,cpu service time
+8443,ms,cpu service time
+8444,ms,cpu service time avg
+8445,ms,cpu service time
+8446,ms,cpu service time
+8447,ms,cpu service time avg
+8448,ms,cpu service time
+8449,ms,cpu service time avg
+8450,ms,elapsed time
+8451,ms,elapsed time
+8452,ms,elapsed time
+8453,ms,elapsed time
+8454,ms,elapsed time
+8455,ms,elapsed time
+8456,ms,elapsed time
+8457,ms,elapsed time
+8458,ms,elapsed time
+8459,ms,elapsed time
+8460,ms,elapsed time
+8461,ms,elapsed time
+8462,ms,elapsed time
+8463,ms,elapsed time
+8464,ms,elapsed time
+8465,ms,elapsed time
+8466,ms,elapsed time
+8467,ms,cpu service time
+8468,ms,cpu service time
+8469,ms,cpu service time
+8470,ms,cpu service time
+8471,ms,cpu service time
+8472,ms,cpu service time
+8473,ms,elapsed time
+8474,ms,cpu service time
+8475,ms,cpu service time
+8476,ms,cpu service time
+8477,ms,cpu service time
+8478,ms,cpu service time avg
+8479,ms,cpu service time
+8480,ms,cpu service time
+8481,ms,cpu service time
+8482,ms,cpu service time
+8483,ms,cpu service time
+8484,ms,cpu service time avg
+8485,ms,elapsed time
+8486,ms,cpu service time
+8487,ms,elapsed time
+8488,ms,elapsed time
+8489,ms,elapsed time
+8490,ms,elapsed time
+8491,ms,elapsed time
+8492,ms,cpu service time
+8493,ms,elapsed time
+8494,ms,cpu service time
+8495,ms,elapsed time
+8496,ms,elapsed time
+8497,ms,cpu service time
+8498,ms,elapsed time
+8499,ms,elapsed time
+8500,ms,elapsed time
+8501,ms,elapsed time
+8502,ms,elapsed time
+8503,ms,elapsed time
+8504,ms,cpu service time
+8505,ms,cpu service time
+8506,ms,cpu service time
+8507,ms,cpu service time
+8508,s,elapsed_time_by_kernel
+8509,ms,cpu service time
+8510,ms,cpu service time
+8511,ms,cpu service time
+8512,ms,cpu service time
+8513,ms,cpu service time
+8514,ms,cpu service time
+8515,ms,elapsed time
+8516,ms,elapsed time
+8517,ms,elapsed time
+8518,ms,elapsed time
+8519,ms,elapsed time
+8520,ms,elapsed time
+8521,ms,elapsed time
+8522,ms,elapsed time
+8523,ms,elapsed time
+8524,ms,elapsed time
+8525,ms,elapsed time
+8526,ms,elapsed time
+8527,ms,elapsed time
+8528,ms,elapsed time
+8529,ms,elapsed time
+8530,ms,cpu service time avg
+8531,ms,cpu service time
+8532,ms,cpu service time
+8533,ms,elapsed time
+8534,ms,cpu service time
+8535,ms,elapsed time
+8536,ms,elapsed time
+8537,ms,elapsed time
+8538,ms,elapsed time
+8539,ms,elapsed time
+8540,ms,elapsed time
+8541,ms,cpu service time
+8542,ms,elapsed time
+8543,ms,elapsed time
+8544,ms,cpu service time
+8545,ms,elapsed time
+8546,ms,elapsed time
+8547,ms,elapsed time
+8548,ms,elapsed time
+8549,ms,elapsed time
+8550,ms,elapsed time
+8551,ms,elapsed time
+8552,ms,elapsed time
+8553,ms,elapsed time
+8554,ms,elapsed time
+8555,ms,elapsed time
+8556,ms,elapsed time
+8557,ms,elapsed time
+8558,ms,elapsed time
+8559,ms,elapsed time
+8560,ms,elapsed time
+8561,ms,elapsed time
+8562,ms,elapsed time
+8563,ms,elapsed time
+8564,ms,elapsed time
+8565,ms,elapsed time
+8566,ms,elapsed time
+8567,ms,elapsed time
+8568,ms,elapsed time
+8569,ms,elapsed time
+8570,ms,elapsed time
+8571,ms,cpu service time
+8572,ms,cpu service time avg
+8573,ms,cpu service time
+8574,ms,cpu service time
+8575,ms,cpu service time
+8576,ms,cpu service time avg
+8577,ms,cpu service time
+8578,ms,elapsed time
+8579,ms,cpu service time avg
+8580,ms,cpu service time avg
+8581,ms,cpu service time avg
+8582,ms,cpu service time avg
+8583,ms,cpu service time
+8584,ms,cpu service time
+8585,ms,cpu service time
+8586,ms,elapsed time
+8587,ms,cpu service time
+8628,ms,cpu service time
+8629,ms,cpu service time
+8630,ms,cpu service time
+8631,ms,cpu service time
+8632,s,elapsed_time_by_kernel
+8633,ms,elapsed time
+8634,ms,cpu service time
+8635,ms,elapsed time
+8636,ms,cpu service time
+8637,ms,elapsed time
+8638,ms,cpu service time
+8639,ms,elapsed time
+8640,ms,cpu service time
+8641,ms,elapsed time
+8642,ms,cpu service time
+8643,ms,elapsed time
+8644,ms,cpu service time
+8645,ms,elapsed time
+8646,ms,cpu service time
+8647,ms,elapsed time
+8648,ms,cpu service time
+8649,ms,elapsed time
+8650,ms,cpu service time
+8651,ms,cpu service time
+8652,ms,cpu service time
+8653,ms,cpu service time
+8654,ms,cpu service time avg
+8655,ms,cpu service time avg
+8656,ms,cpu service time
+8657,ms,cpu service time avg
+8658,ms,cpu service time
+8659,ms,cpu service time
+8660,ms,cpu service time
+8661,ms,elapsed time avg
+8662,ms,cpu service time
+8663,ms,cpu service time
+8664,ms,cpu service time avg
+8665,ms,cpu service time
+8666,ms,cpu service time
+8667,ms,cpu service time
+8668,ms,cpu service time
+8669,ms,cpu service time
+8670,ms,cpu service time avg
+8671,ms,cpu service time
+8672,ms,cpu service time
+8673,s,elapsed_time_by_kernel
+8674,ms,cpu service time
+8675,ms,elapsed time
+8676,ms,cpu service time
+8677,ms,cpu service time avg
+8678,ms,cpu service time
+8679,ms,cpu service time
+8680,ms,cpu service time avg
+8681,ms,elapsed time
+8682,ms,elapsed time
+8683,ms,cpu service time avg
+8684,ms,cpu service time avg
+8685,ms,elapsed time
+8686,ms,elapsed time
+8687,ms,cpu service time
+8688,ms,cpu service time
+8689,ms,elapsed time
+8690,ms,elapsed time
+8691,ms,elapsed time
+8692,ms,elapsed time
+8693,ms,elapsed time
+8694,ms,elapsed time
+8695,ms,cpu service time
+8696,ms,elapsed time
+8697,ms,elapsed time
+8698,ms,elapsed time
+8699,ms,elapsed time
+8700,ms,elapsed time
+8701,ms,elapsed time
+8702,ms,elapsed time
+8703,ms,elapsed time
+8704,ms,elapsed time
+8705,ms,elapsed time
+8706,ms,elapsed time
+8707,ms,elapsed time
+8708,ms,cpu service time avg
+8709,ms,elapsed time avg
+8710,ms,cpu service time
+8711,ms,elapsed time
+8712,ms,elapsed time
+8713,ms,elapsed time
+8714,ms,elapsed time
+8715,ms,elapsed time
+8716,ms,elapsed time
+8717,ms,elapsed time
+8718,ms,elapsed time
+8719,ms,elapsed time
+8720,ms,elapsed time
+8721,ms,elapsed time
+8722,ms,elapsed time
+8723,ms,elapsed time
+8724,ms,elapsed time
+8725,ms,elapsed time
+8726,ms,elapsed time
+8727,ms,elapsed time
+8728,ms,elapsed time
+8729,ms,elapsed time
+8730,ms,elapsed time
+8731,ms,elapsed time
+8732,ms,elapsed time
+8733,ms,elapsed time
+8734,ms,elapsed time
+8735,ms,elapsed time
+8736,ms,elapsed time
+8737,ms,elapsed time
+8738,ms,elapsed time
+8739,ms,elapsed time
+8740,ms,elapsed time
+8741,ms,elapsed time
+8742,ms,elapsed time
+8743,ms,elapsed time
+8744,ms,cpu service time
+8745,ms,elapsed time
+8746,ms,cpu service time
+8747,ms,elapsed time
+8748,ms,cpu service time
+8749,ms,elapsed time
+8750,ms,elapsed time
+8751,ms,elapsed time
+8752,ms,elapsed time
+8753,ms,cpu service time
+8754,ms,elapsed time
+8755,ms,cpu service time
+8756,ms,cpu service time
+8757,ms,cpu service time
+8758,ms,cpu service time
+8759,ms,cpu service time
+8760,ms,cpu service time
+8761,ms,cpu service time
+8762,ms,cpu service time
+8763,ms,cpu service time
+8764,ms,cpu service time avg
+8765,ms,cpu service time
+8766,ms,elapsed time
+8767,ms,cpu service time avg
+8768,ms,elapsed time avg
+8769,ms,cpu service time avg
+8770,ms,elapsed time avg
+8771,ms,cpu service time avg
+8772,ms,elapsed time avg
+8773,ms,cpu service time avg
+8774,ms,elapsed time avg
+8775,ms,cpu service time avg
+8776,ms,elapsed time avg
+8777,ms,cpu service time
+8778,ms,elapsed time
+8779,ms,cpu service time avg
+8780,ms,cpu service time avg
+8781,ms,elapsed time
+8782,ms,cpu service time
+8783,ms,cpu service time
+8784,ms,cpu service time
+8785,ms,cpu service time
+8786,ms,elapsed time
+8787,ms,cpu service time
+8788,ms,cpu service time
+8789,ms,cpu service time
+8790,ms,cpu service time avg
+8791,ms,cpu service time
+8792,ms,cpu service time
+8793,ms,cpu service time
+8794,ms,cpu service time
+8795,ms,cpu service time avg
+8796,ms,cpu service time avg
+8797,ms,elapsed time
+8798,ms,cpu service time
+8799,ms,elapsed time
+8800,ms,elapsed time
+8801,ms,elapsed time
+8802,ms,elapsed time
+8803,ms,elapsed time
+8804,ms,elapsed time
+8805,ms,cpu service time
+8806,ms,elapsed time
+8807,ms,elapsed time
+8808,ms,cpu service time avg
+8809,ms,cpu service time
+8810,ms,cpu service time
+8811,ms,cpu service time
+8812,ms,cpu service time
+8813,ms,cpu service time
+8814,ms,cpu service time avg
+8815,ms,cpu service time
+8816,ms,cpu service time
+8817,ms,cpu service time
+8818,ms,cpu service time avg
+8819,ms,cpu service time
+8820,ms,cpu service time
+8821,ms,cpu service time
+8822,ms,cpu service time
+8823,ms,cpu service time
+8824,ms,cpu service time
+8825,ms,cpu service time avg
+8826,ms,cpu service time avg
+8827,ms,cpu service time
+8832,ms,cpu service time avg
+8833,ms,cpu service time
+8834,ms,cpu service time
+8835,ms,cpu service time avg
+8836,ms,cpu service time
+8837,ms,cpu service time avg
+8838,ms,cpu service time avg
+8839,ms,cpu service time
+8840,ms,cpu service time
+8841,ms,cpu service time
+8842,ms,cpu service time
+8843,ms,cpu service time
+8844,ms,cpu service time
+8845,ms,cpu service time
+8846,ms,cpu service time avg
+8847,ms,cpu service time
+8848,ms,cpu service time
+8849,ms,cpu service time
+8850,ms,cpu service time
+8851,ms,cpu service time
+8852,ms,cpu service time
+8853,ms,cpu service time
+8854,ms,cpu service time
+8855,ms,cpu service time
+8856,ms,cpu service time
+8857,ms,cpu service time
+8858,ms,cpu service time
+8859,ms,cpu service time
+8860,ms,cpu service time
+8861,ms,cpu service time
+8862,ms,cpu service time avg
+8863,ms,cpu service time
+8864,ms,cpu service time
+8865,ms,cpu service time
+8866,ms,cpu service time
+8867,ms,cpu service time
+8868,ms,cpu service time avg
+8869,ms,cpu service time
+8870,ms,cpu service time
+8871,ms,elapsed time
+8872,ms,cpu service time
+8873,ms,cpu service time avg
+8874,ms,cpu service time avg
+8875,ms,cpu service time avg
+8876,ms,cpu service time
+8877,ms,cpu service time
+8878,ms,cpu service time
+8879,ms,cpu service time
+8880,ms,cpu service time
+8881,ms,elapsed time
+8882,ms,cpu service time
+8883,ms,cpu service time avg
+8884,ms,cpu service time
+8885,ms,cpu service time
+8886,ms,cpu service time
+8887,ms,cpu service time
+8888,ms,cpu service time avg
+8889,ms,cpu service time
+8890,ms,cpu service time
+8891,ms,cpu service time
+8892,ms,cpu service time
+8893,ms,cpu service time avg
+8894,ms,cpu service time
+8895,ms,cpu service time avg
+8896,ms,cpu service time avg
+8897,ms,cpu service time avg
+8898,ms,cpu service time
+8899,ms,elapsed time
+8900,ms,cpu service time avg
+8901,ms,cpu service time
+8902,ms,cpu service time
+8903,ms,cpu service time
+8904,ms,cpu service time
+8905,ms,cpu service time avg
+8906,ms,cpu service time avg
+8907,ms,cpu service time avg
+8908,ms,cpu service time avg
+8909,ms,cpu service time
+8910,ms,elapsed time
+8911,ms,cpu service time
+8912,ms,cpu service time
+8913,ms,cpu service time avg
+8914,ms,cpu service time
+8915,ms,cpu service time avg
+8916,ms,cpu service time
+8917,ms,cpu service time
+8918,ms,cpu service time
+8919,ms,cpu service time
+8920,ms,cpu service time
+8921,ms,cpu service time
+8922,ms,cpu service time
+8923,ms,cpu service time
+8924,ms,cpu service time
+8925,ms,elapsed time
+8926,ms,cpu service time
+8927,ms,cpu service time
+8928,ms,cpu service time
+8929,ms,cpu service time
+8981,ms,cpu service time
+8982,ms,cpu service time
+8983,ms,cpu service time
+8984,ms,cpu service time
+8986,ms,cpu service time
+8987,ms,cpu service time
+8988,ms,cpu service time
+8989,ms,cpu service time
+8990,ms,cpu service time
+8991,ms,cpu service time
+8992,ms,cpu service time
+8993,ms,cpu service time
+8994,ms,cpu service time
+8995,ms,cpu service time
+8996,ms,cpu service time
+8997,ms,cpu service time
+8998,ms,cpu service time
+8999,ms,cpu service time
+9000,ms,cpu service time
+9001,ms,cpu service time
+9002,ms,cpu service time
+9003,ms,cpu service time
+9004,ms,cpu service time
+9005,ms,cpu service time
+9006,ms,cpu service time
+9007,ms,cpu service time
+9008,ms,cpu service time
+9009,ms,cpu service time
+9010,ms,cpu service time
+9011,ms,cpu service time
+9012,ms,cpu service time
+9013,ms,cpu service time
+9014,ms,cpu service time avg
+9015,ms,cpu service time avg
+9016,ms,cpu service time
+9129,ms,cpu service time
+9132,ms,cpu service time
+9133,ms,cpu service time
+9134,ms,cpu service time
+9135,ms,cpu service time
+9136,ms,cpu service time
+9137,ms,cpu service time
+9138,ms,cpu service time
+9139,ms,cpu service time
+9140,ms,elapsed time
+9141,ms,elapsed time
+9142,ms,elapsed time
+9143,ms,elapsed time
+9145,ms,elapsed time
+9146,ms,elapsed time
+9147,ms,elapsed time
+9148,s,elapsed_time_by_kernel
+9149,ms,cpu service time
+9150,ms,cpu service time
+9151,ms,cpu service time
+9152,ms,cpu service time
+9153,ms,cpu service time
+9154,ms,cpu service time
+9155,ms,cpu service time
+9156,ms,cpu service time
+9157,ms,cpu service time
+9158,ms,cpu service time
+9159,ms,cpu service time
+9160,ms,cpu service time
+9161,ms,cpu service time
+9162,ms,cpu service time
+9163,ms,cpu service time
+9164,ms,cpu service time
+9165,ms,cpu service time
+9166,ms,elapsed time
+9167,ms,cpu service time
+9168,ms,cpu service time
+9169,ms,cpu service time
+9170,ms,cpu service time
+9171,ms,cpu service time
+9172,ms,cpu service time
+9173,ms,cpu service time
+9174,ms,cpu service time
+9175,ms,cpu service time
+9176,ms,cpu service time
+9177,ms,cpu service time
+9178,ms,cpu service time avg
+9179,ms,elapsed time
+9180,ms,cpu service time
+9181,ms,cpu service time
+9182,ms,cpu service time avg
+9183,ms,cpu service time
+9184,ms,cpu service time
+9185,ms,cpu service time
+9186,ms,elapsed time
+9187,ms,cpu service time
+9188,ms,cpu service time
+9189,ms,cpu service time avg
+9190,ms,cpu service time avg
+9191,ms,cpu service time
+9192,ms,cpu service time
+9193,ms,elapsed time
+9194,ms,cpu service time
+9195,ms,cpu service time
+9196,ms,cpu service time
+9197,ms,cpu service time
+9198,ms,cpu service time
+9199,ms,cpu service time
+9200,ms,cpu service time
+9201,ms,cpu service time
+9202,ms,cpu service time
+9203,ms,cpu service time
+9204,ms,cpu service time
+9205,ms,cpu service time
+9207,ms,cpu service time
+9209,ms,cpu service time
+9210,ms,cpu service time
+9211,ms,cpu service time
+9212,ms,elapsed time
+9213,s,elapsed_time_by_kernel
+9214,ms,cpu service time
+9216,ms,cpu service time
+9217,ms,cpu service time
+9219,ms,cpu service time
+9220,ms,cpu service time
+9221,ms,cpu service time
+9222,ms,cpu service time
+9224,ms,cpu service time
+9225,ms,cpu service time
+9226,ms,cpu service time
+9227,ms,elapsed time
+9228,ms,cpu service time
+9229,ms,cpu service time
+9230,ms,cpu service time
+9231,ms,cpu service time
+9232,ms,cpu service time
+9233,ms,cpu service time
+9234,ms,cpu service time
+9235,ms,cpu service time
+9236,ms,cpu service time
+9237,ms,cpu service time
+9238,ms,cpu service time
+9239,ms,cpu service time
+9240,ms,rates table build time
+9241,ms,elapsed time
+9242,ms,elapsed time
+9243,ms,cpu service time
+9244,ms,cpu service time
+9245,ms,cpu service time
+9246,ms,cpu service time
+9248,ms,cpu service time avg
+9249,ms,cpu service time avg
+9250,ms,cpu service time avg
+9251,ms,cpu service time avg
+9252,ms,cpu service time avg
+9253,ms,cpu service time
+9254,ms,cpu service time
+9255,ms,cpu service time
+9256,ms,cpu service time
+9257,ms,cpu service time
+9259,ms,cpu service time
+9260,ms,cpu service time
+9261,ms,cpu service time
+9262,ms,cpu service time
+9263,ms,cpu service time
+9264,ms,cpu service time
+9265,ms,cpu service time
+9266,ms,elapsed time
+9267,ms,cpu service time
+9268,ms,cpu service time
+9270,ms,cpu service time
+9271,ms,cpu service time
+9274,ms,elapsed time
+9275,ms,elapsed time
+9276,ms,cpu service time
+9277,ms,cpu service time
+9278,ms,cpu service time
+9279,ms,cpu service time
+9281,ms,cpu service time avg
+9282,ms,cpu service time avg
+9283,s,elapsed_time_by_kernel
+9284,ms,cpu service time
+9285,ms,cpu service time
+9286,ms,cpu service time
+9287,ms,cpu service time
+9288,ms,cpu service time
+9289,ms,cpu service time
+9290,ms,cpu service time
+9292,ms,cpu service time
+9293,ms,cpu service time
+9294,ms,cpu service time
+9295,ms,elapsed time
+9296,ms,cpu service time
+9297,ms,cpu service time
+9298,ms,cpu service time
+9299,ms,cpu service time
+9300,ms,cpu service time
+9301,ms,cpu service time
+9302,ms,cpu service time
+9303,ms,cpu service time
+9304,ms,cpu service time
+9305,ms,cpu service time
+9306,ms,cpu service time
+9307,ms,cpu service time
+9308,ms,cpu service time
+9309,ms,cpu service time
+9310,ms,cpu service time
+9311,ms,cpu service time
+9312,ms,cpu service time
+9313,ms,cpu service time
+9315,s,elapsed_time_by_kernel
+9316,ms,cpu service time
+9317,ms,cpu service time
+9318,ms,cpu service time
+9320,ms,cpu service time
+9321,ms,cpu service time
+9322,ms,elapsed time
+9323,ms,cpu service time
+9324,ms,cpu service time
+9325,ms,cpu service time
+9326,ms,cpu service time
+9327,ms,cpu service time
+9328,ms,cpu service time
+9329,ms,cpu service time
+9330,ms,cpu service time
+9332,ms,cpu service time
+9333,ms,cpu service time
+9334,ms,cpu service time
+9335,ms,cpu service time
+9336,ms,cpu service time
+9337,ms,cpu service time
+9339,ms,cpu service time
+9340,ms,cpu service time
+9341,ms,cpu service time
+9342,ms,cpu service time
+9344,s,elapsed_time_by_kernel
+9345,s,elapsed_time_by_kernel
+9346,ms,cpu service time avg
+9347,ms,conversion time
+9348,ms,cpu service time
+9350,ms,cpu service time
+9351,ms,cpu service time
+9352,ms,cpu service time
+9353,ms,cpu service time
+9354,ms,cpu service time
+9355,ms,cpu service time
+9356,ms,cpu service time
+9357,ms,cpu service time
+9358,ms,cpu service time
+9359,ms,cpu service time
+9360,ms,cpu service time
+9362,ms,cpu service time
+9363,ms,cpu service time
+9364,ms,cpu service time
+9365,ms,cpu service time
+9367,ms,cpu service time
+9369,ms,cpu service time
+9370,ms,cpu service time
+9371,ms,cpu service time
+9372,ms,cpu service time
+9373,ms,cpu service time
+9374,ms,cpu service time
+9375,ms,cpu service time
+9376,ms,cpu service time avg
+9378,ms,cpu service time
+9379,ms,cpu service time avg
+9381,ms,cpu service time
+9383,ms,cpu service time
+9384,ms,cpu service time avg
+9385,ms,cpu service time avg
+9386,ms,cpu service time avg
+9388,ms,cpu service time
+9389,ms,cpu service time
+9391,ms,cpu service time
+9392,ms,cpu service time
+9393,ms,cpu service time
+9394,ms,cpu service time
+9395,ms,cpu service time
+9396,ms,cpu service time
+9397,ms,cpu service time avg
+9398,ms,cpu service time
+9399,ms,cpu service time
+9401,ms,cpu service time
+9407,ms,cpu service time
+9408,ms,cpu service time
+9409,ms,cpu service time
+9411,ms,cpu service time
+9412,ms,cpu service time
+9414,ms,cpu service time
+9415,ms,cpu service time
+9417,ms,cpu service time
+9418,ms,cpu service time
+9419,ms,cpu service time
+9420,ms,cpu service time
+9421,ms,cpu service time
+9427,ms,cpu service time
+9433,ms,cpu service time avg
+9434,ms,cpu service time avg
+9438,ms,cpu service time
+9440,ms,cpu service time
+9443,ms,cpu service time
+9444,ms,elapsed time
+9446,ms,cpu service time avg
+9447,ms,cpu service time avg
+9450,ms,cpu service time avg
+9451,ms,cpu service time
+9452,ms,cpu service time
+9453,ms,cpu service time
+9457,ms,cpu service time
+9458,ms,cpu service time
+9459,ms,cpu service time
+9460,ms,cpu service time
+9461,ms,cpu service time
+9463,ms,cpu service time
+9466,ms,cpu service time avg
+9467,ms,cpu service time
+9468,ms,cpu service time
+9475,ms,cpu service time
+9476,ms,cpu service time
+9721,ms,elapsed time
+9726,ms,cpu service time
+9728,ms,cpu service time
+9729,ms,cpu service time
+9730,ms,cpu service time
+9731,ms,cpu service time
+9734,ms,cpu service time avg
+9735,ms,cpu service time avg
+9736,ms,cpu service time
+9737,ms,cpu service time
+9738,ms,elapsed time
+9739,ms,cpu service time
+9740,ms,cpu service time
+9741,ms,cpu service time
+9743,ms,elapsed time
+9744,ms,elapsed time
+9745,ms,elapsed time
+9746,ms,elapsed time
+9748,ms,cpu service time
+9752,ms,cpu service time
+9753,ms,cpu service time
+9757,ms,cpu service time avg
+9758,ms,elapsed time
+9759,ms,elapsed time
+9760,ms,elapsed time
+9765,ms,elapsed time
+9768,ms,elapsed time
+9769,ms,elapsed time
+9770,ms,elapsed time
+9771,ms,elapsed time
+9772,ms,elapsed time
+9773,ms,elapsed time
+9774,ms,elapsed time
+9775,ms,elapsed time
+9776,ms,elapsed time
+9777,ms,elapsed time
+9778,ms,elapsed time
+9779,ms,elapsed time
+9780,ms,elapsed time
+9781,ms,elapsed time
+9782,ms,cpu service time
+9783,ms,cpu service time
+9784,ms,cpu service time
+9785,ms,cpu service time
+9786,ms,cpu service time
+9787,ms,cpu service time
+9788,ms,input dictionaries creation time
+9789,ms,cpu service time
+9790,ms,cpu service time
+9791,ms,elapsed time
+9792,ms,cpu service time
+9793,ms,cpu service time
+9794,ms,cpu service time avg
+9795,ms,cpu service time avg
+9796,ms,cpu service time avg
+9797,ms,cpu service time avg
+9798,ms,cpu service time avg
+9799,ms,elapsed time
+9800,ms,cpu service time
+9801,ms,elapsed time
+9802,ms,cpu service time avg
+9803,ms,cpu service time avg
+9804,ms,cpu service time avg
+9806,ms,cpu service time avg
+9808,ms,elapsed time
+9809,ms,elapsed time
+9810,ms,elapsed time
+9811,ms,elapsed time
+9812,ms,cpu service time
+9813,ms,cpu service time
+9814,ms,cpu service time
+9815,ms,cpu service time
+9817,ms,cpu service time
+9819,ms,cpu service time
+9821,ms,cpu service time
+9822,ms,cpu service time
+9825,ms,cpu service time
+9827,ms,cpu service time
+9828,ms,cpu service time
+9829,ms,cpu service time
+9830,ms,cpu service time
+9831,ms,elapsed time
+9832,ms,elapsed time
+9833,ms,elapsed time
+9834,ms,conversion time
+9835,ms,elapsed time
+9836,ms,elapsed time
+9837,ms,cpu service time
+9846,ms,cpu service time
+9851,ms,cpu service time
+9852,ms,cpu service time
+9853,ms,cpu service time
+9854,ms,cpu service time
+9855,ms,cpu service time
+9856,ms,cpu service time
+9864,ms,elapsed time
+9865,ms,elapsed time
+9866,ms,elapsed time
+9867,ms,elapsed time
+9893,ms,cpu service time
+9900,ms,cpu service time
+9903,ms,cpu service time
+9908,ms,elapsed time
+9909,ms,elapsed time
+9910,ms,elapsed time
+9911,ms,elapsed time
+9913,ms,elapsed time
+9954,ms,elapsed time
+9955,ms,elapsed time
+9959,ms,elapsed time
+9960,count,numcollisions
+9961,count,numcollisions
+9962,ms,elapsed time
+9963,ms,elapsed time
+9964,items per second,items per second
+9965,ms,elapsed time
+9966,items per second,items per second
+9974,ms,cpu time
+9975,ms,elapsed time
+9977,ms,cpu service time avg
+9978,ms,cpu service time avg
+9979,ms,cpu service time avg
+9981,ms,cpu service time
+9983,ms,cpu service time
+10005,ms,elapsed time
+10006,ms,elapsed time
+10007,ms,elapsed time
+10008,ms,elapsed time
+10009,ms,elapsed time
+10010,ms,elapsed time
+10011,ms,elapsed time
+10012,ms,cpu time
+10014,ms,elapsed time
+10015,ms,elapsed time
+10016,ms,elapsed time
+10017,ms,elapsed time
+10018,ms,elapsed time
+10019,ms,elapsed time
+10020,ms,elapsed time
+10021,ms,elapsed time
+10022,ms,elapsed time
+10023,ms,elapsed time
+10024,ms,elapsed time
+10029,ms,cpu time
+10030,s,cpu time
+10052,ms,elapsed time
+10053,ms,elapsed time
+10054,ms,elapsed time
+10055,ms,elapsed time
+10056,ms,elapsed time
+10057,ms,elapsed time
+10058,ms,elapsed time
+10080,ms,elapsed time
+10365,ms,elapsed time / query
+10366,ms,elapsed time
+10367,ms,elapsed time
+10368,ms,elapsed time
+10369,ms,elapsed time
+10370,ms,elapsed time avg
+10371,ms,cpu service time
+10372,ms,cpu service time
+10373,ms,cpu time
+10374,ms,cpu time
+10375,ms,cpu service time
+10376,ms,cpu service time
+10377,ms,elapsed time avg
+10378,ms,cpu service time
+10381,ms,elapsed time
+10382,ms,cpu service time avg
+10383,ms,cpu time
+10384,ms,cpu time
+10385,ms,cpu time
+10386,ms,cpu time
+10387,ms,cpu time
+10388,ms,cpu service time
+10389,ms,cpu service time
+10390,ms,elapsed time
+10391,ms,elapsed time
+10392,ms,elapsed time
+10393,ms,elapsed time
+10394,ms,elapsed time
+10395,s,elapsed_time_by_kernel
+10396,ms,elapsed time
+10397,ms,elapsed time
+10398,ms,elapsed time
+10399,ms,elapsed time
+10400,ms,elapsed time
+10401,ms,elapsed time
+10402,ms,elapsed time
+10404,ms,elapsed time
+10693,ms,cpu time
+10694,ms,cpu service time avg
+10695,s,blocking time
+10696,ms,cpu time
+10697,ms,cpu time
+10698,ms,cpu service time
+10699,ms,elapsed time
+10700,ms,elapsed time
+10701,ms,elapsed time
+10702,ms,elapsed time
+10703,ms,elapsed time
+10704,ms,elapsed time
+10705,ms,elapsed time
+10706,ms,elapsed time
+10707,ms,elapsed time
+10708,ms,elapsed time
+10709,ms,elapsed time
+10710,ms,elapsed time
+10711,ms,elapsed time
+10712,ms,elapsed time
+10713,ms,elapsed time
+10714,ms,elapsed time
+10715,ms,elapsed time
+10716,ms,elapsed time
+10717,ms,cpu service time
+10718,ms,cpu service time
+10719,ms,elapsed time
+10720,ms,cpu service time
+10721,s,elapsed time
+10730,ms,elapsed time
+10770,ms,elapsed time
+10925,ms,elapsed time
+10926,ms,elapsed time
+10927,s,cpu time
+10928,s,cpu time
+10929,s,cpu time
+10939,s,cpu time
+10940,s,cpu time
+10941,s,cpu time
+10942,s,elapsed time
+10943,s,cpu time
+10944,s,cpu time
+10945,s,cpu time
+10946,s,cpu time
+10947,s,cpu time
+10948,s,cpu time
+10949,s,cpu time
+10950,s,cpu time
+10951,s,elapsed time
+10952,s,cpu time
+10953,s,elapsed time
+10954,s,elapsed time
+10955,s,cpu time
+10956,s,elapsed time
+10957,s,cpu time
+10958,s,elapsed time
+10959,s,cpu time
+10960,s,elapsed time
+10961,s,elapsed time
+9967,SAPS,total dialogue steps per minute
+9968,ms,avg. dia db req. time
+9969,ms,avg. upd db req. time
+9970,ms,avg. up2 db req. time
+9971,logwrites,log write rate
+9972,statements,capture statement count
+9973,ms,avg. dialogue step time
+9976,ms,cpu service time
+9982,ms,cpu service time
+9984,ms,cpu service time
+9985,ms,cpu service time
+9986,ms,cpu service time
+9987,ms,cpu service time
+9988,ms,cpu service time
+9989,ms,cpu service time
+9990,ms,cpu service time
+9991,ms,cpu service time
+9992,ms,cpu service time
+9993,ms,cpu service time
+9994,ms,cpu service time
+9995,ms,cpu service time
+9996,ms,cpu service time
+9997,ms,cpu service time
+9998,ms,cpu service time
+9999,ms,cpu service time
+10000,ms,cpu service time
+10001,ms,cpu service time
+10002,ms,cpu service time
+10003,ms,cpu service time
+10004,ms,cpu service time
+10059,ms,cpu service time
+10060,ms,cpu service time
+10062,ms,cpu service time
+10063,ms,elapsed time
+10064,ms,elapsed time
+10065,ms,cpu service time
+10066,ms,cpu service time
+10067,ms,elapsed time
+10068,ms,cpu service time
+10069,ms,elapsed time
+10070,ms,cpu service time
+10071,ms,elapsed time
+10072,ms,cpu service time
+10073,ms,elapsed time
+10074,ms,cpu service time
+10075,ms,elapsed time
+10076,s,elapsed time
+10077,ms,cpu time
+10078,s,elapsed time
+10079,ms,cpu time
+10316,ms,elapsed time
+10317,ms,elapsed time
+10318,ms,elapsed time
+10319,ms,elapsed time
+10320,ms,elapsed time
+10321,ms,cpu service time
+10322,ms,elapsed time
+10323,ms,elapsed time
+10324,ms,elapsed time
+10325,ms,cpu service time
+10326,ms,elapsed time
+10327,ms,cpu service time
+10328,ms,elapsed time
+10329,ms,elapsed time
+10330,ms,elapsed time
+10331,ms,elapsed time
+10332,ms,elapsed time
+10333,ms,elapsed time
+10334,ms,elapsed time
+10335,ms,elapsed time
+10336,ms,elapsed time
+10337,ms,elapsed time
+10338,ms,elapsed time
+10339,ms,elapsed time
+10340,ms,elapsed time
+10341,ms,elapsed time
+10342,ms,elapsed time
+10343,ms,cpu service time
+10344,ms,elapsed time
+10345,ms,elapsed time
+10346,ms,elapsed time
+10347,ms,elapsed time
+10348,ms,elapsed time
+10349,ms,cpu service time
+10350,ms,elapsed time
+10379,ms,elapsed time
+10380,ms,cpu service time
+10447,ms,elapsed time
+10448,ms,elapsed time
+10449,ms,elapsed time
+10450,ms,elapsed time
+10451,ms,elapsed time
+10452,ms,elapsed time
+10453,ms,elapsed time
+10454,ms,elapsed time
+10455,ms,elapsed time
+10456,ms,elapsed time
+10457,ms,elapsed time
+10458,ms,elapsed time
+10459,ms,cpu service time avg
+10460,ms,elapsed time avg
+10461,ms,cpu service time avg
+10462,ms,elapsed time avg
+10463,ms,cpu service time avg
+10464,ms,elapsed time avg
+10465,ms,cpu service time avg
+10466,ms,elapsed time avg
+10467,ms,cpu service time avg
+10468,ms,elapsed time avg
+10469,ms,cpu service time avg
+10470,ms,elapsed time avg
+10471,ms,cpu service time avg
+10472,ms,elapsed time avg
+10473,ms,cpu service time avg
+10474,ms,elapsed time avg
+10475,ms,cpu service time avg
+10476,ms,elapsed time avg
+10477,ms,cpu service time avg
+10478,ms,elapsed time avg
+10479,ms,cpu service time avg
+10480,ms,elapsed time avg
+10481,ms,cpu service time avg
+10482,ms,elapsed time avg
+10483,ms,cpu service time avg
+10484,ms,elapsed time avg
+10485,ms,cpu service time avg
+10486,ms,elapsed time avg
+10487,ms,cpu service time avg
+10488,ms,elapsed time avg
+10489,ms,cpu service time avg
+10490,ms,elapsed time avg
+10491,ms,cpu service time avg
+10492,ms,elapsed time avg
+10493,ms,cpu service time avg
+10494,ms,elapsed time avg
+10495,ms,cpu service time avg
+10496,ms,elapsed time avg
+10497,ms,cpu service time avg
+10498,ms,elapsed time avg
+10499,ms,cpu service time avg
+10500,ms,elapsed time avg
+10501,ms,cpu service time avg
+10502,ms,elapsed time avg
+10503,ms,cpu service time avg
+10504,ms,elapsed time avg
+10505,ms,cpu service time avg
+10506,ms,elapsed time avg
+10507,ms,cpu service time avg
+10508,ms,elapsed time avg
+10509,ms,cpu service time avg
+10510,ms,elapsed time avg
+10511,ms,cpu service time avg
+10512,ms,elapsed time avg
+10513,ms,cpu service time avg
+10514,ms,elapsed time avg
+10515,ms,cpu service time avg
+10516,ms,elapsed time avg
+10517,ms,cpu service time avg
+10518,ms,elapsed time avg
+10519,ms,cpu service time avg
+10520,ms,elapsed time avg
+10521,ms,cpu service time avg
+10522,ms,elapsed time avg
+10523,ms,cpu service time avg
+10524,ms,elapsed time avg
+10525,ms,cpu service time avg
+10526,ms,elapsed time avg
+10527,ms,cpu service time avg
+10528,ms,elapsed time avg
+10529,ms,cpu service time avg
+10530,ms,elapsed time avg
+10531,ms,elapsed time
+10532,ms,elapsed time
+10533,ms,elapsed time
+10534,ms,elapsed time
+10535,ms,elapsed time
+10536,ms,elapsed time
+10537,ms,elapsed time
+10538,ms,elapsed time
+10539,ms,elapsed time
+10540,ms,elapsed time
+10541,ms,elapsed time
+10542,ms,elapsed time
+10543,ms,elapsed time
+10544,ms,elapsed time
+10545,ms,elapsed time
+10546,ms,elapsed time
+10222,ms,cpu service time avg
+10223,ms,elapsed time avg
+10224,ms,cpu service time avg
+10225,ms,elapsed time avg
+10732,ms,elapsed time
+10733,ms,cpu service time
+10734,ms,elapsed time
+10735,ms,cpu service time
+10736,ms,elapsed time
+10737,ms,cpu service time
+10738,ms,elapsed time
+10739,ms,cpu service time
+10740,ms,elapsed time
+10741,ms,cpu service time
+10742,ms,elapsed time
+10743,ms,cpu service time
+10744,ms,elapsed time
+10745,ms,cpu time
+10771,ms,elapsed time
+10778,ms,elapsed time
+10779,ms,cpu service time
+10780,ms,elapsed time
+10781,ms,elapsed time
+10782,ms,cpu service time
+10783,ms,elapsed time
+10784,ms,elapsed time
+10785,ms,cpu service time
+10786,ms,elapsed time
+10787,ms,cpu service time
+10788,ms,elapsed time
+10789,ms,cpu service time
+10790,ms,elapsed time
+10791,ms,cpu service time
+10792,ms,elapsed time
+10793,ms,cpu service time
+10794,ms,elapsed time
+10795,ms,cpu service time
+10796,ms,elapsed time
+10797,ms,cpu service time
+10798,ms,elapsed time
+10799,ms,cpu service time
+10800,ms,elapsed time
+10801,ms,cpu service time
+10802,ms,elapsed time
+10803,ms,cpu service time
+10804,ms,elapsed time
+10805,ms,cpu service time
+10806,ms,cpu service time
+10807,ms,cpu service time
+10808,ms,elapsed time
+10809,ms,elapsed time
+10810,ms,elapsed time
+10811,ms,cpu service time
+10812,ms,elapsed time
+10813,ms,cpu service time
+10814,ms,elapsed time
+10815,ms,cpu service time
+10816,ms,elapsed time
+10817,ms,cpu service time
+10818,ms,elapsed time
+10819,ms,cpu service time
+10820,ms,elapsed time
+10821,ms,cpu service time
+10822,ms,elapsed time
+10823,ms,cpu service time
+10824,ms,elapsed time
+10825,ms,cpu service time
+10826,ms,elapsed time
+10827,ms,cpu service time
+10828,ms,elapsed time
+10829,ms,cpu service time
+10830,ms,elapsed time
+10831,ms,cpu service time
+10832,ms,elapsed time
+10833,ms,cpu service time
+10834,ms,elapsed time
+10835,ms,cpu service time
+10836,ms,elapsed time
+10837,ms,cpu service time
+10838,ms,elapsed time
+10839,ms,cpu service time
+10840,ms,elapsed time
+10841,ms,cpu service time
+10842,ms,elapsed time
+10843,ms,cpu service time
+10844,ms,elapsed time
+10845,ms,cpu service time
+10846,ms,elapsed time
+10847,ms,cpu service time
+10848,ms,elapsed time
+10849,ms,cpu service time
+10850,ms,elapsed time
+10851,ms,cpu service time
+10852,ms,elapsed time
+10853,ms,cpu service time
+10854,ms,elapsed time
+10855,ms,cpu service time
+10856,ms,elapsed time
+10857,ms,cpu service time
+10858,ms,elapsed time
+10859,ms,cpu service time
+10869,ms,cpu service time
+10870,ms,cpu service time
+10924,ms,elapsed time
+10930,ms,elapsed time
+10931,ms,elapsed time
+10932,ms,cpu service time
+10933,ms,elapsed time avg
+10934,ms,cpu service time avg
+10935,ms,elapsed time avg
+10936,ms,cpu service time avg
+10937,ms,elapsed time
+10938,ms,cpu service time
+10989,s,stopwatch
+10990,s,stopwatch

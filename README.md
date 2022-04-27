@@ -2,18 +2,22 @@
 
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP/performance-regression-data-set)](https://api.reuse.software/info/github.com/SAP/performance-regression-data-set)
 
-A table of contents is provided by github directly (click on the
+Note that github provides a table of content (TOC) directly by clicking on the
 ![list](https://raw.githubusercontent.com/primer/octicons/6933ac32f87a2cb5efda4fb74b39d1e6199134ce/icons/list-unordered-24.svg)
-icon in front of README.md)
+icon in front of README.md
 
 This repository provides data sets on performance measurements to support
 research on performance regression detection.
 
 Available data sets:
 
-1) small
-    - A small data set from SAP HANA internal testing to explore the data format
+1) HANA
+    1) small 2021
+        - A small data set from SAP HANA internal testing to explore the data format
+	2) large 2022
+	    - A rather large data set from SAP HANA internal testing that represent half a year of performance measurements
 
+The directories of the data sets provide further details.
 
 ## On (automated) performance regression detection
 
@@ -169,6 +173,7 @@ Examples for citations
 
 - Thomas Bach, Pal Lv, Minh Le. "Performance Regression Data Set"
   - Venue will be added if it exists.
+  - keys to refer to a specific data set will be added if the content is finalized
 - Biblatex via CITATION.cff file (rendered in github)
 
 Please inform use via issue or email if you use this data set so we can provide

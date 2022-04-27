@@ -1,0 +1,84 @@
+,actions/(sec*threads),commits,count,DMLs,items per second,logwrites,LPS,ms,percent,RPS,s,SAPS,statements,TPS,trans/min,us,sum
+TPS,0,0,0,0,0,0,0,0,0,0,4,0,0,27,0,0,31
+atr_cpu_by_mon,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+atr_delete_retry_count,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+atr_elapsed_time,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2
+atr_elapsed_time_by_mon,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2
+atr_insert_retry_count,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+atr_total_retry_count,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+atr_update_retry_count,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+average commit duration,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,72,72
+average runtime,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,16
+avg cpu time,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,10
+avg dml count,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,10
+avg elapsed time,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,10
+avg. dia db req. time,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,17
+avg. dia wait req. time,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,10
+avg. dialogue step time,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,17
+avg. lookup time,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,7
+avg. up2 db req. time,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,17
+avg. up2 wait req. time,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,10
+avg. upd db req. time,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,17
+avg. upd wait req. time,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,10
+avg_commit_duration,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,18
+avg_propagation_delay,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,12
+blocking time,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,16
+capture statement count,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,7
+commit rate,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+compilation time,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+conversion time,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+cou time,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+cpu service milliseconds per request,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,7
+cpu service time,0,0,0,0,0,0,0,1035,0,0,0,0,0,0,0,0,1035
+cpu service time avg,0,0,0,0,0,0,0,388,0,0,0,0,0,0,0,0,388
+cpu time,0,0,0,0,0,0,0,1105,0,0,270,0,0,0,0,0,1375
+cpu time/query,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0,24
+cpu utilization,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+elapsed time,0,0,0,0,0,0,0,2508,0,0,688,0,0,0,0,0,3196
+elapsed time (cpu normalized),0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0,24
+elapsed time / iteration,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,12
+elapsed time / query,0,0,0,0,0,0,0,202,0,0,0,0,0,0,0,0,202
+elapsed time avg,0,0,0,0,0,0,0,418,0,0,0,0,0,0,0,0,418
+elapsed time per insert query,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+elapsed time/query,0,0,0,0,0,0,0,74,0,0,0,0,0,0,0,0,74
+elapsed_time_by_kernel,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,10
+execution time,0,0,0,0,0,0,0,46,0,0,0,0,0,0,0,0,46
+i/o time,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,8
+input dictionaries creation time,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+items per second,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,14
+log write rate,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,9
+lps,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2
+max dml count,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,10
+merge actions,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+min dml count,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2
+min elapsed time delta,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+numcollisions,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+parallelism,0,0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,23
+query cpu runtime,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,5
+query runtime,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,4
+rates table build time,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+response time,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,10
+rps,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,10
+runtime,0,0,0,0,0,0,0,0,0,0,41,0,0,0,0,8,49
+search actions,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+stopwatch,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,6
+sum of average execution time from all processes,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,4
+sum of cpu time from all processes,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,11
+sum of lookup time from all processes,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,10
+sum of scan time from all processes,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+testjoinrepeated,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,6
+testjoinsimple,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,6
+testjoinstringrepeated,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,6
+testjoinstringsimple,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,6
+throughput,0,0,0,0,0,0,0,0,0,0,0,0,0,72,0,0,72
+time,0,0,0,0,0,0,0,10,0,0,2,0,0,0,0,0,12
+total cpu time,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+total dialogue steps per minute,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,17
+total dml count,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,10
+total elapsed total time,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+total lock wait time,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,4
+total number of updates,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+tpmc,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,6
+tps ratio,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,4
+write actions,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+sum,28,10,37,32,14,9,2,6078,1,10,1072,17,7,99,6,100,7522
