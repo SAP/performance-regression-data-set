@@ -27,7 +27,6 @@ units top 50 of 16
     ('LPS', 8560)
     ('percent', 2496)
 
-
 ### category
 
 category top 100 of 82
@@ -115,11 +114,10 @@ category top 100 of 82
     ('sum of scan time from all processes', 4566)
     ('cpu utilization', 2496)
 
-
 ## matrix (unit x category) with frequency
 
-Pivot by columns (unit,category) in metadata.csv
-or look at matrix csv files that have values:
+Pivot by columns (unit,category) in metadata.csv.
+Or look at matrix csv files that have values:
 
 - single: count each series as 1
-- len: count the len of each series
+- len: count the length of each series

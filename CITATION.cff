@@ -1,10 +1,11 @@
 cff-version: 1.2.0
-title: performance regression data set
+title: Performance Regression Data Set
 message: Please cite this data set using these metadata.
 type: dataset
 license: CC-BY-4.0
 repository: https://github.com/SAP/performance-regression-data-set
 url: https://github.com/SAP/performance-regression-data-set
+date-released: 2022
 authors:
   - orcid: 'https://orcid.org/0000-0002-9993-2814'
     given-names: Thomas
