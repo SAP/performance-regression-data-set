@@ -1,0 +1,10 @@
+version = 1
+SPDX-PackageName = "performance-regression-data-set"
+SPDX-PackageSupplier = "Thomas Bach <thomas.bach03@sap.com>"
+SPDX-PackageDownloadLocation = "https://github.com/sap/performance-regression-data-set"
+
+[[annotations]]
+path = "**"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2021,2022 SAP SE or an SAP affiliate company and performance-regression-data-set contributors"
+SPDX-License-Identifier = "CC-BY-4.0"
