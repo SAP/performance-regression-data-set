@@ -163,13 +163,13 @@ Examples for online reference:
 
 Examples for citations
 
-- Thomas Bach, Pal Lv, Minh Le. "Performance Regression Data Set"
-  - Venue will be added if it exists.
-  - keys to refer to a specific data set may be added in the future
-  - Add a date according to your needs
+- Thomas Bach, Pal Lv, Minh Le. "Performance Regression Data Set", https://github.com/SAP/performance-regression-data-set
+  - Venue will be added if it exists. - currently not planned to publish a desciption paper for this data set
+  - keys to refer to a specific data set may be added in the future. For now, one can use small and large. If there are future iterations, then new data set will get distinct names/keys.
+  - Add a date according to your needs.
 - Biblatex via CITATION.cff file (rendered in github)
 
-Please inform use via issue or email if you use this data set.
+Please inform us via issue or email if you use this data set.
 We are happy to link to your work.
 
 ## Background about HANA
