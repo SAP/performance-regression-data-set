@@ -1,3 +1,8 @@
+# Format
+
+1. See [small_2021/README.MD](../../small_2021/README.md) for some general information.
+2. sut_version: Represents a **s**oftware **u**nder **t**est version. Practically, it is a build number. That means rows with the same number represent measurements for the same build. In general, a higher GHC number represents a "later" build. However, the terms "later" may not be well-defined in this context as the underlying git does not represent a linear workflow.
+
 # Statistics for the Time Series
 
 ## time series with most elements
